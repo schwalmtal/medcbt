@@ -1,0 +1,62 @@
+[
+  {
+    "id": "hepatitis",
+    "title": "간염·동물매개바이러스",
+    "icon": "🧬",
+    "count": 100,
+    "color": "#5b5bd6",
+    "file": "questions/hepatitis.json",
+    "category": "바이러스학",
+    "pdf": "slides/hepatitis.pdf"
+  },
+  {
+    "id": "retro",
+    "title": "레트로·종양유발바이러스",
+    "icon": "🧫",
+    "count": 100,
+    "color": "#0f8f78",
+    "file": "questions/retro.json",
+    "category": "바이러스학",
+    "pdf": "slides/retro.pdf"
+  },
+  {
+    "id": "general",
+    "title": "바이러스 구조·증식·제어·헤르페스",
+    "icon": "🔬",
+    "count": 100,
+    "color": "#3974d8",
+    "file": "questions/general.json",
+    "category": "바이러스학",
+    "pdf": "slides/general.pdf"
+  },
+  {
+    "id": "orthomyxo",
+    "title": "인플루엔자·오소믹소바이러스",
+    "icon": "🦠",
+    "count": 100,
+    "color": "#e07a3f",
+    "file": "questions/orthomyxo.json",
+    "category": "바이러스학",
+    "pdf": "slides/orthomyxo.pdf"
+  },
+  {
+    "id": "paramyxo",
+    "title": "파라믹소·루벨라·기타 호흡기바이러스",
+    "icon": "🫁",
+    "count": 100,
+    "color": "#a254c4",
+    "file": "questions/paramyxo.json",
+    "category": "바이러스학",
+    "pdf": "slides/paramyxo.pdf"
+  },
+  {
+    "id": "corona_prion",
+    "title": "코로나바이러스·프리온",
+    "icon": "🧠",
+    "count": 100,
+    "color": "#d34f67",
+    "file": "questions/corona_prion.json",
+    "category": "바이러스학",
+    "pdf": "slides/corona_prion.pdf"
+  }
+]
