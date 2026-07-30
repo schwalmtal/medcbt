@@ -7,7 +7,7 @@
     "color": "#5b5bd6",
     "file": "questions/hepatitis.json",
     "category": "바이러스학",
-    "pdf": "slides/hepatitis.pdf"
+    "slideDir": "slides/hepatitis"
   },
   {
     "id": "retro",
@@ -17,7 +17,7 @@
     "color": "#0f8f78",
     "file": "questions/retro.json",
     "category": "바이러스학",
-    "pdf": "slides/retro.pdf"
+    "slideDir": "slides/retro"
   },
   {
     "id": "general",
@@ -27,7 +27,7 @@
     "color": "#3974d8",
     "file": "questions/general.json",
     "category": "바이러스학",
-    "pdf": "slides/general.pdf"
+    "slideDir": "slides/general"
   },
   {
     "id": "orthomyxo",
@@ -37,7 +37,7 @@
     "color": "#e07a3f",
     "file": "questions/orthomyxo.json",
     "category": "바이러스학",
-    "pdf": "slides/orthomyxo.pdf"
+    "slideDir": "slides/orthomyxo"
   },
   {
     "id": "paramyxo",
@@ -47,7 +47,7 @@
     "color": "#a254c4",
     "file": "questions/paramyxo.json",
     "category": "바이러스학",
-    "pdf": "slides/paramyxo.pdf"
+    "slideDir": "slides/paramyxo"
   },
   {
     "id": "corona_prion",
@@ -57,6 +57,6 @@
     "color": "#d34f67",
     "file": "questions/corona_prion.json",
     "category": "바이러스학",
-    "pdf": "slides/corona_prion.pdf"
+    "slideDir": "slides/corona_prion"
   }
 ]
