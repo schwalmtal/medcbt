@@ -1,9 +1,0 @@
-{
-  "name": "MedBank CBT",
-  "short_name": "MedBank",
-  "start_url": "./",
-  "display": "standalone",
-  "background_color": "#f5f7fb",
-  "theme_color": "#5267df",
-  "icons": []
-}
