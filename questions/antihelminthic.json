@@ -1,0 +1,1336 @@
+[
+  {
+    "type": "mc",
+    "q": "항기생충 약물의 일반적인 작용 원리로 가장 적절한 것은?",
+    "options": [
+      "숙주와 기생충에 공통적인 대사만 강화한다",
+      "기생충에 특이적이거나 숙주와 다른 대사 과정을 방해한다",
+      "숙주의 항체 합성을 직접 억제한다",
+      "기생충의 DNA를 숙주 유전체에 삽입한다"
+    ],
+    "answer": 1,
+    "exp": "항기생충 약물은 사람과 기생충 사이의 대사 차이를 이용해 기생충의 정상 기능을 방해하고 사멸시킨다.",
+    "slide": 2,
+    "id": "antihelminthic-1"
+  },
+  {
+    "type": "ox",
+    "q": "항기생충 약물은 기생충의 정상 기능을 방해하여 사멸을 유도할 수 있다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "exp": "강의안은 정상 기능을 방해함으로써 기생충을 죽이는 작용을 설명한다.",
+    "slide": 2,
+    "id": "antihelminthic-2"
+  },
+  {
+    "type": "mc",
+    "q": "Albendazole의 계열은?",
+    "options": [
+      "Macrolide",
+      "Benzimidazole carbamate",
+      "Organophosphate",
+      "Salicylamide"
+    ],
+    "answer": 1,
+    "exp": "Albendazole은 광범위 benzimidazole carbamate 계열이다.",
+    "slide": 4,
+    "id": "antihelminthic-3"
+  },
+  {
+    "type": "mc",
+    "q": "Albendazole의 주된 작용기전은?",
+    "options": [
+      "칼슘 투과성 증가",
+      "미세소관 합성 억제와 포도당 흡수 억제",
+      "콜린에스터레이스 억제",
+      "산화적 인산화 촉진"
+    ],
+    "answer": 1,
+    "exp": "Albendazole은 선충의 미세소관 합성을 억제하고 미세소관 의존성 포도당 흡수를 차단한다.",
+    "slide": 4,
+    "id": "antihelminthic-4"
+  },
+  {
+    "type": "ox",
+    "q": "Albendazole의 활성 대사체는 albendazole sulfoxide이다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "exp": "Albendazole은 초회통과 대사를 거쳐 활성 대사체 ABZ sulfoxide가 된다.",
+    "slide": 4,
+    "id": "antihelminthic-5"
+  },
+  {
+    "type": "mc",
+    "q": "Albendazole의 조직 내 기생충 감염 치료 시 흡수를 높이는 복용법은?",
+    "options": [
+      "완전 공복",
+      "지방이 많은 식사와 함께",
+      "제산제와 함께",
+      "알칼리성 소변을 유도하며"
+    ],
+    "answer": 1,
+    "exp": "조직 기생충에는 지방식과 함께 복용하면 흡수가 증가한다.",
+    "slide": 5,
+    "id": "antihelminthic-6"
+  },
+  {
+    "type": "mc",
+    "q": "장관 내 기생충을 대상으로 albendazole을 투여할 때 권장되는 상태는?",
+    "options": [
+      "고지방 식사 직후",
+      "공복",
+      "우유와 함께",
+      "cimetidine과 함께"
+    ],
+    "answer": 1,
+    "exp": "장관 내 기생충에는 공복 복용이 제시되어 있다.",
+    "slide": 5,
+    "id": "antihelminthic-7"
+  },
+  {
+    "type": "mc",
+    "q": "신경유구낭미충증에서 albendazole과 함께 사용하는 약물은?",
+    "options": [
+      "항히스타민제",
+      "코르티코스테로이드",
+      "benzodiazepine",
+      "cimetidine"
+    ],
+    "answer": 1,
+    "exp": "죽는 충체로 인한 염증을 줄이기 위해 corticosteroid를 병용한다.",
+    "slide": 5,
+    "id": "antihelminthic-8"
+  },
+  {
+    "type": "ox",
+    "q": "Albendazole 장기 치료 시 혈구 수와 간기능 검사를 추적한다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "exp": "장기 치료에서는 blood count와 liver function study가 필요하다.",
+    "slide": 5,
+    "id": "antihelminthic-9"
+  },
+  {
+    "type": "ox",
+    "q": "Albendazole은 임신 중과 2세 미만에서 적극 권장된다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 1,
+    "exp": "강의안에서는 2세 미만과 임신 중 사용을 권장하지 않는다.",
+    "slide": 5,
+    "id": "antihelminthic-10"
+  },
+  {
+    "type": "mc",
+    "q": "Mebendazole의 경구 흡수율에 대한 설명은?",
+    "options": [
+      "거의 100% 흡수",
+      "10% 미만 흡수",
+      "흡수되지 않고 모두 담즙 배설",
+      "피부로만 흡수"
+    ],
+    "answer": 1,
+    "exp": "Mebendazole은 경구 흡수율이 10% 미만으로 낮다.",
+    "slide": 6,
+    "id": "antihelminthic-11"
+  },
+  {
+    "type": "mc",
+    "q": "Mebendazole의 작용기전은?",
+    "options": [
+      "미세소관 합성 및 포도당 흡수 억제",
+      "GABA 수용체 차단",
+      "칼슘 유출 증가",
+      "엽산 합성 억제"
+    ],
+    "answer": 0,
+    "exp": "Mebendazole도 benzimidazole로 미세소관 합성과 포도당 흡수를 억제한다.",
+    "slide": 6,
+    "id": "antihelminthic-12"
+  },
+  {
+    "type": "ox",
+    "q": "Mebendazole은 씹어서 삼키는 복용법이 제시된다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "exp": "식사 전후 복용 가능하며 씹어서 삼키는 방법이 제시되어 있다.",
+    "slide": 6,
+    "id": "antihelminthic-13"
+  },
+  {
+    "type": "ox",
+    "q": "Mebendazole은 최기형성이 언급되어 있다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "exp": "강의안에 teratogenic이 명시되어 있다.",
+    "slide": 6,
+    "id": "antihelminthic-14"
+  },
+  {
+    "type": "mc",
+    "q": "Mebendazole 사용 시 특히 주의할 환자는?",
+    "options": [
+      "간경변 환자",
+      "갑상선기능저하 환자",
+      "천식 환자",
+      "녹내장 환자"
+    ],
+    "answer": 0,
+    "exp": "간경변 환자에서 주의가 필요하다.",
+    "slide": 6,
+    "id": "antihelminthic-15"
+  },
+  {
+    "type": "mc",
+    "q": "Thiabendazole이 대안으로 쓰일 수 있는 감염 조합은?",
+    "options": [
+      "회선사상충증과 주혈흡충증",
+      "분선충증과 피부유충이행증",
+      "간흡충증과 폐흡충증",
+      "조충증과 포충증"
+    ],
+    "answer": 1,
+    "exp": "Thiabendazole은 ivermectin이나 albendazole의 대안으로 분선충증과 피부유충이행증에 사용될 수 있다.",
+    "slide": 7,
+    "id": "antihelminthic-16"
+  },
+  {
+    "type": "mc",
+    "q": "피부유충이행증에서 국소제로 사용할 수 있는 약물은?",
+    "options": [
+      "Thiabendazole cream",
+      "Praziquantel cream",
+      "DEC cream",
+      "Niclosamide cream"
+    ],
+    "answer": 0,
+    "exp": "Thiabendazole은 피부유충이행증에 크림 형태로 국소 사용될 수 있다.",
+    "slide": 7,
+    "id": "antihelminthic-17"
+  },
+  {
+    "type": "ox",
+    "q": "Thiabendazole은 다른 benzimidazole과 ivermectin보다 독성이 더 적다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 1,
+    "exp": "강의안에서는 오히려 더 독성이 크다고 설명한다.",
+    "slide": 7,
+    "id": "antihelminthic-18"
+  },
+  {
+    "type": "mc",
+    "q": "Fenbendazole의 주된 사용 대상은?",
+    "options": [
+      "사람의 주혈흡충증",
+      "동물용 광범위 구충제",
+      "사람의 말라리아",
+      "사람의 바이러스 감염"
+    ],
+    "answer": 1,
+    "exp": "Fenbendazole은 양, 소, 말, 개, 고양이 등 동물용으로 제시된다.",
+    "slide": 8,
+    "id": "antihelminthic-19"
+  },
+  {
+    "type": "ox",
+    "q": "Fenbendazole의 독성으로 골수억제와 장 crypt cell necrosis가 제시된다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "exp": "강의안에 골수억제, 장 crypt cell necrosis, 원위 융모 탈락이 언급된다.",
+    "slide": 8,
+    "id": "antihelminthic-20"
+  },
+  {
+    "type": "mc",
+    "q": "Diethylcarbamazine(DEC)의 화학적 계열은?",
+    "options": [
+      "Synthetic piperazine derivative",
+      "Isoquinoline-pyrazine derivative",
+      "Benzimidazole carbamate",
+      "Macrocyclic lactone"
+    ],
+    "answer": 0,
+    "exp": "DEC는 합성 piperazine 유도체이다.",
+    "slide": 9,
+    "id": "antihelminthic-21"
+  },
+  {
+    "type": "mc",
+    "q": "DEC의 미세사상충에 대한 작용으로 옳은 것은?",
+    "options": [
+      "아라키돈산 대사를 억제하고 표면 구조를 변화시킨다",
+      "미세소관을 안정화한다",
+      "칼슘 통로를 차단한다",
+      "산화적 인산화를 활성화한다"
+    ],
+    "answer": 0,
+    "exp": "DEC는 미세사상충의 arachidonic acid metabolism을 억제하고 움직임과 표면 구조를 변화시켜 숙주 면역 제거를 돕는다.",
+    "slide": 9,
+    "id": "antihelminthic-22"
+  },
+  {
+    "type": "mc",
+    "q": "DEC의 대표 적응증이 아닌 것은?",
+    "options": [
+      "사상충증",
+      "Loa loa 감염",
+      "열대성 호산구증",
+      "주혈흡충증의 1차 치료"
+    ],
+    "answer": 3,
+    "exp": "DEC는 filariasis, loiasis, tropical eosinophilia 등에 사용된다.",
+    "slide": 9,
+    "id": "antihelminthic-23"
+  },
+  {
+    "type": "ox",
+    "q": "DEC는 식후 복용이 제시된다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "exp": "Clinical uses 항목에 after meals가 제시되어 있다.",
+    "slide": 9,
+    "id": "antihelminthic-24"
+  },
+  {
+    "type": "mc",
+    "q": "DEC의 반감기가 더 길어지는 소변 상태는?",
+    "options": [
+      "산성 소변",
+      "알칼리성 소변",
+      "무색 소변",
+      "농축뇨"
+    ],
+    "answer": 1,
+    "exp": "알칼리성 소변에서 반감기가 약 10시간으로 산성 소변보다 길다.",
+    "slide": 9,
+    "id": "antihelminthic-25"
+  },
+  {
+    "type": "mc",
+    "q": "DEC 치료 중 회선사상충 미세사상충 사멸로 생길 수 있는 염증 반응은?",
+    "options": [
+      "Jarisch-Herxheimer reaction",
+      "Mazotti reaction",
+      "Red man syndrome",
+      "Serotonin syndrome"
+    ],
+    "answer": 1,
+    "exp": "DEC로 미세사상충이 죽으면서 Mazotti reaction이 발생할 수 있다.",
+    "slide": 10,
+    "id": "antihelminthic-26"
+  },
+  {
+    "type": "mc",
+    "q": "Mazotti reaction의 증상 조절에 사용할 수 있는 것은?",
+    "options": [
+      "항히스타민제 또는 aspirin",
+      "naloxone",
+      "vitamin K",
+      "atropine 단독"
+    ],
+    "answer": 0,
+    "exp": "강의안에서는 항히스타민제 또는 aspirin으로 조절한다고 제시한다.",
+    "slide": 10,
+    "id": "antihelminthic-27"
+  },
+  {
+    "type": "ox",
+    "q": "DEC 이상반응은 약물 자체뿐 아니라 죽어가는 기생충 때문에도 발생할 수 있다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "exp": "강의안은 약물 또는 사멸 기생충에 의해 반응이 유발될 수 있다고 설명한다.",
+    "slide": 10,
+    "id": "antihelminthic-28"
+  },
+  {
+    "type": "ox",
+    "q": "DEC는 고혈압이나 신장질환 환자에게 권장된다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 1,
+    "exp": "고혈압 또는 신장질환 환자에게 권장되지 않는다.",
+    "slide": 10,
+    "id": "antihelminthic-29"
+  },
+  {
+    "type": "mc",
+    "q": "DEC의 대체 약물로 강의안에 언급된 것은?",
+    "options": [
+      "Ivermectin",
+      "Metrifonate",
+      "Bithionol",
+      "Oxamniquine"
+    ],
+    "answer": 0,
+    "exp": "DEC의 대체제로 ivermectin이 언급된다.",
+    "slide": 10,
+    "id": "antihelminthic-30"
+  },
+  {
+    "type": "mc",
+    "q": "Ivermectin의 계열은?",
+    "options": [
+      "Semisynthetic macrocyclic lactone",
+      "Salicylamide",
+      "Organophosphate",
+      "Tetrahydropyrimidine"
+    ],
+    "answer": 0,
+    "exp": "Ivermectin은 avermectin B1a와 B1b 혼합물인 반합성 macrocyclic lactone이다.",
+    "slide": 11,
+    "id": "antihelminthic-31"
+  },
+  {
+    "type": "mc",
+    "q": "Ivermectin의 사람에서 투여 경로는?",
+    "options": [
+      "경구",
+      "근육주사만",
+      "정맥주사만",
+      "흡입"
+    ],
+    "answer": 0,
+    "exp": "강의안에서는 사람에게 경구 투여한다고 제시한다.",
+    "slide": 11,
+    "id": "antihelminthic-32"
+  },
+  {
+    "type": "mc",
+    "q": "Ivermectin의 대표 배설 경로는?",
+    "options": [
+      "대변",
+      "소변만",
+      "호기",
+      "땀"
+    ],
+    "answer": 0,
+    "exp": "Ivermectin은 주로 대변으로 배설된다.",
+    "slide": 11,
+    "id": "antihelminthic-33"
+  },
+  {
+    "type": "mc",
+    "q": "Ivermectin의 선택약 적응증 조합은?",
+    "options": [
+      "분선충증과 회선사상충증",
+      "주혈흡충증과 간흡충증",
+      "유구조충증과 포충증",
+      "요충증과 편충증만"
+    ],
+    "answer": 0,
+    "exp": "분선충증과 회선사상충증의 drug of choice로 제시된다.",
+    "slide": 11,
+    "id": "antihelminthic-34"
+  },
+  {
+    "type": "mc",
+    "q": "Ivermectin이 기생충을 마비시키는 주된 표적은?",
+    "options": [
+      "Glutamate-gated chloride channel",
+      "Voltage-gated sodium channel",
+      "Dihydrofolate reductase",
+      "Ergosterol synthesis"
+    ],
+    "answer": 0,
+    "exp": "Glutamate-gated chloride channel에 결합하여 chloride influx를 증가시킨다.",
+    "slide": 11,
+    "id": "antihelminthic-35"
+  },
+  {
+    "type": "ox",
+    "q": "Ivermectin은 말초신경에서 GABA 매개 신호 전달을 강화할 수 있다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "exp": "강의안에 GABA-mediated transmission 강화가 제시된다.",
+    "slide": 11,
+    "id": "antihelminthic-36"
+  },
+  {
+    "type": "mc",
+    "q": "회선사상충증에서 ivermectin 복용법으로 옳은 것은?",
+    "options": [
+      "공복에 반복 투여할 수 있다",
+      "한 번만 식후 투여한다",
+      "정맥으로 매일 투여한다",
+      "지방식과 함께 1회만 투여한다"
+    ],
+    "answer": 0,
+    "exp": "회선사상충증에서는 공복 반복 투여가 제시되어 있다.",
+    "slide": 12,
+    "id": "antihelminthic-37"
+  },
+  {
+    "type": "mc",
+    "q": "Ivermectin과 병용을 피해야 하는 약물군은?",
+    "options": [
+      "GABA 활성을 증가시키는 약물",
+      "H2 차단제",
+      "철분제",
+      "NSAID 전체"
+    ],
+    "answer": 0,
+    "exp": "Barbiturate, benzodiazepine, valproic acid처럼 GABA 활성을 증가시키는 약물을 피한다.",
+    "slide": 12,
+    "id": "antihelminthic-38"
+  },
+  {
+    "type": "ox",
+    "q": "Ivermectin은 임신 중과 5세 미만에서 사용하지 않는 것으로 제시된다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "exp": "강의안 주의사항에 pregnancy 및 <5 y가 제시되어 있다.",
+    "slide": 12,
+    "id": "antihelminthic-39"
+  },
+  {
+    "type": "mc",
+    "q": "Ivermectin의 임상 적응증으로 강의안에 포함되지 않은 것은?",
+    "options": [
+      "옴",
+      "이 감염",
+      "Loa loa",
+      "방광주혈흡충증의 선택약"
+    ],
+    "answer": 3,
+    "exp": "옴, 이, Loa loa 등이 제시되지만 방광주혈흡충증의 선택약은 아니다.",
+    "slide": 12,
+    "id": "antihelminthic-40"
+  },
+  {
+    "type": "mc",
+    "q": "Pyrantel pamoate의 계열은?",
+    "options": [
+      "Tetrahydropyrimidine derivative",
+      "Benzimidazole",
+      "Macrolide",
+      "Quinolone"
+    ],
+    "answer": 0,
+    "exp": "Pyrantel pamoate는 tetrahydropyrimidine 유도체이다.",
+    "slide": 13,
+    "id": "antihelminthic-41"
+  },
+  {
+    "type": "mc",
+    "q": "Pyrantel pamoate의 작용기전으로 옳은 것은?",
+    "options": [
+      "ACh 방출 및 ChE 억제를 통한 신경근 차단",
+      "미세소관 합성 억제",
+      "칼슘 투과성 증가",
+      "산화적 인산화 억제"
+    ],
+    "answer": 0,
+    "exp": "ACh 방출과 cholinesterase 억제를 통해 신경근 차단을 유발한다.",
+    "slide": 13,
+    "id": "antihelminthic-42"
+  },
+  {
+    "type": "ox",
+    "q": "Pyrantel pamoate는 위장관에서 흡수가 잘 된다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 1,
+    "exp": "위장관 흡수가 나쁘고 절반 이상이 변화 없이 대변으로 배설된다.",
+    "slide": 13,
+    "id": "antihelminthic-43"
+  },
+  {
+    "type": "mc",
+    "q": "Pyrantel pamoate의 대표 적응증은?",
+    "options": [
+      "요충증과 회충증",
+      "폐흡충증과 간흡충증",
+      "회선사상충증과 Loa loa",
+      "포충증과 낭미충증"
+    ],
+    "answer": 0,
+    "exp": "Pinworm infection과 ascariasis가 대표 적응증이다.",
+    "slide": 13,
+    "id": "antihelminthic-44"
+  },
+  {
+    "type": "ox",
+    "q": "Pyrantel pamoate는 간기능장애 환자에서 주의가 필요하다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "exp": "간기능장애 환자에서 주의하도록 제시되어 있다.",
+    "slide": 13,
+    "id": "antihelminthic-45"
+  },
+  {
+    "type": "mc",
+    "q": "다음 중 선충 감염에 해당하는 것은?",
+    "options": [
+      "회충증",
+      "간흡충증",
+      "주혈흡충증",
+      "조충증"
+    ],
+    "answer": 0,
+    "exp": "회충증은 선충 감염에 해당한다.",
+    "slide": 14,
+    "id": "antihelminthic-46"
+  },
+  {
+    "type": "ox",
+    "q": "회선사상충증과 분선충증은 모두 선충 감염 범주에 포함된다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "exp": "강의안의 선충 도표에 두 질환 모두 포함된다.",
+    "slide": 14,
+    "id": "antihelminthic-47"
+  },
+  {
+    "type": "mc",
+    "q": "Praziquantel의 계열은?",
+    "options": [
+      "Synthetic isoquinoline-pyrazine derivative",
+      "Piperazine derivative",
+      "Salicylamide derivative",
+      "Benzimidazole"
+    ],
+    "answer": 0,
+    "exp": "Praziquantel은 합성 isoquinoline-pyrazine 유도체이다.",
+    "slide": 16,
+    "id": "antihelminthic-48"
+  },
+  {
+    "type": "mc",
+    "q": "Praziquantel의 핵심 작용기전은?",
+    "options": [
+      "충체 막의 칼슘 투과성 증가",
+      "미세소관 합성 억제",
+      "콜린에스터레이스 활성화",
+      "엽산 합성 억제"
+    ],
+    "answer": 0,
+    "exp": "Praziquantel은 막의 calcium permeability를 증가시킨다.",
+    "slide": 16,
+    "id": "antihelminthic-49"
+  },
+  {
+    "type": "mc",
+    "q": "Praziquantel이 광범위하게 사용되는 기생충 범주는?",
+    "options": [
+      "주혈흡충·흡충·조충",
+      "원충만",
+      "선충만",
+      "절지동물만"
+    ],
+    "answer": 0,
+    "exp": "Schistosome, trematode, cestode 감염에 사용된다.",
+    "slide": 16,
+    "id": "antihelminthic-50"
+  },
+  {
+    "type": "ox",
+    "q": "Praziquantel의 경구 생체이용률은 약 80%로 제시된다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "exp": "강의안에 oral F 80%가 제시된다.",
+    "slide": 16,
+    "id": "antihelminthic-51"
+  },
+  {
+    "type": "ox",
+    "q": "Praziquantel은 뇌척수액으로 전혀 분포하지 않는다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 1,
+    "exp": "약 14~20% 정도 cerebrospinal fluid distribution이 제시된다.",
+    "slide": 16,
+    "id": "antihelminthic-52"
+  },
+  {
+    "type": "mc",
+    "q": "Praziquantel의 혈중농도를 증가시킬 수 있는 것은?",
+    "options": [
+      "고탄수화물 식사 또는 cimetidine",
+      "phenytoin 또는 carbamazepine",
+      "steroid",
+      "공복만"
+    ],
+    "answer": 0,
+    "exp": "고탄수화물 식사와 cimetidine은 혈중농도를 증가시킬 수 있다.",
+    "slide": 16,
+    "id": "antihelminthic-53"
+  },
+  {
+    "type": "mc",
+    "q": "Praziquantel의 생체이용률을 감소시킬 수 있는 약물은?",
+    "options": [
+      "Phenytoin과 carbamazepine",
+      "Cimetidine",
+      "Aspirin",
+      "Antihistamine"
+    ],
+    "answer": 0,
+    "exp": "항경련제 phenytoin, carbamazepine 및 steroid가 생체이용률을 낮출 수 있다.",
+    "slide": 16,
+    "id": "antihelminthic-54"
+  },
+  {
+    "type": "mc",
+    "q": "Praziquantel 복용법으로 옳은 것은?",
+    "options": [
+      "쓴맛 때문에 씹지 않고 삼킨다",
+      "반드시 씹어서 복용한다",
+      "피부에 바른다",
+      "흡입제로만 쓴다"
+    ],
+    "answer": 0,
+    "exp": "쓴맛이 있어 씹지 않고 삼키도록 한다.",
+    "slide": 17,
+    "id": "antihelminthic-55"
+  },
+  {
+    "type": "mc",
+    "q": "모든 형태의 주혈흡충증에서 선택약은?",
+    "options": [
+      "Praziquantel",
+      "Mebendazole",
+      "DEC",
+      "Pyrantel"
+    ],
+    "answer": 0,
+    "exp": "Praziquantel은 all forms of schistosomiasis의 drug of choice이다.",
+    "slide": 17,
+    "id": "antihelminthic-56"
+  },
+  {
+    "type": "mc",
+    "q": "Praziquantel 적응증으로 옳지 않은 것은?",
+    "options": [
+      "Clonorchiasis",
+      "Paragonimiasis",
+      "Taeniasis",
+      "Strongyloidiasis의 선택약"
+    ],
+    "answer": 3,
+    "exp": "간흡충증, 폐흡충증, 조충증에는 사용되지만 분선충증의 선택약은 ivermectin이다.",
+    "slide": 17,
+    "id": "antihelminthic-57"
+  },
+  {
+    "type": "ox",
+    "q": "Praziquantel은 신경유구낭미충증에서 albendazole의 대안이 될 수 있다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "exp": "강의안에 neurocysticercosis에서 albendazole의 대안으로 제시된다.",
+    "slide": 17,
+    "id": "antihelminthic-58"
+  },
+  {
+    "type": "mc",
+    "q": "포충병에서 praziquantel의 사용법으로 제시된 것은?",
+    "options": [
+      "Albendazole과 병용",
+      "DEC와 병용",
+      "Ivermectin과 병용",
+      "단독 국소투여"
+    ],
+    "answer": 0,
+    "exp": "Hydatid disease에서 albendazole과 병용할 수 있다.",
+    "slide": 17,
+    "id": "antihelminthic-59"
+  },
+  {
+    "type": "ox",
+    "q": "눈낭미충증에서는 praziquantel 사용에 주의 또는 금기가 제시된다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "exp": "ocular cysticercosis에서 사용 금지가 제시된다.",
+    "slide": 17,
+    "id": "antihelminthic-60"
+  },
+  {
+    "type": "ox",
+    "q": "Praziquantel 복용 후 운전 금지가 언급되어 있다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "exp": "강의안에 driving 금지가 제시된다.",
+    "slide": 17,
+    "id": "antihelminthic-61"
+  },
+  {
+    "type": "ox",
+    "q": "Praziquantel은 임신 중 권장되는 약물로 표시되어 있다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 1,
+    "exp": "강의안에서는 임신 금기가 제시된다.",
+    "slide": 17,
+    "id": "antihelminthic-62"
+  },
+  {
+    "type": "mc",
+    "q": "Metrifonate(Trichlorfon)의 계열은?",
+    "options": [
+      "Organophosphate compound",
+      "Benzimidazole",
+      "Macrocyclic lactone",
+      "Tetracycline"
+    ],
+    "answer": 0,
+    "exp": "Metrifonate는 organophosphate compound이다.",
+    "slide": 18,
+    "id": "antihelminthic-63"
+  },
+  {
+    "type": "mc",
+    "q": "Metrifonate의 작용기전은?",
+    "options": [
+      "Cholinesterase 억제로 성충 마비",
+      "Calcium permeability 증가",
+      "Glucose uptake 증가",
+      "GABA 억제"
+    ],
+    "answer": 0,
+    "exp": "콜린에스터레이스 억제로 성충을 마비시킨다.",
+    "slide": 18,
+    "id": "antihelminthic-64"
+  },
+  {
+    "type": "mc",
+    "q": "Metrifonate가 주로 사용되는 감염은?",
+    "options": [
+      "Schistosoma haematobium",
+      "Onchocerca volvulus",
+      "Strongyloides stercoralis",
+      "Taenia saginata"
+    ],
+    "answer": 0,
+    "exp": "방광주혈흡충인 S. haematobium에 사용된다.",
+    "slide": 18,
+    "id": "antihelminthic-65"
+  },
+  {
+    "type": "ox",
+    "q": "Metrifonate의 활성 대사체는 dichlorvos이다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "exp": "강의안에 active metabolite dichlorvos가 제시된다.",
+    "slide": 18,
+    "id": "antihelminthic-66"
+  },
+  {
+    "type": "ox",
+    "q": "Metrifonate는 임신 중 사용할 수 있다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 1,
+    "exp": "Pregnancy 금기가 명시되어 있다.",
+    "slide": 18,
+    "id": "antihelminthic-67"
+  },
+  {
+    "type": "mc",
+    "q": "Niclosamide의 계열은?",
+    "options": [
+      "Salicylamide derivative",
+      "Piperazine derivative",
+      "Isoquinoline derivative",
+      "Macrolide"
+    ],
+    "answer": 0,
+    "exp": "Niclosamide는 salicylamide 유도체이다.",
+    "slide": 19,
+    "id": "antihelminthic-68"
+  },
+  {
+    "type": "mc",
+    "q": "Niclosamide의 작용기전은?",
+    "options": [
+      "산화적 인산화 억제 또는 ATPase 자극",
+      "칼슘 유입 억제",
+      "미세소관 안정화",
+      "ACh 방출 억제"
+    ],
+    "answer": 0,
+    "exp": "Helminth의 oxidative phosphorylation을 억제하거나 ATPase를 자극한다.",
+    "slide": 19,
+    "id": "antihelminthic-69"
+  },
+  {
+    "type": "mc",
+    "q": "Niclosamide의 치료 위치는?",
+    "options": [
+      "조충 감염의 2차 약물",
+      "회선사상충증의 선택약",
+      "분선충증의 선택약",
+      "말라리아의 1차 약물"
+    ],
+    "answer": 0,
+    "exp": "Tapeworm에 대한 second-line drug로 제시된다.",
+    "slide": 19,
+    "id": "antihelminthic-70"
+  },
+  {
+    "type": "ox",
+    "q": "Niclosamide는 공복에 씹어서 삼키며 위장관 흡수가 매우 적다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "exp": "공복 경구, 씹어서 삼키고 GI 흡수는 최소이다.",
+    "slide": 19,
+    "id": "antihelminthic-71"
+  },
+  {
+    "type": "mc",
+    "q": "Niclosamide의 적응증에 포함되지 않는 것은?",
+    "options": [
+      "Taenia saginata",
+      "Taenia solium",
+      "Diphyllobothrium latum",
+      "Onchocerca volvulus"
+    ],
+    "answer": 3,
+    "exp": "무구조충, 유구조충, 광절열두조충에 사용된다.",
+    "slide": 19,
+    "id": "antihelminthic-72"
+  },
+  {
+    "type": "mc",
+    "q": "Bithionol의 작용기전은?",
+    "options": [
+      "기생충의 혐기성 대사 억제",
+      "미세소관 합성 억제",
+      "염소 통로 활성화",
+      "콜린에스터레이스 억제"
+    ],
+    "answer": 0,
+    "exp": "Bithionol은 helminthic anaerobic metabolism을 억제한다.",
+    "slide": 20,
+    "id": "antihelminthic-73"
+  },
+  {
+    "type": "mc",
+    "q": "Bithionol이 대안으로 쓰일 수 있는 질환은?",
+    "options": [
+      "간충병과 폐흡충증",
+      "요충증과 회충증",
+      "회선사상충증과 사상충증",
+      "포충증과 낭미충증만"
+    ],
+    "answer": 0,
+    "exp": "Fascioliasis와 pulmonary paragonimiasis에서 대안이 될 수 있다.",
+    "slide": 20,
+    "id": "antihelminthic-74"
+  },
+  {
+    "type": "ox",
+    "q": "Bithionol의 이상반응은 최대 40%의 환자에서 발생할 수 있다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "exp": "강의안에 adverse effects occur in up to 40%라고 제시된다.",
+    "slide": 20,
+    "id": "antihelminthic-75"
+  },
+  {
+    "type": "mc",
+    "q": "Doxycycline이 강의안에서 사용될 수 있다고 제시된 감염은?",
+    "options": [
+      "W. bancrofti와 onchocerciasis",
+      "Schistosoma haematobium만",
+      "Taenia saginata만",
+      "Pinworm만"
+    ],
+    "answer": 0,
+    "exp": "Doxycycline은 W. bancrofti 및 회선사상충증에 사용될 수 있다고 제시된다.",
+    "slide": 21,
+    "id": "antihelminthic-76"
+  },
+  {
+    "type": "mc",
+    "q": "Oxamniquine의 역할은?",
+    "options": [
+      "S. mansoni 감염에서 praziquantel의 대안",
+      "분선충증의 선택약",
+      "조충증의 1차 약물",
+      "요충증의 국소치료"
+    ],
+    "answer": 0,
+    "exp": "Oxamniquine은 S. mansoni 감염에서 praziquantel의 대안이다.",
+    "slide": 21,
+    "id": "antihelminthic-77"
+  },
+  {
+    "type": "ox",
+    "q": "Oxamniquine은 음식과 함께 경구 투여한다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "exp": "강의안에 oral with food가 제시된다.",
+    "slide": 21,
+    "id": "antihelminthic-78"
+  },
+  {
+    "type": "ox",
+    "q": "Oxamniquine은 비활성 대사체로 대사된 뒤 주로 소변으로 배설된다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "exp": "Inactive metabolite로 대사되고 urine excretion 75%가 제시된다.",
+    "slide": 21,
+    "id": "antihelminthic-79"
+  },
+  {
+    "type": "mc",
+    "q": "다음 중 흡충 감염에 해당하는 것은?",
+    "options": [
+      "폐흡충증",
+      "회충증",
+      "요충증",
+      "분선충증"
+    ],
+    "answer": 0,
+    "exp": "폐흡충증은 trematode 감염이다.",
+    "slide": 22,
+    "id": "antihelminthic-80"
+  },
+  {
+    "type": "mc",
+    "q": "다음 중 조충 감염에 해당하는 것은?",
+    "options": [
+      "Taeniasis",
+      "Schistosomiasis",
+      "Onchocerciasis",
+      "Trichuriasis"
+    ],
+    "answer": 0,
+    "exp": "Taeniasis는 cestode 감염이다.",
+    "slide": 23,
+    "id": "antihelminthic-81"
+  },
+  {
+    "type": "ox",
+    "q": "포충증, 낭미충증, 조충증은 조충 관련 질환으로 분류된다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "exp": "강의안의 cestode 도표에 해당 질환들이 제시된다.",
+    "slide": 23,
+    "id": "antihelminthic-82"
+  },
+  {
+    "type": "mc",
+    "q": "항구충제의 일반적 금기 또는 주의사항이 아닌 것은?",
+    "options": [
+      "약물 알레르기",
+      "수유",
+      "대부분의 임신",
+      "경증 근시"
+    ],
+    "answer": 3,
+    "exp": "알레르기, 수유, 임신 및 신·간질환 등이 일반적 주의사항이다.",
+    "slide": 24,
+    "id": "antihelminthic-83"
+  },
+  {
+    "type": "ox",
+    "q": "신장 또는 간질환이 있으면 항구충제 사용에 주의해야 한다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "exp": "강의안의 일반 금기/주의사항에 renal or hepatic disease가 포함된다.",
+    "slide": 24,
+    "id": "antihelminthic-84"
+  },
+  {
+    "type": "ox",
+    "q": "심한 설사와 영양실조가 있을 때도 항구충제 사용에 주의한다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "exp": "Severe diarrhea와 malnourishment가 주의사항으로 제시된다.",
+    "slide": 24,
+    "id": "antihelminthic-85"
+  },
+  {
+    "type": "mc",
+    "q": "항구충제의 일반적 이상반응으로 제시되지 않은 것은?",
+    "options": [
+      "복부 불편감",
+      "오심·구토·설사",
+      "어지럼과 발열",
+      "영구적 청력상실"
+    ],
+    "answer": 3,
+    "exp": "일반적 이상반응은 복부불편, 오심·구토·설사, 통증, 두통, 어지럼, 발열, 오한이다.",
+    "slide": 25,
+    "id": "antihelminthic-86"
+  },
+  {
+    "type": "ox",
+    "q": "오심, 구토, 설사는 항구충제의 일반적 이상반응이다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "exp": "강의안의 adverse effects 목록에 포함된다.",
+    "slide": 25,
+    "id": "antihelminthic-87"
+  },
+  {
+    "type": "mc",
+    "q": "선충 치료약으로 묶인 약물 조합은?",
+    "options": [
+      "Albendazole, DEC, ivermectin",
+      "Praziquantel, metrifonate, bithionol",
+      "Niclosamide, praziquantel, oxamniquine",
+      "Cimetidine, phenytoin, steroid"
+    ],
+    "answer": 0,
+    "exp": "강의안 요약표에서 albendazole, DEC, ivermectin 등이 nematode 약물로 분류된다.",
+    "slide": 26,
+    "id": "antihelminthic-88"
+  },
+  {
+    "type": "mc",
+    "q": "흡충 치료약으로 분류된 약물은?",
+    "options": [
+      "Praziquantel",
+      "Pyrantel pamoate",
+      "Thiabendazole",
+      "DEC"
+    ],
+    "answer": 0,
+    "exp": "Praziquantel은 trematode 치료약으로 분류된다.",
+    "slide": 26,
+    "id": "antihelminthic-89"
+  },
+  {
+    "type": "mc",
+    "q": "조충 치료약으로 분류된 약물 조합은?",
+    "options": [
+      "Albendazole, praziquantel, niclosamide",
+      "DEC, ivermectin, pyrantel",
+      "Metrifonate, oxamniquine, doxycycline",
+      "Mebendazole, thiabendazole, pyrantel"
+    ],
+    "answer": 0,
+    "exp": "강의안 요약표에서 albendazole, praziquantel, niclosamide가 cestode 약물로 제시된다.",
+    "slide": 26,
+    "id": "antihelminthic-90"
+  },
+  {
+    "type": "mc",
+    "q": "회충증의 치료제로 가장 적절한 것은?",
+    "options": [
+      "Albendazole 또는 pyrantel pamoate",
+      "Praziquantel만",
+      "Metrifonate만",
+      "Bithionol만"
+    ],
+    "answer": 0,
+    "exp": "요약표에서 ascariasis는 albendazole 또는 pyrantel pamoate(또는 mebendazole)로 치료한다.",
+    "slide": 27,
+    "id": "antihelminthic-91"
+  },
+  {
+    "type": "mc",
+    "q": "분선충증의 선택약은?",
+    "options": [
+      "Ivermectin",
+      "Niclosamide",
+      "Praziquantel",
+      "Metrifonate"
+    ],
+    "answer": 0,
+    "exp": "Strongyloides stercoralis 감염의 선택약은 ivermectin이다.",
+    "slide": 27,
+    "id": "antihelminthic-92"
+  },
+  {
+    "type": "mc",
+    "q": "회선사상충증의 선택약은?",
+    "options": [
+      "Ivermectin",
+      "Albendazole 단독",
+      "Pyrantel",
+      "Bithionol"
+    ],
+    "answer": 0,
+    "exp": "Onchocerca volvulus 감염의 선택약은 ivermectin이다.",
+    "slide": 27,
+    "id": "antihelminthic-93"
+  },
+  {
+    "type": "mc",
+    "q": "Schistosoma mansoni 감염의 1차 치료약은?",
+    "options": [
+      "Praziquantel",
+      "Mebendazole",
+      "DEC",
+      "Niclosamide"
+    ],
+    "answer": 0,
+    "exp": "흡충 치료표에서 S. mansoni의 drug of choice는 praziquantel이다.",
+    "slide": 28,
+    "id": "antihelminthic-94"
+  },
+  {
+    "type": "mc",
+    "q": "Taenia saginata 감염 치료에 사용할 수 있는 약물은?",
+    "options": [
+      "Praziquantel 또는 niclosamide",
+      "Ivermectin만",
+      "DEC만",
+      "Pyrantel만"
+    ],
+    "answer": 0,
+    "exp": "조충 치료표에서 T. saginata는 praziquantel 또는 niclosamide로 치료한다.",
+    "slide": 28,
+    "id": "antihelminthic-95"
+  },
+  {
+    "type": "mc",
+    "q": "뇌 MRI에서 다수의 낭종이 보이는 T. solium 유충 감염 환자에게 유용한 약물은?",
+    "options": [
+      "Albendazole",
+      "Ivermectin",
+      "Pyrantel pamoate",
+      "DEC"
+    ],
+    "answer": 0,
+    "exp": "신경유구낭미충증에는 albendazole이 유용하다.",
+    "slide": 29,
+    "id": "antihelminthic-96"
+  },
+  {
+    "type": "mc",
+    "q": "주혈흡충과 T. solium 성충 감염 모두에 효과적인 약물은?",
+    "options": [
+      "Praziquantel",
+      "Mebendazole",
+      "DEC",
+      "Pyrantel"
+    ],
+    "answer": 0,
+    "exp": "Praziquantel은 주혈흡충과 조충 감염 모두에 효과가 있다.",
+    "slide": 30,
+    "id": "antihelminthic-97"
+  },
+  {
+    "type": "mc",
+    "q": "ADP의 인산화, 즉 ATP 합성을 억제하는 약물은?",
+    "options": [
+      "Niclosamide",
+      "Albendazole",
+      "Mebendazole",
+      "Praziquantel"
+    ],
+    "answer": 0,
+    "exp": "Niclosamide는 산화적 인산화를 억제한다.",
+    "slide": 31,
+    "id": "antihelminthic-98"
+  },
+  {
+    "type": "mc",
+    "q": "River blindness를 치료하며 chloride channel을 표적으로 하고 Mazotti reaction을 유발할 수 있는 약물은?",
+    "options": [
+      "Ivermectin",
+      "Praziquantel",
+      "Pyrantel pamoate",
+      "Albendazole"
+    ],
+    "answer": 0,
+    "exp": "Ivermectin은 glutamate-gated chloride channel에 작용하며 회선사상충증 치료 시 염증 반응이 생길 수 있다.",
+    "slide": 32,
+    "id": "antihelminthic-99"
+  },
+  {
+    "type": "ox",
+    "q": "이 문제은행의 근거 슬라이드 번호는 업로드된 PDF의 실제 페이지 번호와 동일하게 연결되어 있다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "exp": "각 문항의 slide 값은 실제 PDF 페이지 번호를 기준으로 지정했다.",
+    "slide": 32,
+    "id": "antihelminthic-100"
+  }
+]
