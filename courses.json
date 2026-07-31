@@ -60,13 +60,13 @@
     "slideDir": "slides/corona_prion"
   },
   {
-    "id": "antihelminthic",
-    "title": "항기생충제·구충제",
-    "icon": "🪱",
+    "id": "antiviral",
+    "title": "항바이러스제 (Antiviral agents)",
+    "icon": "💊",
     "count": 100,
-    "color": "#2f9e44",
-    "file": "questions/antihelminthic.json",
+    "color": "#2563eb",
+    "file": "questions/antiviral.json",
     "category": "약리학",
-    "slideDir": "slides/antihelminthic"
+    "slideDir": "slides/antiviral"
   }
 ]
