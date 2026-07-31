@@ -40,16 +40,6 @@
     "slideDir": "slides/orthomyxo"
   },
   {
-    "id": "paramyxo",
-    "title": "파라믹소·루벨라·기타 호흡기바이러스",
-    "icon": "🫁",
-    "count": 100,
-    "color": "#a254c4",
-    "file": "questions/paramyxo.json",
-    "category": "바이러스학",
-    "slideDir": "slides/paramyxo"
-  },
-  {
     "id": "corona_prion",
     "title": "코로나바이러스·프리온",
     "icon": "🧠",
@@ -58,6 +48,16 @@
     "file": "questions/corona_prion.json",
     "category": "바이러스학",
     "slideDir": "slides/corona_prion"
+  },
+  {
+    "id": "paramyxo",
+    "title": "파라믹소·루벨라·기타 호흡기바이러스",
+    "icon": "🫁",
+    "count": 100,
+    "color": "#a254c4",
+    "file": "questions/paramyxo.json",
+    "category": "바이러스학",
+    "slideDir": "slides/paramyxo"
   },
   {
     "id": "antihelminthic",
@@ -78,5 +78,15 @@
     "file": "questions/antiviral.json",
     "category": "약리학",
     "slideDir": "slides/antiviral"
+  },
+  {
+    "id": "pseudomonas_haemophilus_mycoplasma",
+    "title": "슈도모나스·헤모필루스·미코플라스마",
+    "icon": "🧫",
+    "count": 100,
+    "color": "#0891b2",
+    "file": "questions/pseudomonas_haemophilus_mycoplasma.json",
+    "category": "세균학",
+    "slideDir": "slides/pseudomonas_haemophilus_mycoplasma"
   }
 ]
