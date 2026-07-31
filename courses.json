@@ -60,6 +60,16 @@
     "slideDir": "slides/corona_prion"
   },
   {
+    "id": "antihelminthic",
+    "title": "항기생충제 (Anti-helminthic drugs)",
+    "icon": "🪱",
+    "count": 100,
+    "color": "#16a34a",
+    "file": "questions/antihelminthic.json",
+    "category": "약리학",
+    "slideDir": "slides/antihelminthic"
+  },
+  {
     "id": "antiviral",
     "title": "항바이러스제 (Antiviral agents)",
     "icon": "💊",
