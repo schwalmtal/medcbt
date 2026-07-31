@@ -98,5 +98,15 @@
   "file": "questions/anaerobic_bacteria.json",
   "category": "세균학",
   "slideDir": "slides/anaerobic_bacteria"
+},
+{
+  "id": "rickettsia_chlamydia",
+  "title": "리케치아·클라미디아",
+  "icon": "🧫",
+  "count": 100,
+  "color": "#dc2626",
+  "file": "questions/rickettsia_chlamydia.json",
+  "category": "세균학",
+  "slideDir": "slides/rickettsia_chlamydia"
 }
 ]
