@@ -1,0 +1,1302 @@
+[
+  {
+    "type": "mc",
+    "q": "Pseudomonas aeruginosa의 기본 특징으로 옳은 것은?",
+    "options": [
+      "그람양성 비운동성 구균",
+      "그람음성 운동성 절대호기성 막대균",
+      "그람음성 무산소성 구균",
+      "세포벽이 없는 세균"
+    ],
+    "answer": 1,
+    "exp": "P. aeruginosa는 그람음성, 운동성, 절대호기성 막대균이다.",
+    "slide": 10,
+    "id": "pseudomonas_haemophilus_mycoplasma-1"
+  },
+  {
+    "type": "ox",
+    "q": "P. aeruginosa는 그람음성, 운동성, 절대호기성 막대균이다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "exp": "P. aeruginosa는 그람음성, 운동성, 절대호기성 막대균이다.",
+    "slide": 10,
+    "id": "pseudomonas_haemophilus_mycoplasma-2"
+  },
+  {
+    "type": "mc",
+    "q": "Pseudomonas aeruginosa가 특히 잘 서식하는 환경은?",
+    "options": [
+      "건조하고 고염인 환경",
+      "습하고 물기가 많은 환경",
+      "강산성 위 내용물",
+      "산소가 전혀 없는 심부조직"
+    ],
+    "answer": 1,
+    "exp": "녹농균은 물, 싱크대, 샤워기, 카테터 등 습한 환경과 오염된 의료기구에서 잘 생존한다.",
+    "slide": 10,
+    "id": "pseudomonas_haemophilus_mycoplasma-3"
+  },
+  {
+    "type": "ox",
+    "q": "이 주제에 대한 설명으로 \"강산성 위 내용물\"가 옳다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 1,
+    "exp": "녹농균은 물, 싱크대, 샤워기, 카테터 등 습한 환경과 오염된 의료기구에서 잘 생존한다.",
+    "slide": 10,
+    "id": "pseudomonas_haemophilus_mycoplasma-4"
+  },
+  {
+    "type": "mc",
+    "q": "Pseudomonas aeruginosa는 주로 어떤 유형의 병원체인가?",
+    "options": [
+      "정상인에게만 중증 감염을 일으키는 절대병원체",
+      "기회감염 및 원내감염 병원체",
+      "절대세포내기생균",
+      "주로 식중독만 일으키는 균"
+    ],
+    "answer": 1,
+    "exp": "녹농균은 면역저하자와 기구 삽입 환자에서 중요한 기회감염·원내감염균이다.",
+    "slide": 10,
+    "id": "pseudomonas_haemophilus_mycoplasma-5"
+  },
+  {
+    "type": "ox",
+    "q": "녹농균은 면역저하자와 기구 삽입 환자에서 중요한 기회감염·원내감염균이다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "exp": "녹농균은 면역저하자와 기구 삽입 환자에서 중요한 기회감염·원내감염균이다.",
+    "slide": 10,
+    "id": "pseudomonas_haemophilus_mycoplasma-6"
+  },
+  {
+    "type": "mc",
+    "q": "P. aeruginosa가 만드는 청색 색소는?",
+    "options": [
+      "Pyoverdine",
+      "Pyocyanin",
+      "Melanin",
+      "Prodigiosin"
+    ],
+    "answer": 1,
+    "exp": "Pyocyanin은 청색 색소이며 pyoverdine과 함께 밝은 녹색을 만든다.",
+    "slide": 11,
+    "id": "pseudomonas_haemophilus_mycoplasma-7"
+  },
+  {
+    "type": "ox",
+    "q": "이 주제에 대한 설명으로 \"Melanin\"가 옳다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 1,
+    "exp": "Pyocyanin은 청색 색소이며 pyoverdine과 함께 밝은 녹색을 만든다.",
+    "slide": 11,
+    "id": "pseudomonas_haemophilus_mycoplasma-8"
+  },
+  {
+    "type": "mc",
+    "q": "P. aeruginosa의 형광성 siderophore는?",
+    "options": [
+      "Pyoverdine",
+      "Exotoxin A",
+      "Alginate",
+      "Elastase"
+    ],
+    "answer": 0,
+    "exp": "Pyoverdine은 철 획득에 관여하는 형광성 siderophore이다.",
+    "slide": 11,
+    "id": "pseudomonas_haemophilus_mycoplasma-9"
+  },
+  {
+    "type": "ox",
+    "q": "Pyoverdine은 철 획득에 관여하는 형광성 siderophore이다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "exp": "Pyoverdine은 철 획득에 관여하는 형광성 siderophore이다.",
+    "slide": 11,
+    "id": "pseudomonas_haemophilus_mycoplasma-10"
+  },
+  {
+    "type": "mc",
+    "q": "P. aeruginosa 동정에 도움이 되는 특징은?",
+    "options": [
+      "Oxidase 음성 및 25℃에서만 성장",
+      "Oxidase 양성 및 42℃ 성장",
+      "Urease 강양성 및 비운동성",
+      "Catalase 음성 및 포자 형성"
+    ],
+    "answer": 1,
+    "exp": "색소 생성, oxidase 양성, 42℃에서의 성장은 녹농균 동정에 도움이 된다.",
+    "slide": 12,
+    "id": "pseudomonas_haemophilus_mycoplasma-11"
+  },
+  {
+    "type": "ox",
+    "q": "이 주제에 대한 설명으로 \"Urease 강양성 및 비운동성\"가 옳다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 1,
+    "exp": "색소 생성, oxidase 양성, 42℃에서의 성장은 녹농균 동정에 도움이 된다.",
+    "slide": 12,
+    "id": "pseudomonas_haemophilus_mycoplasma-12"
+  },
+  {
+    "type": "mc",
+    "q": "Pseudomonas의 협막 및 biofilm 형성에 중요한 물질은?",
+    "options": [
+      "Polyribosyl-ribitol phosphate",
+      "Alginate",
+      "Mycolic acid",
+      "Teichoic acid"
+    ],
+    "answer": 1,
+    "exp": "Alginate 다당질은 협막 성분으로 부착과 biofilm, 만성 집락화에 기여한다.",
+    "slide": 13,
+    "id": "pseudomonas_haemophilus_mycoplasma-13"
+  },
+  {
+    "type": "ox",
+    "q": "Alginate 다당질은 협막 성분으로 부착과 biofilm, 만성 집락화에 기여한다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "exp": "Alginate 다당질은 협막 성분으로 부착과 biofilm, 만성 집락화에 기여한다.",
+    "slide": 13,
+    "id": "pseudomonas_haemophilus_mycoplasma-14"
+  },
+  {
+    "type": "mc",
+    "q": "녹농균의 flagella, pili, LPS가 주로 기여하는 기능은?",
+    "options": [
+      "호흡기 상피 부착",
+      "DNA 복제 억제",
+      "포자 형성",
+      "세포벽 소실"
+    ],
+    "answer": 0,
+    "exp": "Flagella, pili, LPS는 호흡기 상피세포 부착에 관여한다.",
+    "slide": 14,
+    "id": "pseudomonas_haemophilus_mycoplasma-15"
+  },
+  {
+    "type": "ox",
+    "q": "이 주제에 대한 설명으로 \"DNA 복제 억제\"가 옳다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 1,
+    "exp": "Flagella, pili, LPS는 호흡기 상피세포 부착에 관여한다.",
+    "slide": 14,
+    "id": "pseudomonas_haemophilus_mycoplasma-16"
+  },
+  {
+    "type": "mc",
+    "q": "Pseudomonas exotoxin A의 표적은?",
+    "options": [
+      "30S ribosome",
+      "Elongation factor-2",
+      "DNA gyrase",
+      "Acetylcholine receptor"
+    ],
+    "answer": 1,
+    "exp": "Exotoxin A는 EF-2를 ADP-ribosylation하여 단백질 합성을 억제한다.",
+    "slide": 15,
+    "id": "pseudomonas_haemophilus_mycoplasma-17"
+  },
+  {
+    "type": "ox",
+    "q": "Exotoxin A는 EF-2를 ADP-ribosylation하여 단백질 합성을 억제한다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "exp": "Exotoxin A는 EF-2를 ADP-ribosylation하여 단백질 합성을 억제한다.",
+    "slide": 15,
+    "id": "pseudomonas_haemophilus_mycoplasma-18"
+  },
+  {
+    "type": "mc",
+    "q": "Pseudomonas exotoxin A가 유발하는 직접적 결과는?",
+    "options": [
+      "숙주 단백질 합성 증가",
+      "숙주 단백질 합성 억제와 세포사",
+      "세균 세포벽 합성 촉진",
+      "cAMP 감소"
+    ],
+    "answer": 1,
+    "exp": "EF-2 불활성화로 숙주 단백질 합성이 멈추고 조직괴사와 세포사가 발생한다.",
+    "slide": 17,
+    "id": "pseudomonas_haemophilus_mycoplasma-19"
+  },
+  {
+    "type": "ox",
+    "q": "이 주제에 대한 설명으로 \"세균 세포벽 합성 촉진\"가 옳다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 1,
+    "exp": "EF-2 불활성화로 숙주 단백질 합성이 멈추고 조직괴사와 세포사가 발생한다.",
+    "slide": 17,
+    "id": "pseudomonas_haemophilus_mycoplasma-20"
+  },
+  {
+    "type": "mc",
+    "q": "Pyocyanin의 조직 손상 기전은?",
+    "options": [
+      "ROS 생성",
+      "세포벽 교차결합 억제",
+      "엽산 합성 억제",
+      "RNA polymerase 억제"
+    ],
+    "answer": 0,
+    "exp": "Pyocyanin은 산화환원 반응을 통해 ROS를 생성하여 조직을 손상시킨다.",
+    "slide": 18,
+    "id": "pseudomonas_haemophilus_mycoplasma-21"
+  },
+  {
+    "type": "ox",
+    "q": "Pyocyanin은 산화환원 반응을 통해 ROS를 생성하여 조직을 손상시킨다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "exp": "Pyocyanin은 산화환원 반응을 통해 ROS를 생성하여 조직을 손상시킨다.",
+    "slide": 18,
+    "id": "pseudomonas_haemophilus_mycoplasma-22"
+  },
+  {
+    "type": "mc",
+    "q": "녹농균의 elastase와 protease가 하는 일은?",
+    "options": [
+      "숙주 조직과 보체를 분해한다",
+      "협막을 합성한다",
+      "세균 DNA를 복제한다",
+      "바이러스 진입을 막는다"
+    ],
+    "answer": 0,
+    "exp": "분해효소들은 조직 침습을 돕고 보체 등 숙주 단백질을 파괴한다.",
+    "slide": 20,
+    "id": "pseudomonas_haemophilus_mycoplasma-23"
+  },
+  {
+    "type": "ox",
+    "q": "이 주제에 대한 설명으로 \"협막을 합성한다\"가 옳다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 1,
+    "exp": "분해효소들은 조직 침습을 돕고 보체 등 숙주 단백질을 파괴한다.",
+    "slide": 20,
+    "id": "pseudomonas_haemophilus_mycoplasma-24"
+  },
+  {
+    "type": "mc",
+    "q": "Exotoxin S/T가 숙주세포로 직접 전달되는 통로는?",
+    "options": [
+      "Type III secretion system",
+      "Type I pilus",
+      "Sec-independent phage system",
+      "Endospore channel"
+    ],
+    "answer": 0,
+    "exp": "Type III secretion system이 독소를 숙주세포 안으로 직접 주입한다.",
+    "slide": 21,
+    "id": "pseudomonas_haemophilus_mycoplasma-25"
+  },
+  {
+    "type": "ox",
+    "q": "Type III secretion system이 독소를 숙주세포 안으로 직접 주입한다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "exp": "Type III secretion system이 독소를 숙주세포 안으로 직접 주입한다.",
+    "slide": 21,
+    "id": "pseudomonas_haemophilus_mycoplasma-26"
+  },
+  {
+    "type": "mc",
+    "q": "Pseudomonas의 선천적 항균제 내성에 기여하는 것은?",
+    "options": [
+      "큰 porin 통로",
+      "작은 porin 통로와 efflux pump",
+      "세포벽의 완전한 부재",
+      "항체 생성"
+    ],
+    "answer": 1,
+    "exp": "작은 porin, efflux pump, β-lactamase 등이 높은 항균제 내성에 기여한다.",
+    "slide": 22,
+    "id": "pseudomonas_haemophilus_mycoplasma-27"
+  },
+  {
+    "type": "ox",
+    "q": "이 주제에 대한 설명으로 \"세포벽의 완전한 부재\"가 옳다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 1,
+    "exp": "작은 porin, efflux pump, β-lactamase 등이 높은 항균제 내성에 기여한다.",
+    "slide": 22,
+    "id": "pseudomonas_haemophilus_mycoplasma-28"
+  },
+  {
+    "type": "mc",
+    "q": "Pseudomonas의 β-lactamase 기능은?",
+    "options": [
+      "β-lactam 항균제를 불활성화한다",
+      "리보솜을 분해한다",
+      "철을 운반한다",
+      "협막을 제거한다"
+    ],
+    "answer": 0,
+    "exp": "β-lactamase는 β-lactam 고리를 분해·변형하여 약제를 불활성화한다.",
+    "slide": 22,
+    "id": "pseudomonas_haemophilus_mycoplasma-29"
+  },
+  {
+    "type": "ox",
+    "q": "β-lactamase는 β-lactam 고리를 분해·변형하여 약제를 불활성화한다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "exp": "β-lactamase는 β-lactam 고리를 분해·변형하여 약제를 불활성화한다.",
+    "slide": 22,
+    "id": "pseudomonas_haemophilus_mycoplasma-30"
+  },
+  {
+    "type": "mc",
+    "q": "Pseudomonas 원내감염을 예방하는 핵심은?",
+    "options": [
+      "습한 의료기구의 오염 방치",
+      "멸균기구 오염 방지와 감염원 제거",
+      "항생제 사용을 무조건 중단",
+      "환자 격리만 시행"
+    ],
+    "answer": 1,
+    "exp": "멸균기구와 물 환경의 오염을 막고 감염된 카테터 등 감염원을 제거해야 한다.",
+    "slide": 24,
+    "id": "pseudomonas_haemophilus_mycoplasma-31"
+  },
+  {
+    "type": "ox",
+    "q": "이 주제에 대한 설명으로 \"항생제 사용을 무조건 중단\"가 옳다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 1,
+    "exp": "멸균기구와 물 환경의 오염을 막고 감염된 카테터 등 감염원을 제거해야 한다.",
+    "slide": 24,
+    "id": "pseudomonas_haemophilus_mycoplasma-32"
+  },
+  {
+    "type": "mc",
+    "q": "낭포성섬유증 환자에서 문제가 되는 균은?",
+    "options": [
+      "Pseudomonas aeruginosa",
+      "Treponema pallidum",
+      "Clostridium tetani",
+      "Shigella dysenteriae"
+    ],
+    "answer": 0,
+    "exp": "끈끈한 점액과 반복 감염 때문에 낭포성섬유증 환자에서 녹농균의 만성 폐감염이 중요하다.",
+    "slide": 25,
+    "id": "pseudomonas_haemophilus_mycoplasma-33"
+  },
+  {
+    "type": "ox",
+    "q": "끈끈한 점액과 반복 감염 때문에 낭포성섬유증 환자에서 녹농균의 만성 폐감염이 중요하다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "exp": "끈끈한 점액과 반복 감염 때문에 낭포성섬유증 환자에서 녹농균의 만성 폐감염이 중요하다.",
+    "slide": 25,
+    "id": "pseudomonas_haemophilus_mycoplasma-34"
+  },
+  {
+    "type": "mc",
+    "q": "화상 환자의 상처 감염과 조직괴사를 잘 일으키는 균은?",
+    "options": [
+      "Pseudomonas aeruginosa",
+      "Mycoplasma pneumoniae",
+      "Haemophilus ducreyi",
+      "Bordetella pertussis"
+    ],
+    "answer": 0,
+    "exp": "녹농균은 화상 상처 감염과 패혈증의 중요한 원인이다.",
+    "slide": 26,
+    "id": "pseudomonas_haemophilus_mycoplasma-35"
+  },
+  {
+    "type": "ox",
+    "q": "이 주제에 대한 설명으로 \"Mycoplasma pneumoniae\"가 옳다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 1,
+    "exp": "녹농균은 화상 상처 감염과 패혈증의 중요한 원인이다.",
+    "slide": 26,
+    "id": "pseudomonas_haemophilus_mycoplasma-36"
+  },
+  {
+    "type": "mc",
+    "q": "온수 욕조 사용 후 발생한 모낭염의 대표 원인균은?",
+    "options": [
+      "Pseudomonas aeruginosa",
+      "Streptococcus pyogenes",
+      "Corynebacterium diphtheriae",
+      "Bacillus anthracis"
+    ],
+    "answer": 0,
+    "exp": "Hot-tub folliculitis는 녹농균과 연관된다.",
+    "slide": 26,
+    "id": "pseudomonas_haemophilus_mycoplasma-37"
+  },
+  {
+    "type": "ox",
+    "q": "Hot-tub folliculitis는 녹농균과 연관된다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "exp": "Hot-tub folliculitis는 녹농균과 연관된다.",
+    "slide": 26,
+    "id": "pseudomonas_haemophilus_mycoplasma-38"
+  },
+  {
+    "type": "mc",
+    "q": "수영 후 외이염(swimmer’s ear)의 대표 원인균은?",
+    "options": [
+      "Pseudomonas aeruginosa",
+      "Mycoplasma hominis",
+      "Haemophilus influenzae type b",
+      "Rickettsia rickettsii"
+    ],
+    "answer": 0,
+    "exp": "녹농균은 외이염의 대표적인 원인균이다.",
+    "slide": 28,
+    "id": "pseudomonas_haemophilus_mycoplasma-39"
+  },
+  {
+    "type": "ox",
+    "q": "이 주제에 대한 설명으로 \"Mycoplasma hominis\"가 옳다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 1,
+    "exp": "녹농균은 외이염의 대표적인 원인균이다.",
+    "slide": 28,
+    "id": "pseudomonas_haemophilus_mycoplasma-40"
+  },
+  {
+    "type": "mc",
+    "q": "콘택트렌즈 사용자에서 각막궤양을 일으킬 수 있는 균은?",
+    "options": [
+      "Pseudomonas aeruginosa",
+      "Clostridium botulinum",
+      "Mycoplasma genitalium",
+      "Neisseria gonorrhoeae만"
+    ],
+    "answer": 0,
+    "exp": "녹농균은 콘택트렌즈 관련 각막염·각막궤양을 일으킬 수 있다.",
+    "slide": 28,
+    "id": "pseudomonas_haemophilus_mycoplasma-41"
+  },
+  {
+    "type": "ox",
+    "q": "녹농균은 콘택트렌즈 관련 각막염·각막궤양을 일으킬 수 있다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "exp": "녹농균은 콘택트렌즈 관련 각막염·각막궤양을 일으킬 수 있다.",
+    "slide": 28,
+    "id": "pseudomonas_haemophilus_mycoplasma-42"
+  },
+  {
+    "type": "mc",
+    "q": "Ecthyma gangrenosum과 가장 관련된 균은?",
+    "options": [
+      "Pseudomonas aeruginosa",
+      "Haemophilus influenzae",
+      "Mycoplasma pneumoniae",
+      "Vibrio cholerae"
+    ],
+    "answer": 0,
+    "exp": "괴저성 농창은 특히 녹농균 패혈증에서 나타날 수 있다.",
+    "slide": 28,
+    "id": "pseudomonas_haemophilus_mycoplasma-43"
+  },
+  {
+    "type": "ox",
+    "q": "이 주제에 대한 설명으로 \"Haemophilus influenzae\"가 옳다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 1,
+    "exp": "괴저성 농창은 특히 녹농균 패혈증에서 나타날 수 있다.",
+    "slide": 28,
+    "id": "pseudomonas_haemophilus_mycoplasma-44"
+  },
+  {
+    "type": "mc",
+    "q": "MacConkey 배지에서 Pseudomonas의 특징은?",
+    "options": [
+      "유당 발효 양성",
+      "비유당 발효",
+      "성장 불가",
+      "검은 집락 형성"
+    ],
+    "answer": 1,
+    "exp": "Pseudomonas는 비유당발효 그람음성 막대균이다.",
+    "slide": 29,
+    "id": "pseudomonas_haemophilus_mycoplasma-45"
+  },
+  {
+    "type": "ox",
+    "q": "Pseudomonas는 비유당발효 그람음성 막대균이다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "exp": "Pseudomonas는 비유당발효 그람음성 막대균이다.",
+    "slide": 29,
+    "id": "pseudomonas_haemophilus_mycoplasma-46"
+  },
+  {
+    "type": "mc",
+    "q": "Pseudomonas 배양에서 특징적으로 기술되는 냄새는?",
+    "options": [
+      "썩은 달걀 냄새",
+      "달콤한 포도 향",
+      "암모니아 냄새",
+      "무취"
+    ],
+    "answer": 1,
+    "exp": "녹농균 집락은 달콤한 포도 향으로 묘사되기도 한다.",
+    "slide": 29,
+    "id": "pseudomonas_haemophilus_mycoplasma-47"
+  },
+  {
+    "type": "ox",
+    "q": "이 주제에 대한 설명으로 \"암모니아 냄새\"가 옳다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 1,
+    "exp": "녹농균 집락은 달콤한 포도 향으로 묘사되기도 한다.",
+    "slide": 29,
+    "id": "pseudomonas_haemophilus_mycoplasma-48"
+  },
+  {
+    "type": "mc",
+    "q": "중증 녹농균 감염에서 흔히 고려되는 치료 원칙은?",
+    "options": [
+      "항상 단일 협범위 약제만 사용",
+      "감수성 결과에 따른 항녹농균 병합요법 고려",
+      "β-lactam을 절대 사용하지 않음",
+      "항생제 없이 수액만 사용"
+    ],
+    "answer": 1,
+    "exp": "다제내성이 흔하므로 배양·감수성 결과를 바탕으로 항녹농균 약제의 병합을 고려한다.",
+    "slide": 31,
+    "id": "pseudomonas_haemophilus_mycoplasma-49"
+  },
+  {
+    "type": "ox",
+    "q": "다제내성이 흔하므로 배양·감수성 결과를 바탕으로 항녹농균 약제의 병합을 고려한다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "exp": "다제내성이 흔하므로 배양·감수성 결과를 바탕으로 항녹농균 약제의 병합을 고려한다.",
+    "slide": 31,
+    "id": "pseudomonas_haemophilus_mycoplasma-50"
+  },
+  {
+    "type": "mc",
+    "q": "인공도관 biofilm 관련 Pseudomonas 감염에서 항생제 외 중요한 조치는?",
+    "options": [
+      "감염된 도관 제거 또는 교체",
+      "도관을 그대로 유지",
+      "스테로이드 단독 투여",
+      "수분 제한"
+    ],
+    "answer": 0,
+    "exp": "Biofilm 감염은 항생제만으로 제거가 어려워 감염된 기구의 제거·교체가 중요하다.",
+    "slide": 35,
+    "id": "pseudomonas_haemophilus_mycoplasma-51"
+  },
+  {
+    "type": "ox",
+    "q": "이 주제에 대한 설명으로 \"도관을 그대로 유지\"가 옳다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 1,
+    "exp": "Biofilm 감염은 항생제만으로 제거가 어려워 감염된 기구의 제거·교체가 중요하다.",
+    "slide": 35,
+    "id": "pseudomonas_haemophilus_mycoplasma-52"
+  },
+  {
+    "type": "mc",
+    "q": "Haemophilus influenzae의 형태는?",
+    "options": [
+      "그람양성 구균",
+      "작은 그람음성 coccobacillus",
+      "산항성 막대균",
+      "세포벽 없는 다형성균"
+    ],
+    "answer": 1,
+    "exp": "H. influenzae는 작은 다형성 그람음성 coccobacillus이다.",
+    "slide": 41,
+    "id": "pseudomonas_haemophilus_mycoplasma-53"
+  },
+  {
+    "type": "ox",
+    "q": "H. influenzae는 작은 다형성 그람음성 coccobacillus이다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "exp": "H. influenzae는 작은 다형성 그람음성 coccobacillus이다.",
+    "slide": 41,
+    "id": "pseudomonas_haemophilus_mycoplasma-54"
+  },
+  {
+    "type": "mc",
+    "q": "Haemophilus influenzae 배양에 필요한 인자는?",
+    "options": [
+      "X factor와 V factor",
+      "K factor와 M factor",
+      "철 없이 증식",
+      "담즙산만 필요"
+    ],
+    "answer": 0,
+    "exp": "H. influenzae는 hemin인 X factor와 NAD인 V factor를 필요로 한다.",
+    "slide": 42,
+    "id": "pseudomonas_haemophilus_mycoplasma-55"
+  },
+  {
+    "type": "ox",
+    "q": "이 주제에 대한 설명으로 \"K factor와 M factor\"가 옳다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 1,
+    "exp": "H. influenzae는 hemin인 X factor와 NAD인 V factor를 필요로 한다.",
+    "slide": 42,
+    "id": "pseudomonas_haemophilus_mycoplasma-56"
+  },
+  {
+    "type": "mc",
+    "q": "Haemophilus의 X factor는 무엇인가?",
+    "options": [
+      "NAD",
+      "Hemin",
+      "Sterol",
+      "Glucose"
+    ],
+    "answer": 1,
+    "exp": "X factor는 hemin이다.",
+    "slide": 42,
+    "id": "pseudomonas_haemophilus_mycoplasma-57"
+  },
+  {
+    "type": "ox",
+    "q": "X factor는 hemin이다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "exp": "X factor는 hemin이다.",
+    "slide": 42,
+    "id": "pseudomonas_haemophilus_mycoplasma-58"
+  },
+  {
+    "type": "mc",
+    "q": "Haemophilus의 V factor는 무엇인가?",
+    "options": [
+      "NAD",
+      "Hemin",
+      "LPS",
+      "PRP"
+    ],
+    "answer": 0,
+    "exp": "V factor는 NAD이다.",
+    "slide": 42,
+    "id": "pseudomonas_haemophilus_mycoplasma-59"
+  },
+  {
+    "type": "ox",
+    "q": "이 주제에 대한 설명으로 \"Hemin\"가 옳다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 1,
+    "exp": "V factor는 NAD이다.",
+    "slide": 42,
+    "id": "pseudomonas_haemophilus_mycoplasma-60"
+  },
+  {
+    "type": "mc",
+    "q": "Chocolate agar가 H. influenzae 배양에 적합한 이유는?",
+    "options": [
+      "적혈구를 가열해 X와 V factor를 방출한다",
+      "산소를 완전히 제거한다",
+      "세포벽을 파괴한다",
+      "항생제를 포함하지 않기 때문이다"
+    ],
+    "answer": 0,
+    "exp": "가열된 혈액에서 hemin과 NAD가 방출되어 H. influenzae가 잘 자란다.",
+    "slide": 43,
+    "id": "pseudomonas_haemophilus_mycoplasma-61"
+  },
+  {
+    "type": "ox",
+    "q": "가열된 혈액에서 hemin과 NAD가 방출되어 H. influenzae가 잘 자란다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "exp": "가열된 혈액에서 hemin과 NAD가 방출되어 H. influenzae가 잘 자란다.",
+    "slide": 43,
+    "id": "pseudomonas_haemophilus_mycoplasma-62"
+  },
+  {
+    "type": "mc",
+    "q": "H. influenzae의 satellite phenomenon은 무엇을 의미하는가?",
+    "options": [
+      "S. aureus 주변에서 V factor를 이용해 성장",
+      "바이러스 주변에서만 성장",
+      "산소 없는 곳에서만 성장",
+      "철이 없는 곳에서 성장"
+    ],
+    "answer": 0,
+    "exp": "S. aureus가 NAD를 제공해 그 주변에서 H. influenzae가 위성처럼 자란다.",
+    "slide": 43,
+    "id": "pseudomonas_haemophilus_mycoplasma-63"
+  },
+  {
+    "type": "ox",
+    "q": "이 주제에 대한 설명으로 \"바이러스 주변에서만 성장\"가 옳다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 1,
+    "exp": "S. aureus가 NAD를 제공해 그 주변에서 H. influenzae가 위성처럼 자란다.",
+    "slide": 43,
+    "id": "pseudomonas_haemophilus_mycoplasma-64"
+  },
+  {
+    "type": "mc",
+    "q": "H. influenzae type b의 주요 협막 성분은?",
+    "options": [
+      "Alginate",
+      "Polyribosyl-ribitol phosphate(PRP)",
+      "Hyaluronic acid",
+      "Poly-D-glutamate"
+    ],
+    "answer": 1,
+    "exp": "Hib의 협막은 PRP로 이루어져 침습성 질환과 관련된다.",
+    "slide": 45,
+    "id": "pseudomonas_haemophilus_mycoplasma-65"
+  },
+  {
+    "type": "ox",
+    "q": "Hib의 협막은 PRP로 이루어져 침습성 질환과 관련된다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "exp": "Hib의 협막은 PRP로 이루어져 침습성 질환과 관련된다.",
+    "slide": 45,
+    "id": "pseudomonas_haemophilus_mycoplasma-66"
+  },
+  {
+    "type": "mc",
+    "q": "H. influenzae의 IgA1 protease 역할은?",
+    "options": [
+      "점막 IgA를 절단한다",
+      "EF-2를 억제한다",
+      "NAD를 합성한다",
+      "보툴리눔 독소를 활성화한다"
+    ],
+    "answer": 0,
+    "exp": "IgA1 protease는 점막면역의 IgA를 절단하여 집락화를 돕는다.",
+    "slide": 45,
+    "id": "pseudomonas_haemophilus_mycoplasma-67"
+  },
+  {
+    "type": "ox",
+    "q": "이 주제에 대한 설명으로 \"EF-2를 억제한다\"가 옳다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 1,
+    "exp": "IgA1 protease는 점막면역의 IgA를 절단하여 집락화를 돕는다.",
+    "slide": 45,
+    "id": "pseudomonas_haemophilus_mycoplasma-68"
+  },
+  {
+    "type": "mc",
+    "q": "H. influenzae 중 β-lactamase를 생성하는 균주 비율로 강의에서 제시된 값은?",
+    "options": [
+      "약 0%",
+      "약 25%",
+      "약 75%",
+      "100%"
+    ],
+    "answer": 1,
+    "exp": "강의에서는 약 25%가 β-lactamase를 생성한다고 제시한다.",
+    "slide": 49,
+    "id": "pseudomonas_haemophilus_mycoplasma-69"
+  },
+  {
+    "type": "ox",
+    "q": "강의에서는 약 25%가 β-lactamase를 생성한다고 제시한다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "exp": "강의에서는 약 25%가 β-lactamase를 생성한다고 제시한다.",
+    "slide": 49,
+    "id": "pseudomonas_haemophilus_mycoplasma-70"
+  },
+  {
+    "type": "mc",
+    "q": "중증 H. influenzae 감염에 사용할 수 있는 약제는?",
+    "options": [
+      "3세대 cephalosporin",
+      "Vancomycin 단독",
+      "Metronidazole 단독",
+      "Acyclovir"
+    ],
+    "answer": 0,
+    "exp": "3세대 cephalosporin은 H. influenzae 침습성 감염 치료에 사용된다.",
+    "slide": 49,
+    "id": "pseudomonas_haemophilus_mycoplasma-71"
+  },
+  {
+    "type": "ox",
+    "q": "이 주제에 대한 설명으로 \"Vancomycin 단독\"가 옳다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 1,
+    "exp": "3세대 cephalosporin은 H. influenzae 침습성 감염 치료에 사용된다.",
+    "slide": 49,
+    "id": "pseudomonas_haemophilus_mycoplasma-72"
+  },
+  {
+    "type": "mc",
+    "q": "Hib 백신이 예방하는 대표 질환은?",
+    "options": [
+      "Hib에 의한 침습성 뇌수막염",
+      "모든 nontypable 중이염",
+      "Mycoplasma 폐렴",
+      "Pseudomonas 외이염"
+    ],
+    "answer": 0,
+    "exp": "PRP-단백 결합백신은 Hib 침습성 질환과 뇌수막염을 크게 감소시켰다.",
+    "slide": 50,
+    "id": "pseudomonas_haemophilus_mycoplasma-73"
+  },
+  {
+    "type": "ox",
+    "q": "PRP-단백 결합백신은 Hib 침습성 질환과 뇌수막염을 크게 감소시켰다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "exp": "PRP-단백 결합백신은 Hib 침습성 질환과 뇌수막염을 크게 감소시켰다.",
+    "slide": 50,
+    "id": "pseudomonas_haemophilus_mycoplasma-74"
+  },
+  {
+    "type": "mc",
+    "q": "Hib 백신의 형태는?",
+    "options": [
+      "생백신",
+      "PRP-단백 접합백신",
+      "톡소이드 단독백신",
+      "mRNA 백신"
+    ],
+    "answer": 1,
+    "exp": "Hib 백신은 PRP 다당질을 단백질에 접합한 결합백신이다.",
+    "slide": 50,
+    "id": "pseudomonas_haemophilus_mycoplasma-75"
+  },
+  {
+    "type": "ox",
+    "q": "이 주제에 대한 설명으로 \"톡소이드 단독백신\"가 옳다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 1,
+    "exp": "Hib 백신은 PRP 다당질을 단백질에 접합한 결합백신이다.",
+    "slide": 50,
+    "id": "pseudomonas_haemophilus_mycoplasma-76"
+  },
+  {
+    "type": "mc",
+    "q": "Nontypable H. influenzae의 특징은?",
+    "options": [
+      "협막 보유",
+      "비협막성",
+      "PRP 협막으로 혈행성 전파",
+      "Hib 백신으로 완전 예방"
+    ],
+    "answer": 1,
+    "exp": "NTHi는 협막이 없으며 주로 점막의 국소 감염을 일으킨다.",
+    "slide": 52,
+    "id": "pseudomonas_haemophilus_mycoplasma-77"
+  },
+  {
+    "type": "ox",
+    "q": "NTHi는 협막이 없으며 주로 점막의 국소 감염을 일으킨다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "exp": "NTHi는 협막이 없으며 주로 점막의 국소 감염을 일으킨다.",
+    "slide": 52,
+    "id": "pseudomonas_haemophilus_mycoplasma-78"
+  },
+  {
+    "type": "mc",
+    "q": "Nontypable H. influenzae가 흔히 일으키는 질환은?",
+    "options": [
+      "영유아 중이염",
+      "파상풍",
+      "콜레라",
+      "발진티푸스"
+    ],
+    "answer": 0,
+    "exp": "NTHi는 중이염, 부비동염, 하기도 감염 등 점막 감염의 흔한 원인이다.",
+    "slide": 52,
+    "id": "pseudomonas_haemophilus_mycoplasma-79"
+  },
+  {
+    "type": "ox",
+    "q": "이 주제에 대한 설명으로 \"파상풍\"가 옳다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 1,
+    "exp": "NTHi는 중이염, 부비동염, 하기도 감염 등 점막 감염의 흔한 원인이다.",
+    "slide": 52,
+    "id": "pseudomonas_haemophilus_mycoplasma-80"
+  },
+  {
+    "type": "mc",
+    "q": "Hib와 NTHi의 전파 양상 비교로 옳은 것은?",
+    "options": [
+      "Hib는 주로 혈행성 침습, NTHi는 인접 점막 확산",
+      "둘 다 반드시 절지동물 매개",
+      "NTHi만 혈행성 뇌수막염",
+      "Hib는 항상 비침습성"
+    ],
+    "answer": 0,
+    "exp": "Hib는 협막으로 혈행성 침습질환을, NTHi는 주로 인접성 점막질환을 일으킨다.",
+    "slide": 52,
+    "id": "pseudomonas_haemophilus_mycoplasma-81"
+  },
+  {
+    "type": "ox",
+    "q": "Hib는 협막으로 혈행성 침습질환을, NTHi는 주로 인접성 점막질환을 일으킨다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "exp": "Hib는 협막으로 혈행성 침습질환을, NTHi는 주로 인접성 점막질환을 일으킨다.",
+    "slide": 52,
+    "id": "pseudomonas_haemophilus_mycoplasma-82"
+  },
+  {
+    "type": "mc",
+    "q": "Mycoplasma의 가장 중요한 구조적 특징은?",
+    "options": [
+      "두꺼운 peptidoglycan 세포벽",
+      "세포벽이 없다",
+      "산항성 세포벽",
+      "포자를 형성한다"
+    ],
+    "answer": 1,
+    "exp": "Mycoplasma는 세포벽이 없는 매우 작은 자유생활 세균이다.",
+    "slide": 68,
+    "id": "pseudomonas_haemophilus_mycoplasma-83"
+  },
+  {
+    "type": "ox",
+    "q": "이 주제에 대한 설명으로 \"산항성 세포벽\"가 옳다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 1,
+    "exp": "Mycoplasma는 세포벽이 없는 매우 작은 자유생활 세균이다.",
+    "slide": 68,
+    "id": "pseudomonas_haemophilus_mycoplasma-84"
+  },
+  {
+    "type": "mc",
+    "q": "Mycoplasma의 형태가 매우 다양한 이유는?",
+    "options": [
+      "세포벽이 없기 때문",
+      "협막이 두껍기 때문",
+      "포자를 만들기 때문",
+      "편모가 없기 때문"
+    ],
+    "answer": 0,
+    "exp": "단단한 세포벽이 없어 pleomorphic한 형태를 보인다.",
+    "slide": 68,
+    "id": "pseudomonas_haemophilus_mycoplasma-85"
+  },
+  {
+    "type": "ox",
+    "q": "단단한 세포벽이 없어 pleomorphic한 형태를 보인다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "exp": "단단한 세포벽이 없어 pleomorphic한 형태를 보인다.",
+    "slide": 68,
+    "id": "pseudomonas_haemophilus_mycoplasma-86"
+  },
+  {
+    "type": "mc",
+    "q": "Mycoplasma 세포막의 독특한 구성 성분은?",
+    "options": [
+      "Sterol",
+      "Mycolic acid",
+      "Teichoic acid",
+      "Chitin"
+    ],
+    "answer": 0,
+    "exp": "Mycoplasma는 세포막에 sterol을 포함한다.",
+    "slide": 69,
+    "id": "pseudomonas_haemophilus_mycoplasma-87"
+  },
+  {
+    "type": "ox",
+    "q": "이 주제에 대한 설명으로 \"Mycolic acid\"가 옳다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 1,
+    "exp": "Mycoplasma는 세포막에 sterol을 포함한다.",
+    "slide": 69,
+    "id": "pseudomonas_haemophilus_mycoplasma-88"
+  },
+  {
+    "type": "mc",
+    "q": "Mycoplasma가 penicillin에 본질적으로 내성인 이유는?",
+    "options": [
+      "β-lactamase만 과다 생성해서",
+      "표적인 세포벽이 없어서",
+      "약물이 세포막을 통과하지 못해서만",
+      "리보솜이 없어서"
+    ],
+    "answer": 1,
+    "exp": "β-lactam은 세포벽 합성을 억제하지만 Mycoplasma에는 세포벽이 없다.",
+    "slide": 69,
+    "id": "pseudomonas_haemophilus_mycoplasma-89"
+  },
+  {
+    "type": "ox",
+    "q": "β-lactam은 세포벽 합성을 억제하지만 Mycoplasma에는 세포벽이 없다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "exp": "β-lactam은 세포벽 합성을 억제하지만 Mycoplasma에는 세포벽이 없다.",
+    "slide": 69,
+    "id": "pseudomonas_haemophilus_mycoplasma-90"
+  },
+  {
+    "type": "mc",
+    "q": "Mycoplasma 배양에 필요한 것은?",
+    "options": [
+      "Sterol이 포함된 serum media",
+      "담즙이 포함된 선택배지",
+      "무조건 세포배양만 가능",
+      "X factor만 포함된 배지"
+    ],
+    "answer": 0,
+    "exp": "성장과 막 합성에 sterol이 필요하여 serum-containing media를 사용한다.",
+    "slide": 71,
+    "id": "pseudomonas_haemophilus_mycoplasma-91"
+  },
+  {
+    "type": "ox",
+    "q": "이 주제에 대한 설명으로 \"담즙이 포함된 선택배지\"가 옳다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 1,
+    "exp": "성장과 막 합성에 sterol이 필요하여 serum-containing media를 사용한다.",
+    "slide": 71,
+    "id": "pseudomonas_haemophilus_mycoplasma-92"
+  },
+  {
+    "type": "mc",
+    "q": "Mycoplasma를 일반 Gram stain으로 보기 어려운 이유는?",
+    "options": [
+      "세포벽이 없기 때문",
+      "세포가 너무 커서",
+      "협막이 검게 염색되어서",
+      "항산성이기 때문"
+    ],
+    "answer": 0,
+    "exp": "Gram 염색의 핵심 구조인 세포벽이 없으므로 일반 Gram stain으로 관찰하기 어렵다.",
+    "slide": 71,
+    "id": "pseudomonas_haemophilus_mycoplasma-93"
+  },
+  {
+    "type": "ox",
+    "q": "Gram 염색의 핵심 구조인 세포벽이 없으므로 일반 Gram stain으로 관찰하기 어렵다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "exp": "Gram 염색의 핵심 구조인 세포벽이 없으므로 일반 Gram stain으로 관찰하기 어렵다.",
+    "slide": 71,
+    "id": "pseudomonas_haemophilus_mycoplasma-94"
+  },
+  {
+    "type": "mc",
+    "q": "M. pneumoniae의 대표 부착인자는?",
+    "options": [
+      "P1 adhesin",
+      "Protein A",
+      "M protein",
+      "FimH만"
+    ],
+    "answer": 0,
+    "exp": "P1 adhesin과 부착 보조단백질이 호흡기 상피 부착에 중요하다.",
+    "slide": 73,
+    "id": "pseudomonas_haemophilus_mycoplasma-95"
+  },
+  {
+    "type": "ox",
+    "q": "이 주제에 대한 설명으로 \"Protein A\"가 옳다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 1,
+    "exp": "P1 adhesin과 부착 보조단백질이 호흡기 상피 부착에 중요하다.",
+    "slide": 73,
+    "id": "pseudomonas_haemophilus_mycoplasma-96"
+  },
+  {
+    "type": "mc",
+    "q": "M. pneumoniae가 결합하는 호흡기 상피 수용체는?",
+    "options": [
+      "Sialylated glycoprotein receptor",
+      "CD4",
+      "ACE2",
+      "Nicotinic receptor"
+    ],
+    "answer": 0,
+    "exp": "P1 부착구조가 섬모상피의 sialylated glycoprotein receptor에 결합한다.",
+    "slide": 74,
+    "id": "pseudomonas_haemophilus_mycoplasma-97"
+  },
+  {
+    "type": "ox",
+    "q": "P1 부착구조가 섬모상피의 sialylated glycoprotein receptor에 결합한다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "exp": "P1 부착구조가 섬모상피의 sialylated glycoprotein receptor에 결합한다.",
+    "slide": 74,
+    "id": "pseudomonas_haemophilus_mycoplasma-98"
+  },
+  {
+    "type": "mc",
+    "q": "M. pneumoniae의 섬모상피 부착 후 결과는?",
+    "options": [
+      "섬모 소실과 상피세포 손상",
+      "점액섬모 청소 증가",
+      "포자 형성",
+      "협막 합성 중단"
+    ],
+    "answer": 0,
+    "exp": "섬모에 부착하면 cilium loss와 상피세포 사멸이 발생해 기침과 염증을 유발한다.",
+    "slide": 75,
+    "id": "pseudomonas_haemophilus_mycoplasma-99"
+  },
+  {
+    "type": "ox",
+    "q": "이 주제에 대한 설명으로 \"점액섬모 청소 증가\"가 옳다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 1,
+    "exp": "섬모에 부착하면 cilium loss와 상피세포 사멸이 발생해 기침과 염증을 유발한다.",
+    "slide": 75,
+    "id": "pseudomonas_haemophilus_mycoplasma-100"
+  }
+]
