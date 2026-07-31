@@ -58,5 +58,15 @@
     "file": "questions/corona_prion.json",
     "category": "바이러스학",
     "slideDir": "slides/corona_prion"
+  },
+  {
+    "id": "antihelminthic",
+    "title": "항기생충제·구충제",
+    "icon": "🪱",
+    "count": 100,
+    "color": "#2f9e44",
+    "file": "questions/antihelminthic.json",
+    "category": "약리학",
+    "slideDir": "slides/antihelminthic"
   }
 ]
