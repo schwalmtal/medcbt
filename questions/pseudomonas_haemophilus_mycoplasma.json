@@ -41,7 +41,7 @@
   },
   {
     "type": "ox",
-    "q": "이 주제에 대한 설명으로 \"강산성 위 내용물\"가 옳다.",
+    "q": "녹농균(Pseudomonas aeruginosa)은 강산성 위 내용물에서 특히 잘 서식한다.",
     "options": [
       "O",
       "X"
@@ -93,7 +93,7 @@
   },
   {
     "type": "ox",
-    "q": "이 주제에 대한 설명으로 \"Melanin\"가 옳다.",
+    "q": "녹농균(Pseudomonas aeruginosa)의 청색 색소는 melanin이다.",
     "options": [
       "O",
       "X"
@@ -145,7 +145,7 @@
   },
   {
     "type": "ox",
-    "q": "이 주제에 대한 설명으로 \"Urease 강양성 및 비운동성\"가 옳다.",
+    "q": "녹농균(Pseudomonas aeruginosa)은 urease 강양성이며 비운동성이다.",
     "options": [
       "O",
       "X"
@@ -197,7 +197,7 @@
   },
   {
     "type": "ox",
-    "q": "이 주제에 대한 설명으로 \"DNA 복제 억제\"가 옳다.",
+    "q": "녹농균(Pseudomonas aeruginosa)의 flagella, pili, LPS는 DNA 복제를 억제하는 데 관여한다.",
     "options": [
       "O",
       "X"
@@ -249,7 +249,7 @@
   },
   {
     "type": "ox",
-    "q": "이 주제에 대한 설명으로 \"세균 세포벽 합성 촉진\"가 옳다.",
+    "q": "녹농균(Pseudomonas aeruginosa)의 exotoxin A는 세균 세포벽 합성을 촉진한다.",
     "options": [
       "O",
       "X"
@@ -301,7 +301,7 @@
   },
   {
     "type": "ox",
-    "q": "이 주제에 대한 설명으로 \"협막을 합성한다\"가 옳다.",
+    "q": "녹농균(Pseudomonas aeruginosa)의 elastase와 protease는 협막 합성을 담당한다.",
     "options": [
       "O",
       "X"
@@ -353,7 +353,7 @@
   },
   {
     "type": "ox",
-    "q": "이 주제에 대한 설명으로 \"세포벽의 완전한 부재\"가 옳다.",
+    "q": "녹농균(Pseudomonas aeruginosa)의 높은 항균제 내성은 세포벽이 완전히 없기 때문이다.",
     "options": [
       "O",
       "X"
@@ -405,7 +405,7 @@
   },
   {
     "type": "ox",
-    "q": "이 주제에 대한 설명으로 \"항생제 사용을 무조건 중단\"가 옳다.",
+    "q": "녹농균(Pseudomonas aeruginosa) 감염의 예방과 관리에서는 항생제 사용을 무조건 중단해야 한다.",
     "options": [
       "O",
       "X"
@@ -457,7 +457,7 @@
   },
   {
     "type": "ox",
-    "q": "이 주제에 대한 설명으로 \"Mycoplasma pneumoniae\"가 옳다.",
+    "q": "화상 상처 감염과 패혈증의 대표적 원인균은 Mycoplasma pneumoniae이다.",
     "options": [
       "O",
       "X"
@@ -509,7 +509,7 @@
   },
   {
     "type": "ox",
-    "q": "이 주제에 대한 설명으로 \"Mycoplasma hominis\"가 옳다.",
+    "q": "악성 외이도염의 대표적 원인균은 Mycoplasma hominis이다.",
     "options": [
       "O",
       "X"
@@ -561,7 +561,7 @@
   },
   {
     "type": "ox",
-    "q": "이 주제에 대한 설명으로 \"Haemophilus influenzae\"가 옳다.",
+    "q": "괴저성 농창(ecthyma gangrenosum)은 Haemophilus influenzae 패혈증에서 특징적으로 나타난다.",
     "options": [
       "O",
       "X"
@@ -613,7 +613,7 @@
   },
   {
     "type": "ox",
-    "q": "이 주제에 대한 설명으로 \"암모니아 냄새\"가 옳다.",
+    "q": "녹농균(Pseudomonas aeruginosa) 집락은 특징적으로 암모니아 냄새를 낸다.",
     "options": [
       "O",
       "X"
@@ -665,7 +665,7 @@
   },
   {
     "type": "ox",
-    "q": "이 주제에 대한 설명으로 \"도관을 그대로 유지\"가 옳다.",
+    "q": "녹농균(Pseudomonas aeruginosa)의 biofilm 관련 도관 감염에서는 감염된 도관을 그대로 유지하는 것이 원칙이다.",
     "options": [
       "O",
       "X"
@@ -717,7 +717,7 @@
   },
   {
     "type": "ox",
-    "q": "이 주제에 대한 설명으로 \"K factor와 M factor\"가 옳다.",
+    "q": "Haemophilus influenzae의 성장에는 K factor와 M factor가 필요하다.",
     "options": [
       "O",
       "X"
@@ -769,7 +769,7 @@
   },
   {
     "type": "ox",
-    "q": "이 주제에 대한 설명으로 \"Hemin\"가 옳다.",
+    "q": "Haemophilus influenzae의 V factor는 hemin이다.",
     "options": [
       "O",
       "X"
@@ -821,7 +821,7 @@
   },
   {
     "type": "ox",
-    "q": "이 주제에 대한 설명으로 \"바이러스 주변에서만 성장\"가 옳다.",
+    "q": "Haemophilus influenzae의 위성현상은 바이러스 주변에서만 성장하는 현상이다.",
     "options": [
       "O",
       "X"
@@ -873,7 +873,7 @@
   },
   {
     "type": "ox",
-    "q": "이 주제에 대한 설명으로 \"EF-2를 억제한다\"가 옳다.",
+    "q": "Haemophilus influenzae의 IgA1 protease는 숙주세포의 EF-2를 억제한다.",
     "options": [
       "O",
       "X"
@@ -925,7 +925,7 @@
   },
   {
     "type": "ox",
-    "q": "이 주제에 대한 설명으로 \"Vancomycin 단독\"가 옳다.",
+    "q": "Haemophilus influenzae의 침습성 감염은 vancomycin 단독으로 치료한다.",
     "options": [
       "O",
       "X"
@@ -977,7 +977,7 @@
   },
   {
     "type": "ox",
-    "q": "이 주제에 대한 설명으로 \"톡소이드 단독백신\"가 옳다.",
+    "q": "Hib 백신은 다당질 접합백신이 아니라 톡소이드 단독백신이다.",
     "options": [
       "O",
       "X"
@@ -1029,7 +1029,7 @@
   },
   {
     "type": "ox",
-    "q": "이 주제에 대한 설명으로 \"파상풍\"가 옳다.",
+    "q": "비피막형 Haemophilus influenzae(NTHi)는 파상풍의 흔한 원인균이다.",
     "options": [
       "O",
       "X"
@@ -1081,7 +1081,7 @@
   },
   {
     "type": "ox",
-    "q": "이 주제에 대한 설명으로 \"산항성 세포벽\"가 옳다.",
+    "q": "Mycoplasma는 산항성 세포벽을 가진 세균이다.",
     "options": [
       "O",
       "X"
@@ -1133,7 +1133,7 @@
   },
   {
     "type": "ox",
-    "q": "이 주제에 대한 설명으로 \"Mycolic acid\"가 옳다.",
+    "q": "Mycoplasma의 세포막에는 sterol 대신 mycolic acid가 포함된다.",
     "options": [
       "O",
       "X"
@@ -1185,7 +1185,7 @@
   },
   {
     "type": "ox",
-    "q": "이 주제에 대한 설명으로 \"담즙이 포함된 선택배지\"가 옳다.",
+    "q": "Mycoplasma 배양에는 serum-containing media가 아니라 담즙이 포함된 선택배지가 필요하다.",
     "options": [
       "O",
       "X"
@@ -1237,7 +1237,7 @@
   },
   {
     "type": "ox",
-    "q": "이 주제에 대한 설명으로 \"Protein A\"가 옳다.",
+    "q": "Mycoplasma pneumoniae의 호흡기 상피 부착에는 Protein A가 가장 중요하다.",
     "options": [
       "O",
       "X"
@@ -1289,7 +1289,7 @@
   },
   {
     "type": "ox",
-    "q": "이 주제에 대한 설명으로 \"점액섬모 청소 증가\"가 옳다.",
+    "q": "Mycoplasma pneumoniae가 호흡기 섬모에 부착하면 점액섬모 청소 기능이 증가한다.",
     "options": [
       "O",
       "X"
