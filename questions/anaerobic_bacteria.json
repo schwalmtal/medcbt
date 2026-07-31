@@ -1,0 +1,1302 @@
+[
+  {
+    "type": "mc",
+    "q": "절대무산소세균(obligate anaerobe)의 특징으로 옳은 것은?",
+    "options": [
+      "산소가 있을 때만 증식한다",
+      "산소에 노출되면 생존과 증식이 억제될 수 있다",
+      "항상 catalase를 다량 생성한다",
+      "모두 아포를 형성한다"
+    ],
+    "answer": 1,
+    "exp": "절대무산소세균은 산소가 존재하는 환경에서 살거나 증식하기 어렵고 산소 독성에 민감하다.",
+    "slide": 8,
+    "id": "anaerobic_bacteria-1"
+  },
+  {
+    "type": "ox",
+    "q": "절대무산소세균은 산소가 존재하면 생존과 증식이 억제될 수 있다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "exp": "절대무산소세균은 산소가 존재하는 환경에서 살거나 증식하기 어렵고 산소 독성에 민감하다.",
+    "slide": 8,
+    "id": "anaerobic_bacteria-2"
+  },
+  {
+    "type": "mc",
+    "q": "절대무산소세균에서 흔히 결핍되어 산소 독성에 취약하게 만드는 효소 조합은?",
+    "options": [
+      "Cytochrome c oxidase, superoxide dismutase, catalase",
+      "DNA polymerase, helicase, primase",
+      "Urease, coagulase, oxidase",
+      "Reverse transcriptase, integrase, protease"
+    ],
+    "answer": 0,
+    "exp": "강의에서는 절대무산소세균이 cytochrome c oxidase, superoxide dismutase, catalase를 갖지 않는다고 설명한다.",
+    "slide": 8,
+    "id": "anaerobic_bacteria-3"
+  },
+  {
+    "type": "ox",
+    "q": "절대무산소세균은 superoxide dismutase와 catalase가 충분하여 산소 독성에 강하다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 1,
+    "exp": "강의에서는 절대무산소세균이 cytochrome c oxidase, superoxide dismutase, catalase를 갖지 않는다고 설명한다.",
+    "slide": 8,
+    "id": "anaerobic_bacteria-4"
+  },
+  {
+    "type": "mc",
+    "q": "아포를 형성하는 대표적 무산소성 세균 속은?",
+    "options": [
+      "Bacteroides",
+      "Fusobacterium",
+      "Clostridium",
+      "Actinomyces"
+    ],
+    "answer": 2,
+    "exp": "Clostridium은 아포를 형성하는 그람양성 무산소성 막대균이다.",
+    "slide": 10,
+    "id": "anaerobic_bacteria-5"
+  },
+  {
+    "type": "ox",
+    "q": "Clostridium은 아포를 형성하는 그람양성 무산소성 막대균이다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "exp": "Clostridium은 아포를 형성하는 그람양성 무산소성 막대균이다.",
+    "slide": 10,
+    "id": "anaerobic_bacteria-6"
+  },
+  {
+    "type": "mc",
+    "q": "아포를 형성하지 않는 그람양성 무산소성 세균의 조합은?",
+    "options": [
+      "Actinomyces와 Propionibacterium(Cutibacterium)",
+      "Bacteroides와 Fusobacterium",
+      "Clostridium과 Bacillus",
+      "Vibrio와 Pseudomonas"
+    ],
+    "answer": 0,
+    "exp": "Actinomyces와 Propionibacterium(Cutibacterium)은 아포비형성 그람양성 무산소성 세균이다.",
+    "slide": 10,
+    "id": "anaerobic_bacteria-7"
+  },
+  {
+    "type": "ox",
+    "q": "Actinomyces와 Cutibacterium은 아포를 형성하는 그람음성 무산소성 세균이다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 1,
+    "exp": "Actinomyces와 Propionibacterium(Cutibacterium)은 아포비형성 그람양성 무산소성 세균이다.",
+    "slide": 10,
+    "id": "anaerobic_bacteria-8"
+  },
+  {
+    "type": "mc",
+    "q": "아포를 형성하지 않는 그람음성 무산소성 세균의 조합은?",
+    "options": [
+      "Clostridium과 Bacillus",
+      "Actinomyces와 Cutibacterium",
+      "Bacteroides와 Fusobacterium",
+      "Mycoplasma와 Chlamydia"
+    ],
+    "answer": 2,
+    "exp": "Bacteroides와 Fusobacterium은 아포비형성 그람음성 무산소성 세균이다.",
+    "slide": 10,
+    "id": "anaerobic_bacteria-9"
+  },
+  {
+    "type": "ox",
+    "q": "Bacteroides와 Fusobacterium은 아포비형성 그람음성 무산소성 세균이다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "exp": "Bacteroides와 Fusobacterium은 아포비형성 그람음성 무산소성 세균이다.",
+    "slide": 10,
+    "id": "anaerobic_bacteria-10"
+  },
+  {
+    "type": "mc",
+    "q": "Clostridium 속의 공통적인 형태학적 특징으로 가장 적절한 것은?",
+    "options": [
+      "그람양성 막대균이며 아포를 형성한다",
+      "그람음성 구균이며 협막만 형성한다",
+      "세포벽이 없는 나선균이다",
+      "산항성 분지균이다"
+    ],
+    "answer": 0,
+    "exp": "Clostridium은 일반적으로 그람양성 막대균이고 아포를 형성하며 무산소성이다.",
+    "slide": 11,
+    "id": "anaerobic_bacteria-11"
+  },
+  {
+    "type": "ox",
+    "q": "Clostridium은 세포벽이 없는 그람음성 구균이다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 1,
+    "exp": "Clostridium은 일반적으로 그람양성 막대균이고 아포를 형성하며 무산소성이다.",
+    "slide": 11,
+    "id": "anaerobic_bacteria-12"
+  },
+  {
+    "type": "mc",
+    "q": "Clostridium perfringens가 주로 일으키는 질환 조합은?",
+    "options": [
+      "가스괴저와 식중독",
+      "파상풍과 백일해",
+      "보툴리눔독소증과 장티푸스",
+      "결핵과 디프테리아"
+    ],
+    "answer": 0,
+    "exp": "C. perfringens는 연조직 감염, 근괴사, 가스괴저, 식중독과 괴사성 장염을 일으킬 수 있다.",
+    "slide": 11,
+    "id": "anaerobic_bacteria-13"
+  },
+  {
+    "type": "ox",
+    "q": "Clostridium perfringens는 가스괴저와 식중독을 일으킬 수 있다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "exp": "C. perfringens는 연조직 감염, 근괴사, 가스괴저, 식중독과 괴사성 장염을 일으킬 수 있다.",
+    "slide": 11,
+    "id": "anaerobic_bacteria-14"
+  },
+  {
+    "type": "mc",
+    "q": "Clostridium botulinum이 유발하는 대표적 질환은?",
+    "options": [
+      "파상풍",
+      "보툴리눔독소증",
+      "가스괴저",
+      "거짓막결장염"
+    ],
+    "answer": 1,
+    "exp": "C. botulinum의 신경독소는 보툴리눔독소증과 이완성 마비를 유발한다.",
+    "slide": 11,
+    "id": "anaerobic_bacteria-15"
+  },
+  {
+    "type": "ox",
+    "q": "Clostridium botulinum은 강직성 마비를 특징으로 하는 파상풍의 원인균이다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 1,
+    "exp": "C. botulinum의 신경독소는 보툴리눔독소증과 이완성 마비를 유발한다.",
+    "slide": 11,
+    "id": "anaerobic_bacteria-16"
+  },
+  {
+    "type": "mc",
+    "q": "Clostridium tetani가 유발하는 질환은?",
+    "options": [
+      "파상풍",
+      "가스괴저",
+      "항생제 연관 설사",
+      "영아 보툴리눔독소증"
+    ],
+    "answer": 0,
+    "exp": "C. tetani는 tetanospasmin을 생성하여 파상풍과 강직성 마비를 일으킨다.",
+    "slide": 11,
+    "id": "anaerobic_bacteria-17"
+  },
+  {
+    "type": "ox",
+    "q": "Clostridium tetani는 파상풍의 원인균이다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "exp": "C. tetani는 tetanospasmin을 생성하여 파상풍과 강직성 마비를 일으킨다.",
+    "slide": 11,
+    "id": "anaerobic_bacteria-18"
+  },
+  {
+    "type": "mc",
+    "q": "Clostridioides difficile 감염과 가장 관련 깊은 임상 상황은?",
+    "options": [
+      "장기간 또는 광범위 항균제 사용 후 설사",
+      "오염된 꿀 섭취 후 이완성 마비",
+      "녹슨 못에 찔린 뒤 강직성 경련",
+      "외상 후 근육층의 가스 생성"
+    ],
+    "answer": 0,
+    "exp": "C. difficile은 항균제 사용으로 장내 정상균무리가 변화할 때 과증식하여 설사와 거짓막결장염을 일으킨다.",
+    "slide": 40,
+    "id": "anaerobic_bacteria-19"
+  },
+  {
+    "type": "ox",
+    "q": "Clostridioides difficile 감염은 장기간 항균제 사용과 무관하다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 1,
+    "exp": "C. difficile은 항균제 사용으로 장내 정상균무리가 변화할 때 과증식하여 설사와 거짓막결장염을 일으킨다.",
+    "slide": 40,
+    "id": "anaerobic_bacteria-20"
+  },
+  {
+    "type": "mc",
+    "q": "Clostridium perfringens의 역학적 특징으로 옳은 것은?",
+    "options": [
+      "토양·물·사람과 동물의 장관 등에 널리 존재한다",
+      "사람의 호흡기에서만 발견된다",
+      "모기에 의해서만 전파된다",
+      "해수에서만 생존한다"
+    ],
+    "answer": 0,
+    "exp": "C. perfringens는 토양, 물, 사람과 동물의 장관 등에 편재하며 외상과 수술 상처 감염을 일으킬 수 있다.",
+    "slide": 13,
+    "id": "anaerobic_bacteria-21"
+  },
+  {
+    "type": "ox",
+    "q": "Clostridium perfringens는 토양과 장관에 존재할 수 있다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "exp": "C. perfringens는 토양, 물, 사람과 동물의 장관 등에 편재하며 외상과 수술 상처 감염을 일으킬 수 있다.",
+    "slide": 13,
+    "id": "anaerobic_bacteria-22"
+  },
+  {
+    "type": "mc",
+    "q": "Clostridium perfringens 감염의 위험 상황으로 가장 적절한 것은?",
+    "options": [
+      "총상·교통사고·수술로 생긴 오염된 심부 상처",
+      "단순 바이러스성 상기도감염",
+      "모기 물림",
+      "오염된 꿀을 먹은 영아"
+    ],
+    "answer": 0,
+    "exp": "오염되고 산소 공급이 적은 깊은 상처는 C. perfringens 근괴사와 가스괴저의 위험을 높인다.",
+    "slide": 13,
+    "id": "anaerobic_bacteria-23"
+  },
+  {
+    "type": "ox",
+    "q": "Clostridium perfringens는 오염된 심부 상처에서 연조직 감염과 가스괴저를 일으킬 수 있다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "exp": "오염되고 산소 공급이 적은 깊은 상처는 C. perfringens 근괴사와 가스괴저의 위험을 높인다.",
+    "slide": 13,
+    "id": "anaerobic_bacteria-24"
+  },
+  {
+    "type": "mc",
+    "q": "Clostridium perfringens의 알파독소(CPA)의 작용은?",
+    "options": [
+      "Phospholipase C로 세포막을 손상한다",
+      "SNARE 단백질을 절단해 acetylcholine 분비를 막는다",
+      "GABA 수용체를 직접 활성화한다",
+      "DNA gyrase를 억제한다"
+    ],
+    "answer": 0,
+    "exp": "알파독소는 phospholipase C로 숙주 세포막을 손상해 혈구와 혈관내피세포 용해, 출혈과 조직괴사를 유발한다.",
+    "slide": 14,
+    "id": "anaerobic_bacteria-25"
+  },
+  {
+    "type": "ox",
+    "q": "Clostridium perfringens 알파독소는 phospholipase C 활성을 통해 숙주 세포막을 손상한다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "exp": "알파독소는 phospholipase C로 숙주 세포막을 손상해 혈구와 혈관내피세포 용해, 출혈과 조직괴사를 유발한다.",
+    "slide": 14,
+    "id": "anaerobic_bacteria-26"
+  },
+  {
+    "type": "mc",
+    "q": "Clostridium perfringens 알파독소의 결과로 나타날 수 있는 것은?",
+    "options": [
+      "대량 용혈과 근괴사",
+      "이완성 마비만 발생",
+      "저작근 강직만 발생",
+      "섬모운동 증가"
+    ],
+    "answer": 0,
+    "exp": "알파독소와 여러 효소는 혈구 용해와 조직 파괴를 일으켜 패혈증, 대량 용혈, 근괴사와 가스괴저를 유발할 수 있다.",
+    "slide": 14,
+    "id": "anaerobic_bacteria-27"
+  },
+  {
+    "type": "ox",
+    "q": "Clostridium perfringens 알파독소는 혈구와 혈관내피세포를 보호하여 용혈을 억제한다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 1,
+    "exp": "알파독소와 여러 효소는 혈구 용해와 조직 파괴를 일으켜 패혈증, 대량 용혈, 근괴사와 가스괴저를 유발할 수 있다.",
+    "slide": 14,
+    "id": "anaerobic_bacteria-28"
+  },
+  {
+    "type": "mc",
+    "q": "Clostridium perfringens의 베타독소(CPB)와 관련된 질환은?",
+    "options": [
+      "괴사성 장염",
+      "파상풍",
+      "영아 보툴리눔독소증",
+      "거짓막결장염"
+    ],
+    "answer": 0,
+    "exp": "강의에서는 C. perfringens의 베타독소가 괴사성 장염(pig-bel)을 유발한다고 설명한다.",
+    "slide": 15,
+    "id": "anaerobic_bacteria-29"
+  },
+  {
+    "type": "ox",
+    "q": "Clostridium perfringens의 베타독소는 괴사성 장염을 유발할 수 있다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "exp": "강의에서는 C. perfringens의 베타독소가 괴사성 장염(pig-bel)을 유발한다고 설명한다.",
+    "slide": 15,
+    "id": "anaerobic_bacteria-30"
+  },
+  {
+    "type": "mc",
+    "q": "Clostridium perfringens 식중독에서 장독소가 일으키는 변화는?",
+    "options": [
+      "소장에서 수분과 이온 소실을 일으켜 수양성 설사를 유발한다",
+      "중추신경에서 도파민 분비를 증가시킨다",
+      "적혈구 생성을 촉진한다",
+      "위산 분비를 완전히 차단한다"
+    ],
+    "answer": 0,
+    "exp": "열에 민감한 장독소가 소장세포의 막투과성과 수분·전해질 이동을 변화시켜 수양성 설사를 일으킨다.",
+    "slide": 15,
+    "id": "anaerobic_bacteria-31"
+  },
+  {
+    "type": "ox",
+    "q": "Clostridium perfringens 식중독은 장독소에 의한 수분·이온 소실로 수양성 설사가 나타날 수 있다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "exp": "열에 민감한 장독소가 소장세포의 막투과성과 수분·전해질 이동을 변화시켜 수양성 설사를 일으킨다.",
+    "slide": 15,
+    "id": "anaerobic_bacteria-32"
+  },
+  {
+    "type": "mc",
+    "q": "Clostridium perfringens 가스괴저 치료의 핵심으로 옳은 것은?",
+    "options": [
+      "신속한 외과적 괴사조직 제거와 고용량 항균제 치료",
+      "항균제 없이 해열제만 투여",
+      "백신 단독 투여",
+      "항바이러스제 투여"
+    ],
+    "answer": 0,
+    "exp": "가스괴저와 근괴사에서는 신속한 외과적 debridement가 중요하고 고용량 penicillin과 clindamycin 등이 사용될 수 있다.",
+    "slide": 16,
+    "id": "anaerobic_bacteria-33"
+  },
+  {
+    "type": "ox",
+    "q": "Clostridium perfringens 가스괴저에서는 외과적 괴사조직 제거가 중요하다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "exp": "가스괴저와 근괴사에서는 신속한 외과적 debridement가 중요하고 고용량 penicillin과 clindamycin 등이 사용될 수 있다.",
+    "slide": 16,
+    "id": "anaerobic_bacteria-34"
+  },
+  {
+    "type": "mc",
+    "q": "Clostridium perfringens 감염 진단에 사용되는 기본 방법은?",
+    "options": [
+      "검체 염색과 무산소 배양",
+      "항체검사만 시행",
+      "바이러스 배양",
+      "피부단자검사"
+    ],
+    "answer": 0,
+    "exp": "강의에서는 C. perfringens 진단 방법으로 염색과 배양을 제시한다.",
+    "slide": 16,
+    "id": "anaerobic_bacteria-35"
+  },
+  {
+    "type": "ox",
+    "q": "Clostridium perfringens 감염은 검체의 염색과 배양으로 평가할 수 있다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "exp": "강의에서는 C. perfringens 진단 방법으로 염색과 배양을 제시한다.",
+    "slide": 16,
+    "id": "anaerobic_bacteria-36"
+  },
+  {
+    "type": "mc",
+    "q": "Clostridium botulinum 아포와 관련된 설명으로 옳은 것은?",
+    "options": [
+      "토양에 존재하며 부적절하게 가공된 보존식품에서 문제가 될 수 있다",
+      "산소에 노출되면 독소가 더 안정해진다",
+      "꿀과는 관련이 없다",
+      "아포를 전혀 만들지 않는다"
+    ],
+    "answer": 0,
+    "exp": "C. botulinum 아포는 토양에 존재하고 부적절하게 가공된 통조림이나 육가공품에서 발아·독소 생성 위험이 있다.",
+    "slide": 18,
+    "id": "anaerobic_bacteria-37"
+  },
+  {
+    "type": "ox",
+    "q": "Clostridium botulinum 아포는 토양에 존재하며 오염된 통조림이나 가공육과 관련될 수 있다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "exp": "C. botulinum 아포는 토양에 존재하고 부적절하게 가공된 통조림이나 육가공품에서 발아·독소 생성 위험이 있다.",
+    "slide": 18,
+    "id": "anaerobic_bacteria-38"
+  },
+  {
+    "type": "mc",
+    "q": "1세 미만 영아에게 꿀을 피하도록 하는 주된 이유는?",
+    "options": [
+      "Clostridium botulinum 아포에 의한 영아 보툴리눔독소증 위험",
+      "Clostridium tetani 독소 위험",
+      "C. difficile 거짓막결장염 위험",
+      "C. perfringens 가스괴저 위험"
+    ],
+    "answer": 0,
+    "exp": "꿀에 포함될 수 있는 C. botulinum 아포가 영아 장관에서 발아해 독소를 생성할 수 있다.",
+    "slide": 18,
+    "id": "anaerobic_bacteria-39"
+  },
+  {
+    "type": "ox",
+    "q": "1세 미만 영아의 꿀 섭취는 Clostridium botulinum 아포에 의한 영아 보툴리눔독소증 위험과 관련된다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "exp": "꿀에 포함될 수 있는 C. botulinum 아포가 영아 장관에서 발아해 독소를 생성할 수 있다.",
+    "slide": 18,
+    "id": "anaerobic_bacteria-40"
+  },
+  {
+    "type": "mc",
+    "q": "보툴리눔독소가 유발하는 마비 형태는?",
+    "options": [
+      "이완성 마비",
+      "강직성 마비",
+      "감각신경만의 마비",
+      "상행성 경직성 마비"
+    ],
+    "answer": 0,
+    "exp": "보툴리눔독소는 신경근 접합부에서 acetylcholine 분비를 억제하여 이완성 마비를 유발한다.",
+    "slide": 21,
+    "id": "anaerobic_bacteria-41"
+  },
+  {
+    "type": "ox",
+    "q": "보툴리눔독소는 이완성 마비를 유발한다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "exp": "보툴리눔독소는 신경근 접합부에서 acetylcholine 분비를 억제하여 이완성 마비를 유발한다.",
+    "slide": 21,
+    "id": "anaerobic_bacteria-42"
+  },
+  {
+    "type": "mc",
+    "q": "정상적인 신경근 접합부에서 SNARE 단백질의 역할은?",
+    "options": [
+      "시냅스 소포와 세포막의 융합을 도와 acetylcholine 분비를 가능하게 한다",
+      "GABA를 합성한다",
+      "근육세포 DNA를 복제한다",
+      "적혈구를 용해한다"
+    ],
+    "answer": 0,
+    "exp": "SNARE 단백질은 acetylcholine을 담은 시냅스 소포가 신경세포막과 융합하도록 한다.",
+    "slide": 22,
+    "id": "anaerobic_bacteria-43"
+  },
+  {
+    "type": "ox",
+    "q": "SNARE 단백질은 acetylcholine 함유 시냅스 소포의 막 융합에 관여한다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "exp": "SNARE 단백질은 acetylcholine을 담은 시냅스 소포가 신경세포막과 융합하도록 한다.",
+    "slide": 22,
+    "id": "anaerobic_bacteria-44"
+  },
+  {
+    "type": "mc",
+    "q": "보툴리눔독소의 light chain이 직접 절단하는 표적은?",
+    "options": [
+      "SNARE 단백질",
+      "Peptidoglycan",
+      "IgA",
+      "Actin만"
+    ],
+    "answer": 0,
+    "exp": "보툴리눔독소 light chain은 protease로 작용하여 SNARE 단백질을 절단한다.",
+    "slide": 23,
+    "id": "anaerobic_bacteria-45"
+  },
+  {
+    "type": "ox",
+    "q": "보툴리눔독소 light chain은 SNARE 단백질을 절단하여 acetylcholine 소포의 막 융합을 억제한다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "exp": "보툴리눔독소 light chain은 protease로 작용하여 SNARE 단백질을 절단한다.",
+    "slide": 23,
+    "id": "anaerobic_bacteria-46"
+  },
+  {
+    "type": "mc",
+    "q": "보툴리눔독소가 신경근 접합부에서 일으키는 직접적 변화는?",
+    "options": [
+      "Acetylcholine 분비 억제",
+      "Acetylcholine 분비 증가",
+      "Glycine 분해 억제",
+      "근육세포막 pore 형성"
+    ],
+    "answer": 0,
+    "exp": "보툴리눔독소는 말초 콜린성 신경말단에서 acetylcholine 분비를 막아 근육 수축을 방해한다.",
+    "slide": 24,
+    "id": "anaerobic_bacteria-47"
+  },
+  {
+    "type": "ox",
+    "q": "보툴리눔독소는 말초 콜린성 신경말단에서 acetylcholine 분비를 증가시킨다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 1,
+    "exp": "보툴리눔독소는 말초 콜린성 신경말단에서 acetylcholine 분비를 막아 근육 수축을 방해한다.",
+    "slide": 24,
+    "id": "anaerobic_bacteria-48"
+  },
+  {
+    "type": "mc",
+    "q": "식품매개 보툴리눔독소증의 전형적 초기 증상 조합은?",
+    "options": [
+      "복시·연하곤란·구음장애·구강건조",
+      "고열·화농성 객담·흉통",
+      "혈성 설사·관절염",
+      "저작근 강직·활모양강직"
+    ],
+    "answer": 0,
+    "exp": "식품매개 보툴리눔독소증은 복시, 삼킴곤란, 말하기 어려움, 구강건조와 하행성 이완성 마비를 보일 수 있다.",
+    "slide": 25,
+    "id": "anaerobic_bacteria-49"
+  },
+  {
+    "type": "ox",
+    "q": "식품매개 보툴리눔독소증에서는 복시, 연하곤란, 구음장애가 나타날 수 있다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "exp": "식품매개 보툴리눔독소증은 복시, 삼킴곤란, 말하기 어려움, 구강건조와 하행성 이완성 마비를 보일 수 있다.",
+    "slide": 25,
+    "id": "anaerobic_bacteria-50"
+  },
+  {
+    "type": "mc",
+    "q": "식품매개 보툴리눔독소증의 임상 양상으로 가장 적절한 것은?",
+    "options": [
+      "감각은 비교적 보존되며 하행성 이완성 마비가 진행할 수 있다",
+      "강직성 마비와 저작근 강직이 핵심이다",
+      "고열이 항상 동반된다",
+      "피부에 가스괴저가 필수적으로 발생한다"
+    ],
+    "answer": 0,
+    "exp": "보툴리눔독소증은 뇌신경 증상으로 시작해 하행성 이완성 마비와 호흡마비로 진행할 수 있으며 발열은 전형적이지 않다.",
+    "slide": 25,
+    "id": "anaerobic_bacteria-51"
+  },
+  {
+    "type": "ox",
+    "q": "보툴리눔독소증은 발열 없이 하행성 이완성 마비와 호흡마비로 진행할 수 있다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "exp": "보툴리눔독소증은 뇌신경 증상으로 시작해 하행성 이완성 마비와 호흡마비로 진행할 수 있으며 발열은 전형적이지 않다.",
+    "slide": 25,
+    "id": "anaerobic_bacteria-52"
+  },
+  {
+    "type": "mc",
+    "q": "영아 보툴리눔독소증에서 나타날 수 있는 증상은?",
+    "options": [
+      "변비·수유장애·약한 울음·축 처짐",
+      "저작근 강직과 활모양강직",
+      "혈성 설사만 발생",
+      "피부 괴사와 가스 생성"
+    ],
+    "answer": 0,
+    "exp": "영아 보툴리눔독소증에서는 변비, 수유곤란, 약한 울음소리, 전신 저긴장 등이 나타날 수 있다.",
+    "slide": 25,
+    "id": "anaerobic_bacteria-53"
+  },
+  {
+    "type": "ox",
+    "q": "영아 보툴리눔독소증은 변비와 수유장애, 약한 울음소리를 보일 수 있다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "exp": "영아 보툴리눔독소증에서는 변비, 수유곤란, 약한 울음소리, 전신 저긴장 등이 나타날 수 있다.",
+    "slide": 25,
+    "id": "anaerobic_bacteria-54"
+  },
+  {
+    "type": "mc",
+    "q": "보툴리눔독소증의 진단 방법으로 적절한 것은?",
+    "options": [
+      "임상 병력 평가와 독소 검출",
+      "근육 생검만으로 확진",
+      "항산균 염색",
+      "혈청 VDRL 검사"
+    ],
+    "answer": 0,
+    "exp": "보툴리눔독소증은 병력과 임상양상이 중요하고 검체에서 독소를 mouse bioassay, ELISA, PCR 등으로 검출할 수 있다.",
+    "slide": 25,
+    "id": "anaerobic_bacteria-55"
+  },
+  {
+    "type": "ox",
+    "q": "보툴리눔독소증은 임상 병력과 양상을 바탕으로 의심하고 독소 검출 검사를 이용할 수 있다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "exp": "보툴리눔독소증은 병력과 임상양상이 중요하고 검체에서 독소를 mouse bioassay, ELISA, PCR 등으로 검출할 수 있다.",
+    "slide": 25,
+    "id": "anaerobic_bacteria-56"
+  },
+  {
+    "type": "mc",
+    "q": "보툴리눔독소증 치료에서 가장 중요한 조합은?",
+    "options": [
+      "항독소 투여와 호흡보조",
+      "DTP 백신과 metronidazole만 투여",
+      "외과적 장 절제만 시행",
+      "항진균제와 스테로이드"
+    ],
+    "answer": 0,
+    "exp": "보툴리눔 항독소를 조기에 투여하고 호흡마비에 대비한 기계환기 등 지지치료가 중요하다.",
+    "slide": 25,
+    "id": "anaerobic_bacteria-57"
+  },
+  {
+    "type": "ox",
+    "q": "보툴리눔독소증에서는 항독소와 기계환기를 포함한 호흡보조가 중요하다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "exp": "보툴리눔 항독소를 조기에 투여하고 호흡마비에 대비한 기계환기 등 지지치료가 중요하다.",
+    "slide": 25,
+    "id": "anaerobic_bacteria-58"
+  },
+  {
+    "type": "mc",
+    "q": "보툴리눔독소의 열 안정성에 대한 설명으로 옳은 것은?",
+    "options": [
+      "독소 자체는 열에 불안정하여 적절한 가열로 파괴될 수 있다",
+      "독소는 끓여도 절대 파괴되지 않는다",
+      "아포와 독소 모두 약한 가열에 즉시 제거된다",
+      "저온에서만 독성을 나타낸다"
+    ],
+    "answer": 0,
+    "exp": "강의에서는 botulinum toxin이 heat-labile하여 열처리로 독소를 파괴할 수 있다고 설명한다. 다만 아포는 더 내열성이 강하다.",
+    "slide": 25,
+    "id": "anaerobic_bacteria-59"
+  },
+  {
+    "type": "ox",
+    "q": "보툴리눔독소 자체는 열에 불안정하지만 아포는 상대적으로 내열성이 강하다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "exp": "강의에서는 botulinum toxin이 heat-labile하여 열처리로 독소를 파괴할 수 있다고 설명한다. 다만 아포는 더 내열성이 강하다.",
+    "slide": 25,
+    "id": "anaerobic_bacteria-60"
+  },
+  {
+    "type": "mc",
+    "q": "Clostridium tetani의 형태학적 특징은?",
+    "options": [
+      "균체 한쪽 끝에 아포가 형성된 북채 모양",
+      "세포벽이 없는 구형",
+      "콤마 모양의 그람음성균",
+      "가지 치는 산항성 막대균"
+    ],
+    "answer": 0,
+    "exp": "C. tetani는 말단 아포로 인해 북채(drumstick) 모양을 보일 수 있다.",
+    "slide": 30,
+    "id": "anaerobic_bacteria-61"
+  },
+  {
+    "type": "ox",
+    "q": "Clostridium tetani는 말단 아포 때문에 북채 모양으로 보일 수 있다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "exp": "C. tetani는 말단 아포로 인해 북채(drumstick) 모양을 보일 수 있다.",
+    "slide": 30,
+    "id": "anaerobic_bacteria-62"
+  },
+  {
+    "type": "mc",
+    "q": "Clostridium tetani의 주요 독성인자는?",
+    "options": [
+      "Tetanospasmin",
+      "Botulinum toxin",
+      "TcdA",
+      "Alpha toxin(CPA)"
+    ],
+    "answer": 0,
+    "exp": "C. tetani의 열불안정 신경독소 tetanospasmin이 파상풍의 강직성 마비를 유발한다.",
+    "slide": 30,
+    "id": "anaerobic_bacteria-63"
+  },
+  {
+    "type": "ox",
+    "q": "Clostridium tetani는 tetanospasmin이라는 신경독소를 생성한다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "exp": "C. tetani의 열불안정 신경독소 tetanospasmin이 파상풍의 강직성 마비를 유발한다.",
+    "slide": 30,
+    "id": "anaerobic_bacteria-64"
+  },
+  {
+    "type": "mc",
+    "q": "파상풍독소(tetanospasmin)의 작용기전은?",
+    "options": [
+      "억제성 신경전달물질 분비를 차단한다",
+      "신경근 접합부의 acetylcholine 분비를 차단한다",
+      "적혈구 세포막을 용해한다",
+      "대장 상피의 actin을 탈중합한다"
+    ],
+    "answer": 0,
+    "exp": "Tetanospasmin은 억제성 시냅스의 신경전달물질 분비를 차단하여 운동신경의 과도한 흥분과 강직성 마비를 일으킨다.",
+    "slide": 31,
+    "id": "anaerobic_bacteria-65"
+  },
+  {
+    "type": "ox",
+    "q": "파상풍독소는 억제성 신경전달물질 분비를 차단하여 운동신경 흥분을 증가시킨다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "exp": "Tetanospasmin은 억제성 시냅스의 신경전달물질 분비를 차단하여 운동신경의 과도한 흥분과 강직성 마비를 일으킨다.",
+    "slide": 31,
+    "id": "anaerobic_bacteria-66"
+  },
+  {
+    "type": "mc",
+    "q": "파상풍독소가 분비를 억제하는 대표적 신경전달물질은?",
+    "options": [
+      "GABA와 glycine",
+      "Acetylcholine과 dopamine",
+      "Serotonin과 histamine",
+      "Glutamate와 substance P"
+    ],
+    "answer": 0,
+    "exp": "파상풍독소는 억제성 신경전달물질인 GABA와 glycine의 분비를 막아 근육 이완을 방해한다.",
+    "slide": 32,
+    "id": "anaerobic_bacteria-67"
+  },
+  {
+    "type": "ox",
+    "q": "파상풍독소는 GABA와 glycine의 분비를 차단하여 강직성 마비를 유발한다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "exp": "파상풍독소는 억제성 신경전달물질인 GABA와 glycine의 분비를 막아 근육 이완을 방해한다.",
+    "slide": 32,
+    "id": "anaerobic_bacteria-68"
+  },
+  {
+    "type": "mc",
+    "q": "파상풍에서 나타나는 마비 형태는?",
+    "options": [
+      "강직성 마비",
+      "이완성 마비",
+      "감각신경 단독 마비",
+      "일과성 안면마비만 발생"
+    ],
+    "answer": 0,
+    "exp": "억제성 신경전달이 차단되므로 근육이 지속적으로 수축하는 강직성 마비가 나타난다.",
+    "slide": 31,
+    "id": "anaerobic_bacteria-69"
+  },
+  {
+    "type": "ox",
+    "q": "파상풍은 강직성 마비를 유발한다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "exp": "억제성 신경전달이 차단되므로 근육이 지속적으로 수축하는 강직성 마비가 나타난다.",
+    "slide": 31,
+    "id": "anaerobic_bacteria-70"
+  },
+  {
+    "type": "mc",
+    "q": "파상풍의 특징적 임상 소견 조합은?",
+    "options": [
+      "저작근 강직·경련미소·활모양강직",
+      "복시·하행성 이완성 마비",
+      "수양성 설사·거짓막",
+      "가스 생성 근괴사만 발생"
+    ],
+    "answer": 0,
+    "exp": "파상풍에서는 trismus, 목과 복근 경직, risus sardonicus, opisthotonus 등이 나타날 수 있다.",
+    "slide": 33,
+    "id": "anaerobic_bacteria-71"
+  },
+  {
+    "type": "ox",
+    "q": "파상풍에서는 저작근 강직과 활모양강직이 나타날 수 있다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "exp": "파상풍에서는 trismus, 목과 복근 경직, risus sardonicus, opisthotonus 등이 나타날 수 있다.",
+    "slide": 33,
+    "id": "anaerobic_bacteria-72"
+  },
+  {
+    "type": "mc",
+    "q": "파상풍 진단의 기본 원칙은?",
+    "options": [
+      "임상양상과 병력을 중심으로 진단한다",
+      "혈액배양 양성이 반드시 필요하다",
+      "대변 독소검사만으로 진단한다",
+      "항체 역가만으로 확진한다"
+    ],
+    "answer": 0,
+    "exp": "파상풍은 균 배양보다 특징적인 임상양상과 상처 병력에 근거해 진단하는 경우가 많다.",
+    "slide": 33,
+    "id": "anaerobic_bacteria-73"
+  },
+  {
+    "type": "ox",
+    "q": "파상풍은 특징적인 임상양상과 상처 병력을 바탕으로 진단한다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "exp": "파상풍은 균 배양보다 특징적인 임상양상과 상처 병력에 근거해 진단하는 경우가 많다.",
+    "slide": 33,
+    "id": "anaerobic_bacteria-74"
+  },
+  {
+    "type": "mc",
+    "q": "파상풍 치료 및 관리로 옳은 것은?",
+    "options": [
+      "상처 debridement, 파상풍 면역글로불린, 항균제와 호흡·경련 관리",
+      "보툴리눔 항독소만 투여",
+      "경구 vancomycin만 투여",
+      "치료 없이 자연회복을 기다린다"
+    ],
+    "answer": 0,
+    "exp": "치료에는 괴사조직 제거, 인간 파상풍 면역글로불린, penicillin 또는 metronidazole, 기도·경련 관리가 포함된다.",
+    "slide": 33,
+    "id": "anaerobic_bacteria-75"
+  },
+  {
+    "type": "ox",
+    "q": "파상풍 치료에는 상처 괴사조직 제거와 파상풍 면역글로불린 투여가 포함된다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "exp": "치료에는 괴사조직 제거, 인간 파상풍 면역글로불린, penicillin 또는 metronidazole, 기도·경련 관리가 포함된다.",
+    "slide": 33,
+    "id": "anaerobic_bacteria-76"
+  },
+  {
+    "type": "mc",
+    "q": "파상풍을 예방하는 가장 중요한 방법은?",
+    "options": [
+      "DTP 계열 백신 접종과 적절한 추가접종",
+      "꿀 섭취 제한",
+      "통조림 가열만 시행",
+      "장기간 vancomycin 예방투여"
+    ],
+    "answer": 0,
+    "exp": "파상풍은 toxoid가 포함된 DTP/Tdap/Td 계열 예방접종으로 예방할 수 있다.",
+    "slide": 33,
+    "id": "anaerobic_bacteria-77"
+  },
+  {
+    "type": "ox",
+    "q": "파상풍은 예방접종으로 예방할 수 있다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "exp": "파상풍은 toxoid가 포함된 DTP/Tdap/Td 계열 예방접종으로 예방할 수 있다.",
+    "slide": 33,
+    "id": "anaerobic_bacteria-78"
+  },
+  {
+    "type": "mc",
+    "q": "신생아 파상풍의 위험과 가장 관련 깊은 것은?",
+    "options": [
+      "비위생적 분만과 제대 관리",
+      "항균제 장기복용",
+      "오염된 통조림 섭취",
+      "장관 파열"
+    ],
+    "answer": 0,
+    "exp": "비위생적 분만과 오염된 기구를 이용한 제대 절단·관리는 신생아 파상풍 위험을 높인다.",
+    "slide": 28,
+    "id": "anaerobic_bacteria-79"
+  },
+  {
+    "type": "ox",
+    "q": "비위생적인 제대 관리는 신생아 파상풍의 위험요인이다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "exp": "비위생적 분만과 오염된 기구를 이용한 제대 절단·관리는 신생아 파상풍 위험을 높인다.",
+    "slide": 28,
+    "id": "anaerobic_bacteria-80"
+  },
+  {
+    "type": "mc",
+    "q": "Clostridioides difficile이 건강한 사람의 장에서 보일 수 있는 상태는?",
+    "options": [
+      "일부 건강인에서 소수로 집락화할 수 있다",
+      "모든 건강인의 장에서 대부분을 차지한다",
+      "장관에는 절대 존재하지 않는다",
+      "피부에서만 정상균으로 존재한다"
+    ],
+    "answer": 0,
+    "exp": "강의에서는 건강인의 일부(<5%)에서 장관 집락화할 수 있다고 설명한다.",
+    "slide": 40,
+    "id": "anaerobic_bacteria-81"
+  },
+  {
+    "type": "ox",
+    "q": "Clostridioides difficile은 일부 건강인의 장관에 집락화할 수 있다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "exp": "강의에서는 건강인의 일부(<5%)에서 장관 집락화할 수 있다고 설명한다.",
+    "slide": 40,
+    "id": "anaerobic_bacteria-82"
+  },
+  {
+    "type": "mc",
+    "q": "항균제 사용 후 Clostridioides difficile 감염이 발생하는 주요 이유는?",
+    "options": [
+      "장내 정상균무리 붕괴로 C. difficile이 과증식하기 때문",
+      "항균제가 C. difficile 독소를 직접 생성하기 때문",
+      "항균제가 파상풍독소를 활성화하기 때문",
+      "위산이 증가하기 때문"
+    ],
+    "answer": 0,
+    "exp": "광범위 항균제는 경쟁 장내미생물을 감소시켜 아포를 가진 C. difficile의 과증식과 내인성 감염을 촉진한다.",
+    "slide": 40,
+    "id": "anaerobic_bacteria-83"
+  },
+  {
+    "type": "ox",
+    "q": "항균제 사용으로 장내 정상균무리가 감소하면 Clostridioides difficile이 과증식할 수 있다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "exp": "광범위 항균제는 경쟁 장내미생물을 감소시켜 아포를 가진 C. difficile의 과증식과 내인성 감염을 촉진한다.",
+    "slide": 40,
+    "id": "anaerobic_bacteria-84"
+  },
+  {
+    "type": "mc",
+    "q": "Clostridioides difficile의 TcdA에 대한 설명은?",
+    "options": [
+      "장독소로 중성구 침윤과 사이토카인 분비를 유발한다",
+      "SNARE 단백질을 절단한다",
+      "GABA 분비를 막는다",
+      "Phospholipase C로 적혈구만 용해한다"
+    ],
+    "answer": 0,
+    "exp": "TcdA는 enterotoxin으로 염증반응, 중성구 침윤과 사이토카인 분비를 유발한다.",
+    "slide": 41,
+    "id": "anaerobic_bacteria-85"
+  },
+  {
+    "type": "ox",
+    "q": "Clostridioides difficile의 TcdA는 장독소로 염증반응을 유발한다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "exp": "TcdA는 enterotoxin으로 염증반응, 중성구 침윤과 사이토카인 분비를 유발한다.",
+    "slide": 41,
+    "id": "anaerobic_bacteria-86"
+  },
+  {
+    "type": "mc",
+    "q": "Clostridioides difficile의 TcdB에 대한 설명은?",
+    "options": [
+      "세포독소로 actin 탈중합과 장벽 투과성 증가를 일으킨다",
+      "Acetylcholine 분비를 촉진한다",
+      "Glycine 수용체를 활성화한다",
+      "세균 아포를 제거한다"
+    ],
+    "answer": 0,
+    "exp": "TcdB는 cytotoxin으로 actin depolymerization과 세포결합 손상을 유발해 장벽 투과성을 증가시킨다.",
+    "slide": 41,
+    "id": "anaerobic_bacteria-87"
+  },
+  {
+    "type": "ox",
+    "q": "Clostridioides difficile의 TcdB는 actin 탈중합과 장벽 손상을 유발한다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "exp": "TcdB는 cytotoxin으로 actin depolymerization과 세포결합 손상을 유발해 장벽 투과성을 증가시킨다.",
+    "slide": 41,
+    "id": "anaerobic_bacteria-88"
+  },
+  {
+    "type": "mc",
+    "q": "Clostridioides difficile 감염의 대표적 임상 질환은?",
+    "options": [
+      "항균제 연관 설사와 거짓막결장염",
+      "보툴리눔독소증",
+      "가스괴저",
+      "파상풍"
+    ],
+    "answer": 0,
+    "exp": "C. difficile은 항균제 연관 설사, 수양성 또는 혈성 설사와 거짓막결장염을 일으킬 수 있다.",
+    "slide": 42,
+    "id": "anaerobic_bacteria-89"
+  },
+  {
+    "type": "ox",
+    "q": "Clostridioides difficile은 항균제 연관 설사와 거짓막결장염을 일으킬 수 있다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "exp": "C. difficile은 항균제 연관 설사, 수양성 또는 혈성 설사와 거짓막결장염을 일으킬 수 있다.",
+    "slide": 42,
+    "id": "anaerobic_bacteria-90"
+  },
+  {
+    "type": "mc",
+    "q": "Clostridioides difficile 감염 진단에 적절한 검사는?",
+    "options": [
+      "대변에서 TcdA/TcdB 독소 또는 관련 유전자 검출",
+      "상처의 파상풍균 배양만 시행",
+      "혈청 보툴리눔독소만 검사",
+      "항산균 도말"
+    ],
+    "answer": 0,
+    "exp": "대변 검체에서 독소를 검출하거나 tcdA/tcdB 유전자를 PCR로 검사할 수 있다.",
+    "slide": 42,
+    "id": "anaerobic_bacteria-91"
+  },
+  {
+    "type": "ox",
+    "q": "Clostridioides difficile 감염은 대변 독소 또는 독소 유전자 검사로 평가할 수 있다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "exp": "대변 검체에서 독소를 검출하거나 tcdA/tcdB 유전자를 PCR로 검사할 수 있다.",
+    "slide": 42,
+    "id": "anaerobic_bacteria-92"
+  },
+  {
+    "type": "mc",
+    "q": "강의에서 중증 Clostridioides difficile 감염 치료제로 제시된 것은?",
+    "options": [
+      "Metronidazole 또는 vancomycin",
+      "Penicillin G 단독",
+      "Acyclovir",
+      "Amphotericin B"
+    ],
+    "answer": 0,
+    "exp": "강의에서는 중증 감염 치료로 metronidazole과 vancomycin을 제시한다.",
+    "slide": 42,
+    "id": "anaerobic_bacteria-93"
+  },
+  {
+    "type": "ox",
+    "q": "Clostridioides difficile 감염 치료에 vancomycin이 사용될 수 있다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "exp": "강의에서는 중증 감염 치료로 metronidazole과 vancomycin을 제시한다.",
+    "slide": 42,
+    "id": "anaerobic_bacteria-94"
+  },
+  {
+    "type": "mc",
+    "q": "재발성 Clostridioides difficile 감염에서 고려할 수 있는 치료는?",
+    "options": [
+      "분변미생물군이식(FMT)",
+      "파상풍 면역글로불린",
+      "보툴리눔 항독소",
+      "가스괴저 부위 절단만 시행"
+    ],
+    "answer": 0,
+    "exp": "반복 재발하는 C. difficile 감염에서는 건강한 공여자의 장내미생물군을 복원하는 FMT를 고려할 수 있다.",
+    "slide": 38,
+    "id": "anaerobic_bacteria-95"
+  },
+  {
+    "type": "ox",
+    "q": "분변미생물군이식은 재발성 Clostridioides difficile 감염에서 고려할 수 있다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "exp": "반복 재발하는 C. difficile 감염에서는 건강한 공여자의 장내미생물군을 복원하는 FMT를 고려할 수 있다.",
+    "slide": 38,
+    "id": "anaerobic_bacteria-96"
+  },
+  {
+    "type": "mc",
+    "q": "수술·교통사고·산업사고 후 오염된 상처에서 근육 괴사와 가스가 발생했다. 가장 가능성 높은 원인균은?",
+    "options": [
+      "Clostridium perfringens",
+      "Clostridium botulinum",
+      "Clostridium tetani",
+      "Clostridioides difficile"
+    ],
+    "answer": 0,
+    "exp": "외상 후 빠르게 진행하는 근괴사와 가스괴저의 대표 원인균은 C. perfringens이다.",
+    "slide": 48,
+    "id": "anaerobic_bacteria-97"
+  },
+  {
+    "type": "ox",
+    "q": "외상 후 가스괴저를 유발하는 대표적 원인균은 Clostridium perfringens이다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "exp": "외상 후 빠르게 진행하는 근괴사와 가스괴저의 대표 원인균은 C. perfringens이다.",
+    "slide": 48,
+    "id": "anaerobic_bacteria-98"
+  },
+  {
+    "type": "mc",
+    "q": "진공 포장 소시지를 먹은 뒤 복시, 구음장애, 연하곤란과 얼굴에서 시작하는 하행성 위약이 발생했다. 원인균은?",
+    "options": [
+      "Clostridium perfringens",
+      "Clostridium botulinum",
+      "Clostridium tetani",
+      "Clostridioides difficile"
+    ],
+    "answer": 1,
+    "exp": "오염된 보존식품 섭취 후 뇌신경 증상과 하행성 이완성 마비는 C. botulinum 독소증을 시사한다.",
+    "slide": 49,
+    "id": "anaerobic_bacteria-99"
+  },
+  {
+    "type": "ox",
+    "q": "오염된 보존식품 섭취 후 복시와 하행성 이완성 마비가 나타나면 Clostridium botulinum을 의심한다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "exp": "오염된 보존식품 섭취 후 뇌신경 증상과 하행성 이완성 마비는 C. botulinum 독소증을 시사한다.",
+    "slide": 49,
+    "id": "anaerobic_bacteria-100"
+  }
+]
