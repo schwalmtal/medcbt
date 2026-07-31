@@ -88,5 +88,15 @@
     "file": "questions/pseudomonas_haemophilus_mycoplasma.json",
     "category": "세균학",
     "slideDir": "slides/pseudomonas_haemophilus_mycoplasma"
-  }
+  },
+  {
+  "id": "anaerobic_bacteria",
+  "title": "무산소성 세균",
+  "icon": "🧫",
+  "count": 100,
+  "color": "#7c3aed",
+  "file": "questions/anaerobic_bacteria.json",
+  "category": "세균학",
+  "slideDir": "slides/anaerobic_bacteria"
+}
 ]
