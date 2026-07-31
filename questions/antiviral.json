@@ -1,0 +1,1302 @@
+[
+  {
+    "type": "mc",
+    "q": "바이러스 부착·진입 단계에 작용하는 HIV 융합억제제는?",
+    "options": [
+      "Amantadine",
+      "Zanamivir",
+      "Acyclovir",
+      "Enfuvirtide"
+    ],
+    "answer": 3,
+    "exp": "Enfuvirtide는 gp41에 결합하여 HIV의 막 융합과 진입을 억제한다.",
+    "slide": 4,
+    "id": "antiviral-1"
+  },
+  {
+    "type": "ox",
+    "q": "Amantadine은 HIV 부착·진입을 억제한다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 1,
+    "exp": "Enfuvirtide는 gp41에 결합하여 HIV의 막 융합과 진입을 억제한다.",
+    "slide": 4,
+    "id": "antiviral-2"
+  },
+  {
+    "type": "mc",
+    "q": "현재 항바이러스제의 일반적 한계로 옳은 것은?",
+    "options": [
+      "약물 중단 후에도 바이러스 복제는 영구 억제된다",
+      "모든 약물은 인산화 없이 활성화된다",
+      "잠복하거나 복제하지 않는 바이러스를 제거하지 못한다",
+      "숙주 면역반응이 없어도 완치한다"
+    ],
+    "answer": 2,
+    "exp": "대부분의 항바이러스제는 활발히 복제 중인 바이러스를 억제하며 잠복 바이러스를 제거하지 못한다.",
+    "slide": 5,
+    "id": "antiviral-3"
+  },
+  {
+    "type": "ox",
+    "q": "대부분의 항바이러스제는 활발히 복제 중인 바이러스를 억제하며 잠복 바이러스를 제거하지 못한다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "exp": "대부분의 항바이러스제는 활발히 복제 중인 바이러스를 억제하며 잠복 바이러스를 제거하지 못한다.",
+    "slide": 5,
+    "id": "antiviral-4"
+  },
+  {
+    "type": "mc",
+    "q": "Acyclovir 계열 항헤르페스제의 선택성을 만드는 첫 인산화 효소는?",
+    "options": [
+      "숙주 CYP3A4",
+      "바이러스 thymidine kinase",
+      "숙주 DNA polymerase",
+      "바이러스 neuraminidase"
+    ],
+    "answer": 1,
+    "exp": "바이러스 특이 thymidine kinase가 monophosphate를 만들고 이후 숙주 kinase가 di- 및 triphosphate를 만든다.",
+    "slide": 8,
+    "id": "antiviral-5"
+  },
+  {
+    "type": "ox",
+    "q": "Acyclovir의 첫 인산화는 숙주 kinase만 담당한다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 1,
+    "exp": "바이러스 특이 thymidine kinase가 monophosphate를 만들고 이후 숙주 kinase가 di- 및 triphosphate를 만든다.",
+    "slide": 8,
+    "id": "antiviral-6"
+  },
+  {
+    "type": "mc",
+    "q": "Acyclovir에 대한 설명으로 옳은 것은?",
+    "options": [
+      "HSV-1·HSV-2에 대한 활성이 VZV보다 강하다",
+      "주로 담즙으로 배설된다",
+      "CMV UL97 kinase에 의해 활성화된다",
+      "경구 생체이용률이 90% 이상이다"
+    ],
+    "answer": 0,
+    "exp": "Acyclovir는 acyclic guanosine 유도체로 HSV-1·2에 특히 활성이 높고 신장으로 제거된다.",
+    "slide": 9,
+    "id": "antiviral-7"
+  },
+  {
+    "type": "ox",
+    "q": "Acyclovir는 acyclic guanosine 유도체로 HSV-1·2에 특히 활성이 높고 신장으로 제거된다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "exp": "Acyclovir는 acyclic guanosine 유도체로 HSV-1·2에 특히 활성이 높고 신장으로 제거된다.",
+    "slide": 9,
+    "id": "antiviral-8"
+  },
+  {
+    "type": "mc",
+    "q": "정맥 Acyclovir의 신독성을 줄이는 방법은?",
+    "options": [
+      "탈수 유도",
+      "고용량을 빠르게 정주",
+      "Probenecid 병용 금지 없이 즉시 투여",
+      "충분한 수액 공급과 천천히 주입"
+    ],
+    "answer": 3,
+    "exp": "정맥 Acyclovir의 신독성과 신경독성은 수액 공급과 느린 주입으로 감소시킬 수 있다.",
+    "slide": 10,
+    "id": "antiviral-9"
+  },
+  {
+    "type": "ox",
+    "q": "정맥 Acyclovir는 빠르게 주입할수록 신독성이 감소한다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 1,
+    "exp": "정맥 Acyclovir의 신독성과 신경독성은 수액 공급과 느린 주입으로 감소시킬 수 있다.",
+    "slide": 10,
+    "id": "antiviral-10"
+  },
+  {
+    "type": "mc",
+    "q": "Valacyclovir는 무엇의 전구약물인가?",
+    "options": [
+      "Penciclovir",
+      "Cidofovir",
+      "Acyclovir",
+      "Ganciclovir"
+    ],
+    "answer": 2,
+    "exp": "Valacyclovir는 acyclovir의 L-valyl ester 전구약물로 경구 흡수율을 높인다.",
+    "slide": 11,
+    "id": "antiviral-11"
+  },
+  {
+    "type": "ox",
+    "q": "Valacyclovir는 acyclovir의 L-valyl ester 전구약물로 경구 흡수율을 높인다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "exp": "Valacyclovir는 acyclovir의 L-valyl ester 전구약물로 경구 흡수율을 높인다.",
+    "slide": 11,
+    "id": "antiviral-12"
+  },
+  {
+    "type": "mc",
+    "q": "Famciclovir가 체내에서 전환되는 활성 약물은?",
+    "options": [
+      "Trifluridine",
+      "Penciclovir",
+      "Acyclovir",
+      "Foscarnet"
+    ],
+    "answer": 1,
+    "exp": "Famciclovir는 대사되어 penciclovir가 되며 HSV와 VZV에 사용된다.",
+    "slide": 12,
+    "id": "antiviral-13"
+  },
+  {
+    "type": "ox",
+    "q": "Famciclovir는 체내에서 cidofovir로 전환된다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 1,
+    "exp": "Famciclovir는 대사되어 penciclovir가 되며 HSV와 VZV에 사용된다.",
+    "slide": 12,
+    "id": "antiviral-14"
+  },
+  {
+    "type": "mc",
+    "q": "Docosanol의 주된 작용기전은?",
+    "options": [
+      "HSV 외피와 세포막의 융합 억제",
+      "바이러스 DNA polymerase 직접 억제",
+      "neuraminidase 억제",
+      "M2 proton channel 차단"
+    ],
+    "answer": 0,
+    "exp": "Docosanol은 HSV 외피와 숙주 세포막의 융합을 막아 바이러스 진입을 억제한다.",
+    "slide": 13,
+    "id": "antiviral-15"
+  },
+  {
+    "type": "ox",
+    "q": "Docosanol은 HSV 외피와 숙주 세포막의 융합을 막아 바이러스 진입을 억제한다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "exp": "Docosanol은 HSV 외피와 숙주 세포막의 융합을 막아 바이러스 진입을 억제한다.",
+    "slide": 13,
+    "id": "antiviral-16"
+  },
+  {
+    "type": "mc",
+    "q": "Acyclovir 내성 HSV의 국소 치료에 사용할 수 있으며 숙주 kinase로 인산화되는 약물은?",
+    "options": [
+      "Valacyclovir",
+      "Famciclovir",
+      "Amantadine",
+      "Trifluridine"
+    ],
+    "answer": 3,
+    "exp": "Trifluridine은 숙주 kinase로 인산화되므로 바이러스 TK 의존성이 없고 안약 등으로 사용된다.",
+    "slide": 13,
+    "id": "antiviral-17"
+  },
+  {
+    "type": "ox",
+    "q": "Trifluridine은 바이러스 thymidine kinase가 없으면 활성화되지 않는다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 1,
+    "exp": "Trifluridine은 숙주 kinase로 인산화되므로 바이러스 TK 의존성이 없고 안약 등으로 사용된다.",
+    "slide": 13,
+    "id": "antiviral-18"
+  },
+  {
+    "type": "mc",
+    "q": "Ganciclovir를 활성화하는 CMV 효소는?",
+    "options": [
+      "NS5A",
+      "neuraminidase",
+      "UL97 kinase",
+      "M2 protein"
+    ],
+    "answer": 2,
+    "exp": "Ganciclovir는 CMV의 UL97 kinase에 의해 활성화되고 viral DNA polymerase를 억제한다.",
+    "slide": 14,
+    "id": "antiviral-19"
+  },
+  {
+    "type": "ox",
+    "q": "Ganciclovir는 CMV의 UL97 kinase에 의해 활성화되고 viral DNA polymerase를 억제한다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "exp": "Ganciclovir는 CMV의 UL97 kinase에 의해 활성화되고 viral DNA polymerase를 억제한다.",
+    "slide": 14,
+    "id": "antiviral-20"
+  },
+  {
+    "type": "mc",
+    "q": "Ganciclovir의 대표적인 용량 제한 독성은?",
+    "options": [
+      "고요산혈증",
+      "골수억제",
+      "기관지연축",
+      "신장결석"
+    ],
+    "answer": 1,
+    "exp": "Ganciclovir의 중요한 독성은 골수억제이며 정맥 투여에서 특히 주의한다.",
+    "slide": 15,
+    "id": "antiviral-21"
+  },
+  {
+    "type": "ox",
+    "q": "Ganciclovir의 대표 독성은 기관지연축이다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 1,
+    "exp": "Ganciclovir의 중요한 독성은 골수억제이며 정맥 투여에서 특히 주의한다.",
+    "slide": 15,
+    "id": "antiviral-22"
+  },
+  {
+    "type": "mc",
+    "q": "Valganciclovir는 무엇의 L-valyl ester 전구약물인가?",
+    "options": [
+      "Ganciclovir",
+      "Acyclovir",
+      "Foscarnet",
+      "Ribavirin"
+    ],
+    "answer": 0,
+    "exp": "Valganciclovir는 경구 생체이용률을 높인 ganciclovir 전구약물이다.",
+    "slide": 15,
+    "id": "antiviral-23"
+  },
+  {
+    "type": "ox",
+    "q": "Valganciclovir는 경구 생체이용률을 높인 ganciclovir 전구약물이다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "exp": "Valganciclovir는 경구 생체이용률을 높인 ganciclovir 전구약물이다.",
+    "slide": 15,
+    "id": "antiviral-24"
+  },
+  {
+    "type": "mc",
+    "q": "Foscarnet의 작용기전으로 옳은 것은?",
+    "options": [
+      "viral thymidine kinase를 활성화",
+      "M2 channel 차단",
+      "CCR5 길항",
+      "무기 pyrophosphate 유사체로 바이러스 polymerase를 직접 억제"
+    ],
+    "answer": 3,
+    "exp": "Foscarnet은 인산화 없이 DNA polymerase, RNA polymerase 및 HIV reverse transcriptase를 직접 억제한다.",
+    "slide": 16,
+    "id": "antiviral-25"
+  },
+  {
+    "type": "ox",
+    "q": "Foscarnet은 바이러스 thymidine kinase에 의한 인산화가 필수다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 1,
+    "exp": "Foscarnet은 인산화 없이 DNA polymerase, RNA polymerase 및 HIV reverse transcriptase를 직접 억제한다.",
+    "slide": 16,
+    "id": "antiviral-26"
+  },
+  {
+    "type": "mc",
+    "q": "Foscarnet 투여 시 특히 감시해야 할 이상은?",
+    "options": [
+      "갑상선 기능만",
+      "INR만",
+      "신기능과 칼슘·인·마그네슘 등 전해질",
+      "청력만"
+    ],
+    "answer": 2,
+    "exp": "Foscarnet은 신장독성과 저·고칼슘혈증, 인산 이상, 저칼륨·저마그네슘혈증을 일으킬 수 있다.",
+    "slide": 17,
+    "id": "antiviral-27"
+  },
+  {
+    "type": "ox",
+    "q": "Foscarnet은 신장독성과 저·고칼슘혈증, 인산 이상, 저칼륨·저마그네슘혈증을 일으킬 수 있다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "exp": "Foscarnet은 신장독성과 저·고칼슘혈증, 인산 이상, 저칼륨·저마그네슘혈증을 일으킬 수 있다.",
+    "slide": 17,
+    "id": "antiviral-28"
+  },
+  {
+    "type": "mc",
+    "q": "Cidofovir의 활성화에 대한 설명으로 옳은 것은?",
+    "options": [
+      "인산화가 전혀 필요 없다",
+      "바이러스 kinase가 아니라 숙주 kinase에 의존한다",
+      "UL97 kinase만 필요하다",
+      "viral thymidine kinase만 필요하다"
+    ],
+    "answer": 1,
+    "exp": "Cidofovir는 이미 nucleotide 구조를 가지며 숙주 kinase에 의해 diphosphate가 된다.",
+    "slide": 18,
+    "id": "antiviral-29"
+  },
+  {
+    "type": "ox",
+    "q": "Cidofovir는 반드시 바이러스 thymidine kinase로 활성화된다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 1,
+    "exp": "Cidofovir는 이미 nucleotide 구조를 가지며 숙주 kinase에 의해 diphosphate가 된다.",
+    "slide": 18,
+    "id": "antiviral-30"
+  },
+  {
+    "type": "mc",
+    "q": "Cidofovir 신독성 예방에 사용하는 방법은?",
+    "options": [
+      "Probenecid와 사전 수액 공급",
+      "탈수와 이뇨제",
+      "고칼슘 식이",
+      "Ritonavir boosting"
+    ],
+    "answer": 0,
+    "exp": "Cidofovir는 신세뇨관 분비로 제거되며 probenecid와 pre-hydration으로 신독성을 줄인다.",
+    "slide": 18,
+    "id": "antiviral-31"
+  },
+  {
+    "type": "ox",
+    "q": "Cidofovir는 신세뇨관 분비로 제거되며 probenecid와 pre-hydration으로 신독성을 줄인다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "exp": "Cidofovir는 신세뇨관 분비로 제거되며 probenecid와 pre-hydration으로 신독성을 줄인다.",
+    "slide": 18,
+    "id": "antiviral-32"
+  },
+  {
+    "type": "mc",
+    "q": "Letermovir의 표적은?",
+    "options": [
+      "HIV integrase",
+      "influenza neuraminidase",
+      "HBV reverse transcriptase",
+      "CMV DNA terminase complex"
+    ],
+    "answer": 3,
+    "exp": "Letermovir는 CMV DNA 포장과 가공에 필요한 terminase complex를 억제한다.",
+    "slide": 20,
+    "id": "antiviral-33"
+  },
+  {
+    "type": "ox",
+    "q": "Letermovir는 CMV UL97 kinase를 억제하는 약물이다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 1,
+    "exp": "Letermovir는 CMV DNA 포장과 가공에 필요한 terminase complex를 억제한다.",
+    "slide": 20,
+    "id": "antiviral-34"
+  },
+  {
+    "type": "mc",
+    "q": "Enfuvirtide가 결합하는 HIV 단백질은?",
+    "options": [
+      "reverse transcriptase",
+      "integrase",
+      "gp41",
+      "gp120 V3 loop"
+    ],
+    "answer": 2,
+    "exp": "Enfuvirtide는 36개 아미노산 합성 펩타이드로 gp41에 결합하는 융합억제제이다.",
+    "slide": 23,
+    "id": "antiviral-35"
+  },
+  {
+    "type": "ox",
+    "q": "Enfuvirtide는 36개 아미노산 합성 펩타이드로 gp41에 결합하는 융합억제제이다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "exp": "Enfuvirtide는 36개 아미노산 합성 펩타이드로 gp41에 결합하는 융합억제제이다.",
+    "slide": 23,
+    "id": "antiviral-36"
+  },
+  {
+    "type": "mc",
+    "q": "Maraviroc의 표적은?",
+    "options": [
+      "CXCR4와 CCR5 모두 직접 차단",
+      "CCR5",
+      "CD4",
+      "gp41"
+    ],
+    "answer": 1,
+    "exp": "Maraviroc는 숙주 CCR5 수용체 길항제로 CCR5-tropic HIV의 진입을 억제한다.",
+    "slide": 24,
+    "id": "antiviral-37"
+  },
+  {
+    "type": "ox",
+    "q": "Maraviroc는 HIV gp41에 직접 결합한다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 1,
+    "exp": "Maraviroc는 숙주 CCR5 수용체 길항제로 CCR5-tropic HIV의 진입을 억제한다.",
+    "slide": 24,
+    "id": "antiviral-38"
+  },
+  {
+    "type": "mc",
+    "q": "Ibalizumab에 대한 설명으로 옳은 것은?",
+    "options": [
+      "CD4 수용체에 결합하는 단클론항체이다",
+      "경구 CCR5 길항제이다",
+      "M2 channel 차단제이다",
+      "NRTI이다"
+    ],
+    "answer": 0,
+    "exp": "Ibalizumab은 anti-CD4 monoclonal antibody로 다제내성 HIV에 다른 활성약과 병용한다.",
+    "slide": 24,
+    "id": "antiviral-39"
+  },
+  {
+    "type": "ox",
+    "q": "Ibalizumab은 anti-CD4 monoclonal antibody로 다제내성 HIV에 다른 활성약과 병용한다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "exp": "Ibalizumab은 anti-CD4 monoclonal antibody로 다제내성 HIV에 다른 활성약과 병용한다.",
+    "slide": 24,
+    "id": "antiviral-40"
+  },
+  {
+    "type": "mc",
+    "q": "NRTI의 공통 작용기전은?",
+    "options": [
+      "RT에 비경쟁적으로 결합하며 인산화가 불필요하다",
+      "HIV protease를 억제한다",
+      "gp41을 차단한다",
+      "삼인산형으로 전환되어 viral DNA에 삽입되고 사슬종결을 유발한다"
+    ],
+    "answer": 3,
+    "exp": "NRTI는 활성 triphosphate가 되어 reverse transcriptase의 기질로 들어가 premature chain termination을 일으킨다.",
+    "slide": 26,
+    "id": "antiviral-41"
+  },
+  {
+    "type": "ox",
+    "q": "NRTI는 인산화가 필요하지 않다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 1,
+    "exp": "NRTI는 활성 triphosphate가 되어 reverse transcriptase의 기질로 들어가 premature chain termination을 일으킨다.",
+    "slide": 26,
+    "id": "antiviral-42"
+  },
+  {
+    "type": "mc",
+    "q": "NRTI 계열의 공통적인 중증 독성과 관련된 효소는?",
+    "options": [
+      "acetylcholinesterase",
+      "HMG-CoA reductase",
+      "미토콘드리아 DNA polymerase-γ",
+      "cyclooxygenase-2"
+    ],
+    "answer": 2,
+    "exp": "NRTI는 mtDNA polymerase-γ 억제로 젖산산증과 지방대사 이상을 유발할 수 있다.",
+    "slide": 26,
+    "id": "antiviral-43"
+  },
+  {
+    "type": "ox",
+    "q": "NRTI는 mtDNA polymerase-γ 억제로 젖산산증과 지방대사 이상을 유발할 수 있다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "exp": "NRTI는 mtDNA polymerase-γ 억제로 젖산산증과 지방대사 이상을 유발할 수 있다.",
+    "slide": 26,
+    "id": "antiviral-44"
+  },
+  {
+    "type": "mc",
+    "q": "Abacavir 사용 전 특히 고려해야 할 중증 이상반응은?",
+    "options": [
+      "망막박리",
+      "치명적 과민반응",
+      "신장결석",
+      "기관지연축"
+    ],
+    "answer": 1,
+    "exp": "Abacavir는 약 8%에서 심각한 과민반응이 나타날 수 있어 임상적으로 매우 중요하다.",
+    "slide": 27,
+    "id": "antiviral-45"
+  },
+  {
+    "type": "ox",
+    "q": "Abacavir는 과민반응과 관련이 없다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 1,
+    "exp": "Abacavir는 약 8%에서 심각한 과민반응이 나타날 수 있어 임상적으로 매우 중요하다.",
+    "slide": 27,
+    "id": "antiviral-46"
+  },
+  {
+    "type": "mc",
+    "q": "Didanosine의 대표 독성 조합은?",
+    "options": [
+      "말초신경병증과 췌장염",
+      "골수억제와 고빌리루빈혈증",
+      "기관지연축과 기침",
+      "신장결석과 혈뇨"
+    ],
+    "answer": 0,
+    "exp": "Didanosine은 말초 감각신경병증과 췌장염을 일으킬 수 있다.",
+    "slide": 27,
+    "id": "antiviral-47"
+  },
+  {
+    "type": "ox",
+    "q": "Didanosine은 말초 감각신경병증과 췌장염을 일으킬 수 있다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "exp": "Didanosine은 말초 감각신경병증과 췌장염을 일으킬 수 있다.",
+    "slide": 27,
+    "id": "antiviral-48"
+  },
+  {
+    "type": "mc",
+    "q": "Lamivudine이 치료에 사용되는 바이러스 조합은?",
+    "options": [
+      "HSV와 influenza",
+      "CMV와 RSV",
+      "HCV만",
+      "HIV와 HBV"
+    ],
+    "answer": 3,
+    "exp": "Lamivudine은 cytosine analogue NRTI로 HIV와 HBV에 사용된다.",
+    "slide": 28,
+    "id": "antiviral-49"
+  },
+  {
+    "type": "ox",
+    "q": "Lamivudine은 HIV에는 효과가 없고 HBV에만 사용된다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 1,
+    "exp": "Lamivudine은 cytosine analogue NRTI로 HIV와 HBV에 사용된다.",
+    "slide": 28,
+    "id": "antiviral-50"
+  },
+  {
+    "type": "mc",
+    "q": "Lamivudine과 동시 사용하지 않는 것이 권고되는 유사 약물은?",
+    "options": [
+      "Tenofovir",
+      "Abacavir",
+      "Emtricitabine",
+      "Zidovudine"
+    ],
+    "answer": 2,
+    "exp": "Emtricitabine은 lamivudine의 fluorinated 유사체이므로 두 약을 함께 사용하지 않는다.",
+    "slide": 28,
+    "id": "antiviral-51"
+  },
+  {
+    "type": "ox",
+    "q": "Emtricitabine은 lamivudine의 fluorinated 유사체이므로 두 약을 함께 사용하지 않는다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "exp": "Emtricitabine은 lamivudine의 fluorinated 유사체이므로 두 약을 함께 사용하지 않는다.",
+    "slide": 28,
+    "id": "antiviral-52"
+  },
+  {
+    "type": "mc",
+    "q": "Tenofovir의 주요 독성으로 옳은 것은?",
+    "options": [
+      "신장결석만",
+      "신기능 저하와 골독성",
+      "골수억제만",
+      "기관지연축"
+    ],
+    "answer": 1,
+    "exp": "Tenofovir는 신장독성과 골밀도 감소 등 골독성을 유발할 수 있다.",
+    "slide": 29,
+    "id": "antiviral-53"
+  },
+  {
+    "type": "ox",
+    "q": "Tenofovir는 신기능과 뼈에 영향을 주지 않는다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 1,
+    "exp": "Tenofovir는 신장독성과 골밀도 감소 등 골독성을 유발할 수 있다.",
+    "slide": 29,
+    "id": "antiviral-54"
+  },
+  {
+    "type": "mc",
+    "q": "Zidovudine의 대표 독성은?",
+    "options": [
+      "골수억제와 빈혈",
+      "췌장염만",
+      "신장결석",
+      "기관지연축"
+    ],
+    "answer": 0,
+    "exp": "Zidovudine은 골수억제, 혈소판감소, 빈혈 및 색소침착을 일으킬 수 있다.",
+    "slide": 30,
+    "id": "antiviral-55"
+  },
+  {
+    "type": "ox",
+    "q": "Zidovudine은 골수억제, 혈소판감소, 빈혈 및 색소침착을 일으킬 수 있다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "exp": "Zidovudine은 골수억제, 혈소판감소, 빈혈 및 색소침착을 일으킬 수 있다.",
+    "slide": 30,
+    "id": "antiviral-56"
+  },
+  {
+    "type": "mc",
+    "q": "Zidovudine의 임상적 특징으로 옳은 것은?",
+    "options": [
+      "CMV retinitis의 1차약이다",
+      "influenza A uncoating을 억제한다",
+      "CCR5를 차단한다",
+      "HIV 수직감염 감소에 사용된다"
+    ],
+    "answer": 3,
+    "exp": "Zidovudine은 임신과 주산기 상황에서 HIV 수직전파 감소에 사용되어 왔다.",
+    "slide": 30,
+    "id": "antiviral-57"
+  },
+  {
+    "type": "ox",
+    "q": "Zidovudine은 수직감염 감소에 도움이 되지 않는다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 1,
+    "exp": "Zidovudine은 임신과 주산기 상황에서 HIV 수직전파 감소에 사용되어 왔다.",
+    "slide": 30,
+    "id": "antiviral-58"
+  },
+  {
+    "type": "mc",
+    "q": "NNRTI의 특징으로 옳은 것은?",
+    "options": [
+      "HIV-2에도 항상 동일하게 작용한다",
+      "viral protease를 절단한다",
+      "인산화 없이 HIV-1 reverse transcriptase에 결합한다",
+      "triphosphate로 전환되어 DNA에 삽입된다"
+    ],
+    "answer": 2,
+    "exp": "NNRTI는 인산화가 필요 없고 HIV-1 RT의 비기질 결합부위에 결합한다.",
+    "slide": 31,
+    "id": "antiviral-59"
+  },
+  {
+    "type": "ox",
+    "q": "NNRTI는 인산화가 필요 없고 HIV-1 RT의 비기질 결합부위에 결합한다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "exp": "NNRTI는 인산화가 필요 없고 HIV-1 RT의 비기질 결합부위에 결합한다.",
+    "slide": 31,
+    "id": "antiviral-60"
+  },
+  {
+    "type": "mc",
+    "q": "NNRTI 내성과 흔히 관련된 변이는?",
+    "options": [
+      "UL97 mutation",
+      "K103N 또는 Y181C",
+      "M184V만",
+      "K65R만"
+    ],
+    "answer": 1,
+    "exp": "K103N과 Y181C는 대표적인 NNRTI 내성 변이이다.",
+    "slide": 31,
+    "id": "antiviral-61"
+  },
+  {
+    "type": "ox",
+    "q": "K103N은 neuraminidase inhibitor 내성 변이다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 1,
+    "exp": "K103N과 Y181C는 대표적인 NNRTI 내성 변이이다.",
+    "slide": 31,
+    "id": "antiviral-62"
+  },
+  {
+    "type": "mc",
+    "q": "Efavirenz의 대표 이상반응은?",
+    "options": [
+      "중추신경계 증상과 생생한 꿈",
+      "신장결석",
+      "골수억제만",
+      "기관지연축"
+    ],
+    "answer": 0,
+    "exp": "Efavirenz는 CNS 독성이 흔하며 vivid dream이 대표적이다.",
+    "slide": 32,
+    "id": "antiviral-63"
+  },
+  {
+    "type": "ox",
+    "q": "Efavirenz는 CNS 독성이 흔하며 vivid dream이 대표적이다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "exp": "Efavirenz는 CNS 독성이 흔하며 vivid dream이 대표적이다.",
+    "slide": 32,
+    "id": "antiviral-64"
+  },
+  {
+    "type": "mc",
+    "q": "Nevirapine의 중증 이상반응 조합은?",
+    "options": [
+      "신장결석과 고칼슘혈증",
+      "기관지연축과 기침",
+      "망막염과 골수억제",
+      "Stevens-Johnson syndrome과 전격성 간염"
+    ],
+    "answer": 3,
+    "exp": "Nevirapine은 심한 피부발진, SJS 및 fulminant hepatitis를 유발할 수 있다.",
+    "slide": 33,
+    "id": "antiviral-65"
+  },
+  {
+    "type": "ox",
+    "q": "Nevirapine은 중증 피부반응이나 간염과 무관하다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 1,
+    "exp": "Nevirapine은 심한 피부발진, SJS 및 fulminant hepatitis를 유발할 수 있다.",
+    "slide": 33,
+    "id": "antiviral-66"
+  },
+  {
+    "type": "mc",
+    "q": "Dolutegravir 복용과 다가 양이온 제제의 간격으로 옳은 것은?",
+    "options": [
+      "제산제 30분 후만",
+      "간격이 필요 없다",
+      "제산제보다 2시간 먼저 또는 6시간 후",
+      "항상 동시에"
+    ],
+    "answer": 2,
+    "exp": "Integrase inhibitors는 다가 양이온과 킬레이트를 형성하므로 투여 간격이 필요하다.",
+    "slide": 36,
+    "id": "antiviral-67"
+  },
+  {
+    "type": "ox",
+    "q": "Integrase inhibitors는 다가 양이온과 킬레이트를 형성하므로 투여 간격이 필요하다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "exp": "Integrase inhibitors는 다가 양이온과 킬레이트를 형성하므로 투여 간격이 필요하다.",
+    "slide": 36,
+    "id": "antiviral-68"
+  },
+  {
+    "type": "mc",
+    "q": "Raltegravir의 주된 대사 경로는?",
+    "options": [
+      "알코올 탈수소효소",
+      "UGT1A1에 의한 glucuronidation",
+      "CYP2D6 산화만",
+      "신장 여과만"
+    ],
+    "answer": 1,
+    "exp": "Raltegravir는 CYP450과 큰 상호작용이 없고 UGT1A1 glucuronidation으로 대사된다.",
+    "slide": 37,
+    "id": "antiviral-69"
+  },
+  {
+    "type": "ox",
+    "q": "Raltegravir는 주로 CYP3A4로 대사된다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 1,
+    "exp": "Raltegravir는 CYP450과 큰 상호작용이 없고 UGT1A1 glucuronidation으로 대사된다.",
+    "slide": 37,
+    "id": "antiviral-70"
+  },
+  {
+    "type": "mc",
+    "q": "HIV protease inhibitor의 대표적인 대사 이상은?",
+    "options": [
+      "지방재분포·이상지질혈증·인슐린저항성",
+      "심한 저혈당만",
+      "갑상선기능저하",
+      "용혈성 빈혈만"
+    ],
+    "answer": 0,
+    "exp": "Protease inhibitor는 central obesity, buffalo hump, facial wasting, dyslipidemia와 insulin resistance를 유발할 수 있다.",
+    "slide": 38,
+    "id": "antiviral-71"
+  },
+  {
+    "type": "ox",
+    "q": "Protease inhibitor는 central obesity, buffalo hump, facial wasting, dyslipidemia와 insulin resistance를 유발할 수 있다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "exp": "Protease inhibitor는 central obesity, buffalo hump, facial wasting, dyslipidemia와 insulin resistance를 유발할 수 있다.",
+    "slide": 38,
+    "id": "antiviral-72"
+  },
+  {
+    "type": "mc",
+    "q": "Atazanavir와 병용을 피해야 하는 약물군은?",
+    "options": [
+      "NRTI",
+      "흡입형 beta agonist",
+      "acetaminophen",
+      "Proton pump inhibitor"
+    ],
+    "answer": 3,
+    "exp": "Atazanavir는 산성 환경에서 흡수되므로 위산을 크게 낮추는 PPI와 병용을 피한다.",
+    "slide": 39,
+    "id": "antiviral-73"
+  },
+  {
+    "type": "ox",
+    "q": "Atazanavir 흡수는 위 pH와 무관하다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 1,
+    "exp": "Atazanavir는 산성 환경에서 흡수되므로 위산을 크게 낮추는 PPI와 병용을 피한다.",
+    "slide": 39,
+    "id": "antiviral-74"
+  },
+  {
+    "type": "mc",
+    "q": "Darunavir 투여 시 특히 확인할 알레르기 병력은?",
+    "options": [
+      "Latex allergy",
+      "Shellfish allergy",
+      "Sulfonamide allergy",
+      "Penicillin allergy만"
+    ],
+    "answer": 2,
+    "exp": "Darunavir는 sulfonamide moiety를 포함하여 sulfa allergy 환자에서 주의한다.",
+    "slide": 39,
+    "id": "antiviral-75"
+  },
+  {
+    "type": "ox",
+    "q": "Darunavir는 sulfonamide moiety를 포함하여 sulfa allergy 환자에서 주의한다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "exp": "Darunavir는 sulfonamide moiety를 포함하여 sulfa allergy 환자에서 주의한다.",
+    "slide": 39,
+    "id": "antiviral-76"
+  },
+  {
+    "type": "mc",
+    "q": "Indinavir의 특징적 독성은?",
+    "options": [
+      "골수억제",
+      "요중 결정화에 의한 신장결석",
+      "기관지연축",
+      "용혈성 빈혈"
+    ],
+    "answer": 1,
+    "exp": "Indinavir는 nephrolithiasis와 hyperbilirubinemia를 유발할 수 있다.",
+    "slide": 41,
+    "id": "antiviral-77"
+  },
+  {
+    "type": "ox",
+    "q": "Indinavir는 신장결석과 관련이 없다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 1,
+    "exp": "Indinavir는 nephrolithiasis와 hyperbilirubinemia를 유발할 수 있다.",
+    "slide": 41,
+    "id": "antiviral-78"
+  },
+  {
+    "type": "mc",
+    "q": "Ritonavir를 다른 protease inhibitor와 병용하는 주된 이유는?",
+    "options": [
+      "강력한 CYP3A4 억제로 다른 약물 농도를 높이기 위해",
+      "신장 배설을 촉진하기 위해",
+      "neuraminidase를 함께 억제하기 위해",
+      "M2 channel을 차단하기 위해"
+    ],
+    "answer": 0,
+    "exp": "Ritonavir는 CYP3A4 억제제로 pharmacokinetic booster 역할을 한다.",
+    "slide": 43,
+    "id": "antiviral-79"
+  },
+  {
+    "type": "ox",
+    "q": "Ritonavir는 CYP3A4 억제제로 pharmacokinetic booster 역할을 한다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "exp": "Ritonavir는 CYP3A4 억제제로 pharmacokinetic booster 역할을 한다.",
+    "slide": 43,
+    "id": "antiviral-80"
+  },
+  {
+    "type": "mc",
+    "q": "전형적인 HAART 구성은?",
+    "options": [
+      "NRTI 단독 1제",
+      "PI 단독 1제",
+      "항진균제 2제와 NRTI 1제",
+      "2 NRTI backbone + NNRTI, PI 또는 INSTI 중 1개"
+    ],
+    "answer": 3,
+    "exp": "HAART는 일반적으로 2개의 NRTI backbone에 다른 계열의 base agent를 조합한다.",
+    "slide": 44,
+    "id": "antiviral-81"
+  },
+  {
+    "type": "ox",
+    "q": "HAART는 단일 약물 치료가 원칙이다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 1,
+    "exp": "HAART는 일반적으로 2개의 NRTI backbone에 다른 계열의 base agent를 조합한다.",
+    "slide": 44,
+    "id": "antiviral-82"
+  },
+  {
+    "type": "mc",
+    "q": "대유행과 가장 관련이 깊은 influenza type은?",
+    "options": [
+      "Influenza C",
+      "모두 동일",
+      "Influenza A",
+      "Influenza B"
+    ],
+    "answer": 2,
+    "exp": "Influenza A는 다양한 동물 숙주와 항원변이를 통해 pandemic을 일으킬 수 있다.",
+    "slide": 47,
+    "id": "antiviral-83"
+  },
+  {
+    "type": "ox",
+    "q": "Influenza A는 다양한 동물 숙주와 항원변이를 통해 pandemic을 일으킬 수 있다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "exp": "Influenza A는 다양한 동물 숙주와 항원변이를 통해 pandemic을 일으킬 수 있다.",
+    "slide": 47,
+    "id": "antiviral-84"
+  },
+  {
+    "type": "mc",
+    "q": "Amantadine과 rimantadine의 표적은?",
+    "options": [
+      "RNA-dependent RNA polymerase",
+      "Influenza A의 M2 proton channel",
+      "neuraminidase",
+      "cap-dependent endonuclease"
+    ],
+    "answer": 1,
+    "exp": "Adamantane 계열은 influenza A M2 proton channel을 차단하여 uncoating을 억제한다.",
+    "slide": 48,
+    "id": "antiviral-85"
+  },
+  {
+    "type": "ox",
+    "q": "Amantadine은 influenza B neuraminidase를 억제한다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 1,
+    "exp": "Adamantane 계열은 influenza A M2 proton channel을 차단하여 uncoating을 억제한다.",
+    "slide": 48,
+    "id": "antiviral-86"
+  },
+  {
+    "type": "mc",
+    "q": "Baloxavir marboxil의 작용기전은?",
+    "options": [
+      "Cap-dependent endonuclease 억제",
+      "M2 channel 차단",
+      "neuraminidase 억제",
+      "viral thymidine kinase 억제"
+    ],
+    "answer": 0,
+    "exp": "Baloxavir는 cap-dependent endonuclease를 억제해 influenza RNA 전사를 방해한다.",
+    "slide": 49,
+    "id": "antiviral-87"
+  },
+  {
+    "type": "ox",
+    "q": "Baloxavir는 cap-dependent endonuclease를 억제해 influenza RNA 전사를 방해한다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "exp": "Baloxavir는 cap-dependent endonuclease를 억제해 influenza RNA 전사를 방해한다.",
+    "slide": 49,
+    "id": "antiviral-88"
+  },
+  {
+    "type": "mc",
+    "q": "Baloxavir 복용 시 피해야 할 것은?",
+    "options": [
+      "물",
+      "공복",
+      "acetaminophen",
+      "다가 양이온 함유 제산제와 유제품"
+    ],
+    "answer": 3,
+    "exp": "Baloxavir는 polyvalent cation과 상호작용하므로 제산제, 칼슘 보충제 및 유제품과 함께 복용하지 않는다.",
+    "slide": 49,
+    "id": "antiviral-89"
+  },
+  {
+    "type": "ox",
+    "q": "Baloxavir는 유제품과 함께 복용해야 흡수가 증가한다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 1,
+    "exp": "Baloxavir는 polyvalent cation과 상호작용하므로 제산제, 칼슘 보충제 및 유제품과 함께 복용하지 않는다.",
+    "slide": 49,
+    "id": "antiviral-90"
+  },
+  {
+    "type": "mc",
+    "q": "Oseltamivir의 작용기전은?",
+    "options": [
+      "fusion 억제",
+      "integrase 억제",
+      "Neuraminidase 억제로 자손 바이러스 방출을 방해",
+      "M2 channel 차단"
+    ],
+    "answer": 2,
+    "exp": "Oseltamivir는 sialic acid analogue neuraminidase inhibitor로 감염 세포에서 바이러스 방출을 억제한다.",
+    "slide": 50,
+    "id": "antiviral-91"
+  },
+  {
+    "type": "ox",
+    "q": "Oseltamivir는 sialic acid analogue neuraminidase inhibitor로 감염 세포에서 바이러스 방출을 억제한다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "exp": "Oseltamivir는 sialic acid analogue neuraminidase inhibitor로 감염 세포에서 바이러스 방출을 억제한다.",
+    "slide": 50,
+    "id": "antiviral-92"
+  },
+  {
+    "type": "mc",
+    "q": "Peramivir의 투여 경로와 표준 특징은?",
+    "options": [
+      "국소 HSV 치료제",
+      "정맥으로 단회 투여 가능한 neuraminidase inhibitor",
+      "흡입형 5일 투여",
+      "경구 M2 inhibitor"
+    ],
+    "answer": 1,
+    "exp": "Peramivir는 influenza A/B에 효과적인 정맥용 neuraminidase inhibitor이며 조기 투여가 중요하다.",
+    "slide": 51,
+    "id": "antiviral-93"
+  },
+  {
+    "type": "ox",
+    "q": "Peramivir는 흡입제로만 투여한다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 1,
+    "exp": "Peramivir는 influenza A/B에 효과적인 정맥용 neuraminidase inhibitor이며 조기 투여가 중요하다.",
+    "slide": 51,
+    "id": "antiviral-94"
+  },
+  {
+    "type": "mc",
+    "q": "Zanamivir 사용 시 주의할 대표 이상반응은?",
+    "options": [
+      "기관지연축",
+      "골수억제",
+      "신장결석",
+      "용혈성 빈혈"
+    ],
+    "answer": 0,
+    "exp": "Zanamivir는 흡입 분말제로 기침과 기관지연축을 일으킬 수 있다.",
+    "slide": 52,
+    "id": "antiviral-95"
+  },
+  {
+    "type": "ox",
+    "q": "Zanamivir는 흡입 분말제로 기침과 기관지연축을 일으킬 수 있다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "exp": "Zanamivir는 흡입 분말제로 기침과 기관지연축을 일으킬 수 있다.",
+    "slide": 52,
+    "id": "antiviral-96"
+  },
+  {
+    "type": "mc",
+    "q": "Remdesivir의 주요 표적은?",
+    "options": [
+      "M2 proton channel",
+      "CMV terminase",
+      "HIV CCR5",
+      "SARS-CoV-2 RNA-dependent RNA polymerase"
+    ],
+    "answer": 3,
+    "exp": "Remdesivir는 adenosine nucleotide analogue prodrug로 viral RdRp를 억제한다.",
+    "slide": 55,
+    "id": "antiviral-97"
+  },
+  {
+    "type": "ox",
+    "q": "Remdesivir는 SARS-CoV-2 protease inhibitor이다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 1,
+    "exp": "Remdesivir는 adenosine nucleotide analogue prodrug로 viral RdRp를 억제한다.",
+    "slide": 55,
+    "id": "antiviral-98"
+  },
+  {
+    "type": "mc",
+    "q": "Paxlovid의 구성은?",
+    "options": [
+      "Acyclovir + valacyclovir",
+      "Sofosbuvir + velpatasvir",
+      "Nirmatrelvir + ritonavir",
+      "Oseltamivir + zanamivir"
+    ],
+    "answer": 2,
+    "exp": "Paxlovid는 SARS-CoV-2 protease inhibitor nirmatrelvir와 CYP3A 억제 booster ritonavir의 조합이다.",
+    "slide": 56,
+    "id": "antiviral-99"
+  },
+  {
+    "type": "ox",
+    "q": "Paxlovid는 SARS-CoV-2 protease inhibitor nirmatrelvir와 CYP3A 억제 booster ritonavir의 조합이다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "exp": "Paxlovid는 SARS-CoV-2 protease inhibitor nirmatrelvir와 CYP3A 억제 booster ritonavir의 조합이다.",
+    "slide": 56,
+    "id": "antiviral-100"
+  }
+]
