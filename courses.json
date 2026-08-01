@@ -118,5 +118,15 @@
   "file": "questions/vibrio.json",
   "category": "세균학",
   "slideDir": "slides/vibrio"
+},
+{
+  "id": "infection_diag",
+  "title": "감염의 진단",
+  "icon": "🧪",
+  "count": 100,
+  "color": "#2563eb",
+  "file": "questions/infection_diag.json",
+  "category": "세균학",
+  "slideDir": "slides/infection_diag"
 }
 ]
