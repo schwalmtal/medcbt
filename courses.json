@@ -128,5 +128,15 @@
   "file": "questions/infection_diag.json",
   "category": "세균학",
   "slideDir": "slides/infection_diag"
+},
+{
+  "id": "diagnostic_medicine",
+  "title": "진단검사의학의 기초입문",
+  "icon": "🧪",
+  "count": 100,
+  "color": "#0f766e",
+  "file": "questions/diagnostic_medicine.json",
+  "category": "세균학",
+  "slideDir": "slides/diagnostic_medicine"
 }
 ]
