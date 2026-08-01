@@ -1,0 +1,1302 @@
+[
+  {
+    "type": "ox",
+    "q": "감염 진단에서 임상정보(clinical information)는 매우 중요하다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "exp": "강의에서는 clinical information이 가장 중요하다고 강조한다.",
+    "slide": 3,
+    "id": "infection_diag-1"
+  },
+  {
+    "type": "ox",
+    "q": "감염 진단은 검사실 결과만으로 이루어지므로 임상정보는 필요하지 않다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 1,
+    "exp": "검사 결과는 환자의 임상정보와 함께 해석해야 한다.",
+    "slide": 3,
+    "id": "infection_diag-2"
+  },
+  {
+    "type": "mc",
+    "q": "진단미생물학의 일반 절차에서 가장 먼저 시행하는 것은?",
+    "options": [
+      "검체 수집",
+      "항체반응 확인",
+      "항생제 감수성 검사",
+      "Western blot"
+    ],
+    "answer": 0,
+    "exp": "적절한 검체 수집이 진단 과정의 출발점이다.",
+    "slide": 4,
+    "id": "infection_diag-3"
+  },
+  {
+    "type": "ox",
+    "q": "병원체 특이 유전자 검출은 감염원 검출 방법에 포함된다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "exp": "핵산검사는 병원체 특이 유전자를 검출한다.",
+    "slide": 4,
+    "id": "infection_diag-4"
+  },
+  {
+    "type": "mc",
+    "q": "세균 감염 진단용 검체 수집 원칙으로 옳은 것은?",
+    "options": [
+      "타액을 객담 대신 제출한다",
+      "상처 표면만 면봉으로 문지른다",
+      "병소를 대표하는 검체를 충분히 채취한다",
+      "항생제 투여 후 며칠 뒤 채취한다"
+    ],
+    "answer": 2,
+    "exp": "검체는 감염 과정을 대표하고 양이 충분해야 한다.",
+    "slide": 5,
+    "id": "infection_diag-5"
+  },
+  {
+    "type": "ox",
+    "q": "하부호흡기 감염 검체로 타액보다 객담이 적절하다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "exp": "강의에서는 sputum, not saliva라고 제시한다.",
+    "slide": 5,
+    "id": "infection_diag-6"
+  },
+  {
+    "type": "ox",
+    "q": "상처 검체는 표면보다 상처 깊은 부위에서 채취하는 것이 적절하다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "exp": "표면 오염을 피하고 병소를 대표하는 깊은 부위 검체를 채취한다.",
+    "slide": 5,
+    "id": "infection_diag-7"
+  },
+  {
+    "type": "ox",
+    "q": "미생물학적 검체는 가능하면 항생제 투여 전에 채취한다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "exp": "항생제 투여 전 검체 확보가 원칙이다.",
+    "slide": 5,
+    "id": "infection_diag-8"
+  },
+  {
+    "type": "mc",
+    "q": "검체 운반에 대한 설명으로 옳은 것은?",
+    "options": [
+      "실온에 장시간 둔다",
+      "가능한 신속히 검사실로 운반한다",
+      "검체량을 줄이기 위해 일부를 폐기한다",
+      "비멸균 용기에 담는다"
+    ],
+    "answer": 1,
+    "exp": "검체는 신속하게 운반하고 필요 시 특수 운반배지를 사용한다.",
+    "slide": 5,
+    "id": "infection_diag-9"
+  },
+  {
+    "type": "ox",
+    "q": "검체 오염을 줄이기 위해 멸균기구와 무균술을 사용한다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "exp": "오염 방지는 검체 수집의 핵심 원칙이다.",
+    "slide": 5,
+    "id": "infection_diag-10"
+  },
+  {
+    "type": "mc",
+    "q": "형태학적 동정에 포함되는 방법은?",
+    "options": [
+      "광학 및 전자현미경 관찰",
+      "혈청 항체가 측정만",
+      "항생제 투여",
+      "문진만"
+    ],
+    "answer": 0,
+    "exp": "형태학적 동정은 광학·전자현미경 관찰을 포함한다.",
+    "slide": 6,
+    "id": "infection_diag-11"
+  },
+  {
+    "type": "mc",
+    "q": "구균(cocci)의 형태는?",
+    "options": [
+      "알형",
+      "막대형",
+      "나선형",
+      "사상형만"
+    ],
+    "answer": 0,
+    "exp": "Cocci는 구형 또는 알형 세균이다.",
+    "slide": 7,
+    "id": "infection_diag-12"
+  },
+  {
+    "type": "mc",
+    "q": "Bacillus는 어떤 형태를 의미하는가?",
+    "options": [
+      "구형",
+      "막대형",
+      "나선형",
+      "아메바형"
+    ],
+    "answer": 1,
+    "exp": "Bacillus는 막대형 세균을 의미한다.",
+    "slide": 7,
+    "id": "infection_diag-13"
+  },
+  {
+    "type": "ox",
+    "q": "Spirochete는 나선형 세균에 해당한다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "exp": "Spirochete는 나선형 형태이다.",
+    "slide": 7,
+    "id": "infection_diag-14"
+  },
+  {
+    "type": "ox",
+    "q": "현미경 검사는 비교적 간단하고 비용이 적게 든다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "exp": "현미경 검사의 장점으로 제시되어 있다.",
+    "slide": 8,
+    "id": "infection_diag-15"
+  },
+  {
+    "type": "ox",
+    "q": "소수의 세균을 검출할 때 현미경 검사는 배양보다 항상 민감하다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 1,
+    "exp": "소수 세균 검출에서는 현미경 검사가 배양보다 덜 민감하다.",
+    "slide": 8,
+    "id": "infection_diag-16"
+  },
+  {
+    "type": "mc",
+    "q": "결핵균 검출에 대표적으로 사용하는 염색은?",
+    "options": [
+      "Ziehl-Neelsen 항산성 염색",
+      "PAS 염색",
+      "Safranin 단독 염색",
+      "H&E 염색"
+    ],
+    "answer": 0,
+    "exp": "Ziehl-Neelsen 염색은 항산균 검출에 사용된다.",
+    "slide": 8,
+    "id": "infection_diag-17"
+  },
+  {
+    "type": "mc",
+    "q": "진균 또는 기생충 관찰에 사용할 수 있는 염색은?",
+    "options": [
+      "PAS stain",
+      "Gram stain만",
+      "India ink만",
+      "Wright stain만"
+    ],
+    "answer": 0,
+    "exp": "PAS는 진균 세포벽 등의 탄수화물 성분을 염색한다.",
+    "slide": 8,
+    "id": "infection_diag-18"
+  },
+  {
+    "type": "mc",
+    "q": "Gram 염색에서 일차 염색약은?",
+    "options": [
+      "Crystal violet",
+      "Alcohol",
+      "Safranin",
+      "Methylene blue"
+    ],
+    "answer": 0,
+    "exp": "Crystal violet이 일차 염색약이다.",
+    "slide": 9,
+    "id": "infection_diag-19"
+  },
+  {
+    "type": "ox",
+    "q": "Gram 염색에서 iodine은 crystal violet과 복합체를 형성한다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "exp": "Iodine은 CV-I complex를 형성한다.",
+    "slide": 9,
+    "id": "infection_diag-20"
+  },
+  {
+    "type": "mc",
+    "q": "Gram 염색에서 탈색제로 사용하는 것은?",
+    "options": [
+      "Alcohol",
+      "Iodine",
+      "Safranin",
+      "Crystal violet"
+    ],
+    "answer": 0,
+    "exp": "Alcohol이 탈색제 역할을 한다.",
+    "slide": 9,
+    "id": "infection_diag-21"
+  },
+  {
+    "type": "ox",
+    "q": "Gram 양성균은 탈색 후에도 CV-I 복합체를 유지하여 보라색으로 보인다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "exp": "두꺼운 peptidoglycan층에 CV-I 복합체가 유지된다.",
+    "slide": 9,
+    "id": "infection_diag-22"
+  },
+  {
+    "type": "mc",
+    "q": "Gram 염색에서 대조염색약은?",
+    "options": [
+      "Safranin",
+      "Iodine",
+      "Alcohol",
+      "Carbol fuchsin"
+    ],
+    "answer": 0,
+    "exp": "Safranin이 대조염색약이다.",
+    "slide": 9,
+    "id": "infection_diag-23"
+  },
+  {
+    "type": "ox",
+    "q": "Ziehl-Neelsen 염색은 항산성 세균을 선택적으로 염색한다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "exp": "세포벽 물질 밀도가 높은 항산균의 선택적 염색법이다.",
+    "slide": 10,
+    "id": "infection_diag-24"
+  },
+  {
+    "type": "ox",
+    "q": "Auramine-rhodamine 염색은 형광색소 염색법이다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "exp": "항산균 검출에 활용되는 형광염색법이다.",
+    "slide": 11,
+    "id": "infection_diag-25"
+  },
+  {
+    "type": "mc",
+    "q": "Giemsa stain의 표적과 색 조합으로 옳은 것은?",
+    "options": [
+      "DNA phosphate group, 핵 blue·세포질 pink",
+      "지질, 핵 red·세포질 green",
+      "단백질, 모두 black",
+      "RNA만, 모두 yellow"
+    ],
+    "answer": 0,
+    "exp": "Giemsa는 DNA phosphate group에 특이적이며 핵은 blue, 세포질은 pink이다.",
+    "slide": 12,
+    "id": "infection_diag-26"
+  },
+  {
+    "type": "ox",
+    "q": "Gimenez stain은 느리게 자라거나 까다로운 세균 검출에 유용하다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "exp": "Slow-growing/fastidious bacteria 검출에 유용하다.",
+    "slide": 12,
+    "id": "infection_diag-27"
+  },
+  {
+    "type": "ox",
+    "q": "Gimenez stain에서 세균은 pink, 주변 조직은 blue로 보일 수 있다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "exp": "강의의 색상 설명과 일치한다.",
+    "slide": 12,
+    "id": "infection_diag-28"
+  },
+  {
+    "type": "mc",
+    "q": "Giemsa stain의 대표 염료 조합은?",
+    "options": [
+      "Methylene blue, azure, eosin",
+      "Carbol fuchsin, malachite green",
+      "Crystal violet, iodine",
+      "Safranin, alcohol"
+    ],
+    "answer": 0,
+    "exp": "Giemsa의 염료 조합이다.",
+    "slide": 13,
+    "id": "infection_diag-29"
+  },
+  {
+    "type": "mc",
+    "q": "Gimenez stain의 대표 염료 조합은?",
+    "options": [
+      "Carbol fuchsin, malachite green",
+      "Methylene blue, azure, eosin",
+      "Iodine, alcohol",
+      "Hematoxylin, eosin"
+    ],
+    "answer": 0,
+    "exp": "Gimenez의 염료 조합이다.",
+    "slide": 13,
+    "id": "infection_diag-30"
+  },
+  {
+    "type": "mc",
+    "q": "다음 중 Giemsa stain의 대표 표적 생물은?",
+    "options": [
+      "Chlamydia",
+      "Legionella만",
+      "Coxiella만",
+      "Bartonella만"
+    ],
+    "answer": 0,
+    "exp": "Giemsa 표적에는 H. pylori, Chlamydia, Plasmodium, Histoplasma가 포함된다.",
+    "slide": 13,
+    "id": "infection_diag-31"
+  },
+  {
+    "type": "mc",
+    "q": "다음 중 Gimenez stain의 대표 표적 생물은?",
+    "options": [
+      "Rickettsia",
+      "Plasmodium",
+      "Histoplasma",
+      "H. pylori"
+    ],
+    "answer": 0,
+    "exp": "Gimenez 표적에는 Rickettsia, Legionella, Coxiella, Bartonella가 포함된다.",
+    "slide": 13,
+    "id": "infection_diag-32"
+  },
+  {
+    "type": "ox",
+    "q": "Giemsa와 Gimenez 염색은 Gram 염색이 잘 되지 않는 세균 관찰에 도움이 된다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "exp": "강의에서 그람염색이 되지 않는 세균 관찰에 활용한다고 설명한다.",
+    "slide": 13,
+    "id": "infection_diag-33"
+  },
+  {
+    "type": "mc",
+    "q": "PAS 염색이 주로 염색하는 물질은?",
+    "options": [
+      "다당류·mucin·glycogen·진균 세포벽 성분",
+      "DNA만",
+      "지질만",
+      "금속이온만"
+    ],
+    "answer": 0,
+    "exp": "PAS는 탄수화물 화합물을 염색한다.",
+    "slide": 14,
+    "id": "infection_diag-34"
+  },
+  {
+    "type": "ox",
+    "q": "PAS 염색에서 periodic acid는 탄수화물을 산화하여 aldehyde를 형성한다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "exp": "Aldehyde가 Schiff reagent와 반응한다.",
+    "slide": 14,
+    "id": "infection_diag-35"
+  },
+  {
+    "type": "mc",
+    "q": "PAS 반응 후 나타나는 대표 색은?",
+    "options": [
+      "Red/pink/magenta",
+      "Black",
+      "Orange only",
+      "Colorless"
+    ],
+    "answer": 0,
+    "exp": "Schiff fuchsin 반응으로 red/pink/magenta가 나타난다.",
+    "slide": 14,
+    "id": "infection_diag-36"
+  },
+  {
+    "type": "ox",
+    "q": "PAS 염색의 대조염색으로 hematoxylin 또는 methyl green을 사용할 수 있다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "exp": "각각 blue 또는 green 대조염색을 제공한다.",
+    "slide": 14,
+    "id": "infection_diag-37"
+  },
+  {
+    "type": "mc",
+    "q": "강의에서 제시된 항원 검출법이 아닌 것은?",
+    "options": [
+      "ELISA",
+      "Latex agglutination",
+      "Western blotting",
+      "RFLP"
+    ],
+    "answer": 3,
+    "exp": "RFLP는 핵산 분석법이다.",
+    "slide": 16,
+    "id": "infection_diag-38"
+  },
+  {
+    "type": "ox",
+    "q": "ELISA는 임상검사실에서 널리 사용하는 plate-based assay이다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "exp": "특정 단백질의 검출 및 정량에 이용된다.",
+    "slide": 17,
+    "id": "infection_diag-39"
+  },
+  {
+    "type": "mc",
+    "q": "ELISA의 대표적인 측정 방식은?",
+    "options": [
+      "Color development",
+      "균의 운동성",
+      "집락 냄새",
+      "전자밀도"
+    ],
+    "answer": 0,
+    "exp": "효소반응에 따른 색 발생을 측정한다.",
+    "slide": 17,
+    "id": "infection_diag-40"
+  },
+  {
+    "type": "ox",
+    "q": "ELISA는 복합 혼합물에서 특정 단백질을 검출하거나 정량할 수 있다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "exp": "강의의 ELISA 설명과 일치한다.",
+    "slide": 17,
+    "id": "infection_diag-41"
+  },
+  {
+    "type": "mc",
+    "q": "Latex agglutination test에서 양성을 나타내는 현상은?",
+    "options": [
+      "항체 코팅 latex 입자의 응집",
+      "DNA 절단",
+      "용혈만",
+      "균주의 발광"
+    ],
+    "answer": 0,
+    "exp": "표적 항원과 결합하여 가시적 응집이 발생한다.",
+    "slide": 19,
+    "id": "infection_diag-42"
+  },
+  {
+    "type": "ox",
+    "q": "Latex agglutination은 항원-항체 반응에 의한 응집을 이용한다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "exp": "항체가 코팅된 latex particle과 표적 항원의 반응을 이용한다.",
+    "slide": 19,
+    "id": "infection_diag-43"
+  },
+  {
+    "type": "mc",
+    "q": "Western blotting의 첫 단계로 적절한 것은?",
+    "options": [
+      "SDS-PAGE를 통한 단백질 분리",
+      "세균 배양만",
+      "DNA sequencing",
+      "Gram staining"
+    ],
+    "answer": 0,
+    "exp": "먼저 주요 단백질을 전기영동으로 분리한다.",
+    "slide": 20,
+    "id": "infection_diag-44"
+  },
+  {
+    "type": "ox",
+    "q": "Western blotting에서는 분리된 단백질을 nitrocellulose membrane으로 옮긴다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "exp": "Protein transfer onto nitrocellulose membrane 단계가 있다.",
+    "slide": 21,
+    "id": "infection_diag-45"
+  },
+  {
+    "type": "ox",
+    "q": "Western blotting에서는 enzyme-labeled anti-immunoglobulin을 이용해 검출할 수 있다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "exp": "효소표지 항면역글로불린과 검출 단계가 제시되어 있다.",
+    "slide": 22,
+    "id": "infection_diag-46"
+  },
+  {
+    "type": "mc",
+    "q": "Western blotting의 올바른 순서는?",
+    "options": [
+      "단백질 분리→막으로 전이→표지 항체 반응→검출",
+      "배양→Gram 염색→PCR→현미경",
+      "항생제 투여→채혈→배양",
+      "DNA 절단→집락 계수"
+    ],
+    "answer": 0,
+    "exp": "강의의 Western blot 과정과 일치한다.",
+    "slide": 20,
+    "id": "infection_diag-47"
+  },
+  {
+    "type": "mc",
+    "q": "병원체 특이 핵산을 증폭하는 대표 방법은?",
+    "options": [
+      "PCR",
+      "ELISA",
+      "PAS",
+      "Latex agglutination"
+    ],
+    "answer": 0,
+    "exp": "PCR은 target amplification system이다.",
+    "slide": 23,
+    "id": "infection_diag-48"
+  },
+  {
+    "type": "ox",
+    "q": "Reverse transcriptase PCR은 target amplification system에 포함된다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "exp": "강의에서 PCR과 RT-PCR을 함께 제시한다.",
+    "slide": 23,
+    "id": "infection_diag-49"
+  },
+  {
+    "type": "mc",
+    "q": "세균 동정에 널리 사용하는 염기서열 표적은?",
+    "options": [
+      "16S rRNA",
+      "18S rRNA만",
+      "Hemoglobin gene",
+      "Insulin gene"
+    ],
+    "answer": 0,
+    "exp": "16S rRNA sequencing은 세균 동정에 활용된다.",
+    "slide": 23,
+    "id": "infection_diag-50"
+  },
+  {
+    "type": "mc",
+    "q": "다음 중 Non-PCR based amplification method가 아닌 것은?",
+    "options": [
+      "LAMP",
+      "TMA",
+      "NASBA",
+      "ELISA"
+    ],
+    "answer": 3,
+    "exp": "ELISA는 면역학적 검사이다.",
+    "slide": 23,
+    "id": "infection_diag-51"
+  },
+  {
+    "type": "ox",
+    "q": "Real-time PCR은 강의에서 핵산 진단법으로 제시된다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "exp": "분자진단법 목록에 포함된다.",
+    "slide": 23,
+    "id": "infection_diag-52"
+  },
+  {
+    "type": "ox",
+    "q": "DNA-DNA 또는 DNA-RNA hybridization은 상보적 핵산 결합을 이용한다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "exp": "Hybridization은 상보적 염기서열 결합을 이용한다.",
+    "slide": 23,
+    "id": "infection_diag-53"
+  },
+  {
+    "type": "ox",
+    "q": "PCR은 검체 내 특정 세균 유전자를 증폭하여 세균 존재 여부를 판단할 수 있다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "exp": "강의의 PCR 정의와 일치한다.",
+    "slide": 24,
+    "id": "infection_diag-54"
+  },
+  {
+    "type": "mc",
+    "q": "Nucleic acid sequencing의 특징으로 옳은 것은?",
+    "options": [
+      "유전자 염기서열을 읽는다",
+      "항원-항체 응집만 본다",
+      "배지 색만 본다",
+      "항생제 억제환만 측정한다"
+    ],
+    "answer": 0,
+    "exp": "유전자 증폭 자체가 아니라 염기서열을 읽는 방법이다.",
+    "slide": 25,
+    "id": "infection_diag-55"
+  },
+  {
+    "type": "ox",
+    "q": "16S rRNA sequencing은 세균 동정에 사용할 수 있다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "exp": "강의에서 nucleic acid sequencing의 예로 제시된다.",
+    "slide": 25,
+    "id": "infection_diag-56"
+  },
+  {
+    "type": "mc",
+    "q": "RFLP의 원리는?",
+    "options": [
+      "제한효소 절단 후 DNA 절편 길이 차이 분석",
+      "항체가 측정",
+      "단백질 색 변화",
+      "세균 운동성 측정"
+    ],
+    "answer": 0,
+    "exp": "Restriction fragment length polymorphism의 원리이다.",
+    "slide": 26,
+    "id": "infection_diag-57"
+  },
+  {
+    "type": "ox",
+    "q": "RFLP는 제한효소로 DNA를 절단한 후 절편 길이의 차이를 분석한다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "exp": "강의 설명과 일치한다.",
+    "slide": 26,
+    "id": "infection_diag-58"
+  },
+  {
+    "type": "mc",
+    "q": "LAMP의 풀네임은?",
+    "options": [
+      "Loop-mediated isothermal amplification",
+      "Linear antibody measurement procedure",
+      "Ligand-associated membrane profiling",
+      "Low agar media plate"
+    ],
+    "answer": 0,
+    "exp": "LAMP는 루프매개 등온증폭법이다.",
+    "slide": 27,
+    "id": "infection_diag-59"
+  },
+  {
+    "type": "ox",
+    "q": "LAMP는 약 60℃의 일정한 온도에서 시행할 수 있다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "exp": "등온증폭법으로 일정한 온도를 유지한다.",
+    "slide": 28,
+    "id": "infection_diag-60"
+  },
+  {
+    "type": "ox",
+    "q": "LAMP는 PCR처럼 매 주기마다 온도를 계속 변화시켜야 한다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 1,
+    "exp": "LAMP는 isothermal 방식이다.",
+    "slide": 28,
+    "id": "infection_diag-61"
+  },
+  {
+    "type": "mc",
+    "q": "LAMP에 사용되는 중합효소로 강의에서 제시된 것은?",
+    "options": [
+      "Bst polymerase",
+      "Reverse transcriptase only",
+      "RNA polymerase I",
+      "Ligase only"
+    ],
+    "answer": 0,
+    "exp": "LAMP의 장점으로 isothermal(Bst polymerase)이 제시된다.",
+    "slide": 29,
+    "id": "infection_diag-62"
+  },
+  {
+    "type": "ox",
+    "q": "LAMP는 높은 특이도와 빠른 증폭이 장점이다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "exp": "Higher specificity와 faster가 장점으로 제시된다.",
+    "slide": 29,
+    "id": "infection_diag-63"
+  },
+  {
+    "type": "mc",
+    "q": "TMA의 풀네임은?",
+    "options": [
+      "Transcription-mediated amplification",
+      "Target membrane assay",
+      "Thermal mutation analysis",
+      "Tissue microarray"
+    ],
+    "answer": 0,
+    "exp": "TMA는 전사매개증폭법이다.",
+    "slide": 31,
+    "id": "infection_diag-64"
+  },
+  {
+    "type": "ox",
+    "q": "TMA는 RNA 바이러스 검출에 활용될 수 있다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "exp": "강의에서 세균보다 RNA 바이러스 검출 시 이용한다고 설명한다.",
+    "slide": 31,
+    "id": "infection_diag-65"
+  },
+  {
+    "type": "ox",
+    "q": "TMA는 등온 증폭법이다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "exp": "TMA 장점으로 isothermal이 제시된다.",
+    "slide": 32,
+    "id": "infection_diag-66"
+  },
+  {
+    "type": "ox",
+    "q": "TMA의 증폭 산물은 RNA이므로 DNA 오염의 영향을 줄일 수 있다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "exp": "RNA amplicon(no DNA contamination)이 장점으로 제시된다.",
+    "slide": 32,
+    "id": "infection_diag-67"
+  },
+  {
+    "type": "mc",
+    "q": "MALDI-TOF MS는 무엇을 의미하는가?",
+    "options": [
+      "질량분석 기반 미생물 동정 장비",
+      "항체 응집검사",
+      "염색법",
+      "항생제 희석법"
+    ],
+    "answer": 0,
+    "exp": "Matrix-assisted laser desorption ionization time-of-flight mass spectrometry이다.",
+    "slide": 33,
+    "id": "infection_diag-68"
+  },
+  {
+    "type": "mc",
+    "q": "배양 및 동정에 포함되는 분류 방법은?",
+    "options": [
+      "배지 성장, 현미경적 분류, 생화학적 분류",
+      "항체가만 측정",
+      "문진만",
+      "영상검사만"
+    ],
+    "answer": 0,
+    "exp": "강의에서 세 가지를 제시한다.",
+    "slide": 35,
+    "id": "infection_diag-69"
+  },
+  {
+    "type": "mc",
+    "q": "Enriched nonselective media에 해당하는 것은?",
+    "options": [
+      "Blood agar",
+      "MacConkey agar",
+      "Mannitol salt agar",
+      "Lowenstein-Jensen medium"
+    ],
+    "answer": 0,
+    "exp": "Blood agar와 chocolate agar는 enriched nonselective media이다.",
+    "slide": 36,
+    "id": "infection_diag-70"
+  },
+  {
+    "type": "mc",
+    "q": "다음 중 enriched nonselective media는?",
+    "options": [
+      "Chocolate agar",
+      "CHROMagar",
+      "MacConkey agar",
+      "Mannitol salt agar"
+    ],
+    "answer": 0,
+    "exp": "Chocolate agar가 해당한다.",
+    "slide": 36,
+    "id": "infection_diag-71"
+  },
+  {
+    "type": "mc",
+    "q": "선택배지 또는 감별배지에 해당하는 것은?",
+    "options": [
+      "MacConkey agar",
+      "Blood agar만",
+      "증류수",
+      "PBS"
+    ],
+    "answer": 0,
+    "exp": "MacConkey agar는 selective/differential media이다.",
+    "slide": 36,
+    "id": "infection_diag-72"
+  },
+  {
+    "type": "mc",
+    "q": "Mannitol salt agar가 대표적으로 선택·감별하는 균은?",
+    "options": [
+      "Staphylococcus aureus",
+      "Mycobacterium tuberculosis",
+      "Treponema pallidum",
+      "Chlamydia trachomatis"
+    ],
+    "answer": 0,
+    "exp": "강의에서 S. aureus와 연결하여 제시한다.",
+    "slide": 36,
+    "id": "infection_diag-73"
+  },
+  {
+    "type": "mc",
+    "q": "결핵균 배양에 사용하는 대표 배지는?",
+    "options": [
+      "Lowenstein-Jensen medium",
+      "Chocolate agar만",
+      "Mannitol salt agar",
+      "Sabouraud agar만"
+    ],
+    "answer": 0,
+    "exp": "Lowenstein-Jensen medium이 제시되어 있다.",
+    "slide": 36,
+    "id": "infection_diag-74"
+  },
+  {
+    "type": "ox",
+    "q": "항생제 감수성 검사에는 disk diffusion test와 MIC test가 포함된다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "exp": "강의 슬라이드 41의 핵심 내용이다.",
+    "slide": 41,
+    "id": "infection_diag-75"
+  },
+  {
+    "type": "ox",
+    "q": "심내막염이나 급성 골수염 등에서는 정균제보다 살균제가 더 중요할 수 있다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "exp": "강의에서는 일부 감염에서 bacteriostatic drug보다 bactericidal drug가 필요하다고 설명한다.",
+    "slide": 41,
+    "id": "infection_diag-76"
+  },
+  {
+    "type": "mc",
+    "q": "Disk diffusion susceptibility test의 판독 기준은?",
+    "options": [
+      "Zone of inhibition",
+      "ELISA 색만",
+      "핵산 서열",
+      "세균 모양만"
+    ],
+    "answer": 0,
+    "exp": "항생제 디스크 주위 억제환을 측정한다.",
+    "slide": 42,
+    "id": "infection_diag-77"
+  },
+  {
+    "type": "ox",
+    "q": "Disk diffusion test는 환자에서 분리한 세균의 항생제 감수성을 평가하는 배양 기반 검사이다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "exp": "강의 정의와 일치한다.",
+    "slide": 42,
+    "id": "infection_diag-78"
+  },
+  {
+    "type": "mc",
+    "q": "Disk diffusion test의 올바른 과정은?",
+    "options": [
+      "배지 표면에 균 접종→항생제 디스크 적용→억제환 관찰",
+      "항체 혼합→응집 관찰",
+      "DNA sequencing→염기 분석",
+      "조직 생검→면역염색"
+    ],
+    "answer": 0,
+    "exp": "강의의 검사 과정을 그대로 반영한다.",
+    "slide": 42,
+    "id": "infection_diag-79"
+  },
+  {
+    "type": "mc",
+    "q": "MIC의 정의는?",
+    "options": [
+      "육안적 세균 성장을 억제하는 약물의 최저 농도",
+      "세균을 100% 사멸하는 최고 농도",
+      "항체가 최고값",
+      "억제환의 최대 직경"
+    ],
+    "answer": 0,
+    "exp": "MIC는 visible in vitro growth를 막는 최저 농도이다.",
+    "slide": 44,
+    "id": "infection_diag-80"
+  },
+  {
+    "type": "ox",
+    "q": "MIC 검사는 항생제의 연속 희석 농도에 세균을 접종하여 평가할 수 있다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "exp": "Dilution series of antibiotics 후 inoculation한다.",
+    "slide": 44,
+    "id": "infection_diag-81"
+  },
+  {
+    "type": "ox",
+    "q": "MIC 값이 낮을수록 일반적으로 더 낮은 약물 농도에서 성장이 억제된다는 뜻이다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "exp": "MIC 정의로부터 직접 해석할 수 있다.",
+    "slide": 44,
+    "id": "infection_diag-82"
+  },
+  {
+    "type": "mc",
+    "q": "PCR 장비 없이 Bst polymerase와 여러 primer를 이용해 표적 핵산을 등온 증폭하는 방법은?",
+    "options": [
+      "LAMP",
+      "TMA",
+      "RFLP",
+      "ELISA"
+    ],
+    "answer": 0,
+    "exp": "슬라이드 46의 설명은 LAMP에 해당한다.",
+    "slide": 46,
+    "id": "infection_diag-83"
+  },
+  {
+    "type": "ox",
+    "q": "LAMP는 표적 유전자의 여러 영역을 인식하는 primer 조합과 루프 구조를 이용해 특이도와 신속성을 높인다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "exp": "슬라이드 46의 설명과 일치한다.",
+    "slide": 46,
+    "id": "infection_diag-84"
+  },
+  {
+    "type": "mc",
+    "q": "하부호흡기 감염 검체 수집 시 주의사항으로 옳은 것은?",
+    "options": [
+      "타액이 섞이지 않도록 객담을 수집한다",
+      "항생제 복용 후 검체를 채취한다",
+      "영상검사 결과가 나온 뒤 며칠 후 채취한다",
+      "상처 표면에서만 채취한다"
+    ],
+    "answer": 0,
+    "exp": "슬라이드 47에서 객담 수집과 타액 혼입 방지를 강조한다.",
+    "slide": 47,
+    "id": "infection_diag-85"
+  },
+  {
+    "type": "ox",
+    "q": "일반적으로 감염 진단용 검체는 신속하게 수집하고 분석해야 한다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "exp": "영상검사 결과를 기다리며 지연하지 않는다.",
+    "slide": 47,
+    "id": "infection_diag-86"
+  },
+  {
+    "type": "ox",
+    "q": "발열 환자는 먼저 항생제를 복용한 뒤 검체를 채취하는 것이 원칙이다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 1,
+    "exp": "항생제 투여 전에 검체를 채취한다.",
+    "slide": 47,
+    "id": "infection_diag-87"
+  },
+  {
+    "type": "ox",
+    "q": "식중독이 의심되는 모든 환자에게 반드시 혈액배양을 시행하는 것이 강의의 정답이다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 1,
+    "exp": "강의 해설에서는 위장관감염 정도의 증상이라면 대변 검사를 우선하며 무조건 혈액배양을 시행하지 않는다.",
+    "slide": 47,
+    "id": "infection_diag-88"
+  },
+  {
+    "type": "mc",
+    "q": "진단미생물학의 마지막 단계에 포함될 수 있는 것은?",
+    "options": [
+      "의미 있는 항체 또는 세포매개 면역반응의 입증",
+      "검체 폐기만",
+      "영상검사만",
+      "항생제 투여만"
+    ],
+    "answer": 0,
+    "exp": "일반 절차의 5번째 항목이다.",
+    "slide": 4,
+    "id": "infection_diag-89"
+  },
+  {
+    "type": "ox",
+    "q": "Culture isolation and identification에는 항생제 감수성 검사가 포함될 수 있다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "exp": "강의의 일반 절차에서 susceptibility testing을 함께 제시한다.",
+    "slide": 4,
+    "id": "infection_diag-90"
+  },
+  {
+    "type": "mc",
+    "q": "현미경적 분류에서 Vibrio cholerae의 형태 예시는?",
+    "options": [
+      "Vibrio 형태의 굽은 막대",
+      "구균 사슬",
+      "사면체 구균",
+      "진균 균사"
+    ],
+    "answer": 0,
+    "exp": "슬라이드 7의 spirals 영역에 Vibrio가 제시된다.",
+    "slide": 7,
+    "id": "infection_diag-91"
+  },
+  {
+    "type": "ox",
+    "q": "Staphylococci는 포도송이 모양으로 배열된 구균의 예이다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "exp": "슬라이드 7의 형태 분류 그림에 제시된다.",
+    "slide": 7,
+    "id": "infection_diag-92"
+  },
+  {
+    "type": "mc",
+    "q": "S. aureus의 Gram 염색 소견으로 가장 적절한 것은?",
+    "options": [
+      "보라색 구균",
+      "분홍색 막대균",
+      "무색 나선균",
+      "형광 녹색 효모"
+    ],
+    "answer": 0,
+    "exp": "슬라이드 9에서 S. aureus가 Gram 양성 보라색 구균으로 제시된다.",
+    "slide": 9,
+    "id": "infection_diag-93"
+  },
+  {
+    "type": "mc",
+    "q": "E. coli의 Gram 염색 소견으로 가장 적절한 것은?",
+    "options": [
+      "분홍색 막대균",
+      "보라색 구균",
+      "항산성 적색 막대균",
+      "청색 진균"
+    ],
+    "answer": 0,
+    "exp": "슬라이드 9에서 E. coli가 Gram 음성 분홍색 막대균으로 제시된다.",
+    "slide": 9,
+    "id": "infection_diag-94"
+  },
+  {
+    "type": "ox",
+    "q": "항산균 염색에서 acid-alcohol은 탈색 단계에 사용된다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "exp": "Ziehl-Neelsen 과정에서 acid alcohol로 탈색한다.",
+    "slide": 10,
+    "id": "infection_diag-95"
+  },
+  {
+    "type": "mc",
+    "q": "Auramine-rhodamine 염색으로 관찰 가능한 대표 병원체는?",
+    "options": [
+      "Mycobacterium tuberculosis",
+      "S. aureus",
+      "E. coli",
+      "Candida albicans만"
+    ],
+    "answer": 0,
+    "exp": "슬라이드 11에서 결핵균 형광염색 예시가 제시된다.",
+    "slide": 11,
+    "id": "infection_diag-96"
+  },
+  {
+    "type": "mc",
+    "q": "ELISA에서 색 발생 정도는 무엇과 연관될 수 있는가?",
+    "options": [
+      "결합된 항체 또는 항원의 농도",
+      "균의 편모 수만",
+      "세포벽 두께만",
+      "배지의 염분만"
+    ],
+    "answer": 0,
+    "exp": "결합된 항체 또는 항원 농도에 따라 색 발생을 측정한다.",
+    "slide": 17,
+    "id": "infection_diag-97"
+  },
+  {
+    "type": "ox",
+    "q": "ELISA는 항원뿐 아니라 항체 농도와 연관된 신호를 측정하도록 구성할 수 있다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "exp": "슬라이드 17에서 antibody conc. 또는 antigen conc.를 언급한다.",
+    "slide": 17,
+    "id": "infection_diag-98"
+  },
+  {
+    "type": "mc",
+    "q": "Latex agglutination 그림에서 latex particle 표면에 코팅된 것은?",
+    "options": [
+      "표적 특이 항체",
+      "DNA polymerase",
+      "항생제",
+      "제한효소"
+    ],
+    "answer": 0,
+    "exp": "항체가 코팅된 latex particle이 표적과 응집한다.",
+    "slide": 19,
+    "id": "infection_diag-99"
+  },
+  {
+    "type": "ox",
+    "q": "Western blotting에서 전기영동은 단백질을 크기 등에 따라 분리하는 데 사용된다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "exp": "SDS-PAGE를 이용해 주요 단백질을 분리한다.",
+    "slide": 20,
+    "id": "infection_diag-100"
+  }
+]
