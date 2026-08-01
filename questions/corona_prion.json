@@ -1,1 +1,1202 @@
-[{"type":"ox","q":"코로나바이러스는 외피를 가진 (+)ssRNA 바이러스이다.","options":["O","X"],"answer":0,"exp":"강의안의 핵심 내용과 일치한다.","slide":1,"id":"corona_prion-1"},{"type":"ox","q":"코로나바이러스는 비외피성 dsDNA 바이러스이다.","options":["O","X"],"answer":1,"exp":"옳은 내용: 코로나바이러스는 외피를 가진 (+)ssRNA 바이러스이다.","slide":1,"id":"corona_prion-2"},{"type":"ox","q":"코로나바이러스의 큰 spike가 비리온 주변에 왕관 모양을 만든다.","options":["O","X"],"answer":0,"exp":"강의안의 핵심 내용과 일치한다.","slide":2,"id":"corona_prion-3"},{"type":"ox","q":"코로나바이러스에는 표면 spike가 없다.","options":["O","X"],"answer":1,"exp":"옳은 내용: 코로나바이러스의 큰 spike가 비리온 주변에 왕관 모양을 만든다.","slide":2,"id":"corona_prion-4"},{"type":"ox","q":"N 단백질은 바이러스 RNA와 결합한다.","options":["O","X"],"answer":0,"exp":"강의안의 핵심 내용과 일치한다.","slide":3,"id":"corona_prion-5"},{"type":"ox","q":"N 단백질은 숙주 수용체를 절단하는 효소이다.","options":["O","X"],"answer":1,"exp":"옳은 내용: N 단백질은 바이러스 RNA와 결합한다.","slide":3,"id":"corona_prion-6"},{"type":"ox","q":"S1은 숙주 수용체 결합과 세포친화성 결정에 중요하다.","options":["O","X"],"answer":0,"exp":"강의안의 핵심 내용과 일치한다.","slide":4,"id":"corona_prion-7"},{"type":"ox","q":"S1은 바이러스의 핵산중합효소이다.","options":["O","X"],"answer":1,"exp":"옳은 내용: S1은 숙주 수용체 결합과 세포친화성 결정에 중요하다.","slide":4,"id":"corona_prion-8"},{"type":"ox","q":"S2는 바이러스와 세포막의 융합에 관여한다.","options":["O","X"],"answer":0,"exp":"강의안의 핵심 내용과 일치한다.","slide":5,"id":"corona_prion-9"},{"type":"ox","q":"S2는 바이러스 RNA를 분해한다.","options":["O","X"],"answer":1,"exp":"옳은 내용: S2는 바이러스와 세포막의 융합에 관여한다.","slide":5,"id":"corona_prion-10"},{"type":"ox","q":"M 단백질은 바이러스 조립과 외피 형성에 관여한다.","options":["O","X"],"answer":0,"exp":"강의안의 핵심 내용과 일치한다.","slide":6,"id":"corona_prion-11"},{"type":"ox","q":"M 단백질은 숙주 항체를 합성한다.","options":["O","X"],"answer":1,"exp":"옳은 내용: M 단백질은 바이러스 조립과 외피 형성에 관여한다.","slide":6,"id":"corona_prion-12"},{"type":"ox","q":"E 단백질은 외피 형성, 이온채널, budding에 관여할 수 있다.","options":["O","X"],"answer":0,"exp":"강의안의 핵심 내용과 일치한다.","slide":7,"id":"corona_prion-13"},{"type":"ox","q":"E 단백질은 바이러스의 유전체 그 자체이다.","options":["O","X"],"answer":1,"exp":"옳은 내용: E 단백질은 외피 형성, 이온채널, budding에 관여할 수 있다.","slide":7,"id":"corona_prion-14"},{"type":"ox","q":"코로나바이러스는 복제 중 비교적 높은 빈도의 변이를 보일 수 있다.","options":["O","X"],"answer":0,"exp":"강의안의 핵심 내용과 일치한다.","slide":8,"id":"corona_prion-15"},{"type":"ox","q":"코로나바이러스는 유전적 변이가 전혀 일어나지 않는다.","options":["O","X"],"answer":1,"exp":"옳은 내용: 코로나바이러스는 복제 중 비교적 높은 빈도의 변이를 보일 수 있다.","slide":8,"id":"corona_prion-16"},{"type":"ox","q":"알파코로나바이러스에는 HCoV-229E와 HCoV-NL63가 포함된다.","options":["O","X"],"answer":0,"exp":"강의안의 핵심 내용과 일치한다.","slide":9,"id":"corona_prion-17"},{"type":"ox","q":"알파코로나바이러스에는 MERS-CoV만 포함된다.","options":["O","X"],"answer":1,"exp":"옳은 내용: 알파코로나바이러스에는 HCoV-229E와 HCoV-NL63가 포함된다.","slide":9,"id":"corona_prion-18"},{"type":"ox","q":"베타코로나바이러스에는 HCoV-OC43, HKU1, SARS-CoV, MERS-CoV, SARS-CoV-2가 포함된다.","options":["O","X"],"answer":0,"exp":"강의안의 핵심 내용과 일치한다.","slide":10,"id":"corona_prion-19"},{"type":"ox","q":"베타코로나바이러스에는 HCoV-229E만 포함된다.","options":["O","X"],"answer":1,"exp":"옳은 내용: 베타코로나바이러스에는 HCoV-OC43, HKU1, SARS-CoV, MERS-CoV, SARS-CoV-2가 포함된다.","slide":10,"id":"corona_prion-20"},{"type":"ox","q":"사람의 계절성 코로나바이러스는 흔히 감기를 일으킨다.","options":["O","X"],"answer":0,"exp":"강의안의 핵심 내용과 일치한다.","slide":11,"id":"corona_prion-21"},{"type":"ox","q":"모든 사람 코로나바이러스 감염은 항상 치명적이다.","options":["O","X"],"answer":1,"exp":"옳은 내용: 사람의 계절성 코로나바이러스는 흔히 감기를 일으킨다.","slide":11,"id":"corona_prion-22"},{"type":"ox","q":"SARS-CoV와 SARS-CoV-2는 ACE2를 수용체로 사용한다.","options":["O","X"],"answer":0,"exp":"강의안의 핵심 내용과 일치한다.","slide":12,"id":"corona_prion-23"},{"type":"ox","q":"SARS-CoV와 SARS-CoV-2는 DPP4만을 수용체로 사용한다.","options":["O","X"],"answer":1,"exp":"옳은 내용: SARS-CoV와 SARS-CoV-2는 ACE2를 수용체로 사용한다.","slide":12,"id":"corona_prion-24"},{"type":"ox","q":"MERS-CoV는 DPP4/CD26을 수용체로 사용한다.","options":["O","X"],"answer":0,"exp":"강의안의 핵심 내용과 일치한다.","slide":13,"id":"corona_prion-25"},{"type":"ox","q":"MERS-CoV는 CD4를 주 수용체로 사용한다.","options":["O","X"],"answer":1,"exp":"옳은 내용: MERS-CoV는 DPP4/CD26을 수용체로 사용한다.","slide":13,"id":"corona_prion-26"},{"type":"ox","q":"SARS는 2002년 중국 광둥성에서 시작되어 2003년 전세계로 확산했다.","options":["O","X"],"answer":0,"exp":"강의안의 핵심 내용과 일치한다.","slide":14,"id":"corona_prion-27"},{"type":"ox","q":"SARS는 2019년 우한에서 처음 발생했다.","options":["O","X"],"answer":1,"exp":"옳은 내용: SARS는 2002년 중국 광둥성에서 시작되어 2003년 전세계로 확산했다.","slide":14,"id":"corona_prion-28"},{"type":"ox","q":"SARS의 주요 전파 방식에는 비말이 포함된다.","options":["O","X"],"answer":0,"exp":"강의안의 핵심 내용과 일치한다.","slide":15,"id":"corona_prion-29"},{"type":"ox","q":"SARS는 모기 매개로만 전파된다.","options":["O","X"],"answer":1,"exp":"옳은 내용: SARS의 주요 전파 방식에는 비말이 포함된다.","slide":15,"id":"corona_prion-30"},{"type":"ox","q":"SARS 환자에서 고열, 마른기침, 근육통, 비정형폐렴이 나타날 수 있다.","options":["O","X"],"answer":0,"exp":"강의안의 핵심 내용과 일치한다.","slide":16,"id":"corona_prion-31"},{"type":"ox","q":"SARS는 호흡기 증상을 일으키지 않는다.","options":["O","X"],"answer":1,"exp":"옳은 내용: SARS 환자에서 고열, 마른기침, 근육통, 비정형폐렴이 나타날 수 있다.","slide":16,"id":"corona_prion-32"},{"type":"ox","q":"SARS의 전체 보고 치명률은 약 9.6%였다.","options":["O","X"],"answer":0,"exp":"강의안의 핵심 내용과 일치한다.","slide":17,"id":"corona_prion-33"},{"type":"ox","q":"SARS의 보고 치명률은 0%였다.","options":["O","X"],"answer":1,"exp":"옳은 내용: SARS의 전체 보고 치명률은 약 9.6%였다.","slide":17,"id":"corona_prion-34"},{"type":"ox","q":"SARS-CoV의 동물 저장소로 박쥐가 중요하다.","options":["O","X"],"answer":0,"exp":"강의안의 핵심 내용과 일치한다.","slide":18,"id":"corona_prion-35"},{"type":"ox","q":"SARS-CoV의 유일한 저장소는 사람의 적혈구이다.","options":["O","X"],"answer":1,"exp":"옳은 내용: SARS-CoV의 동물 저장소로 박쥐가 중요하다.","slide":18,"id":"corona_prion-36"},{"type":"ox","q":"MERS-CoV는 2012년 중동에서 확인되었다.","options":["O","X"],"answer":0,"exp":"강의안의 핵심 내용과 일치한다.","slide":19,"id":"corona_prion-37"},{"type":"ox","q":"MERS-CoV는 1918년 유럽에서 확인되었다.","options":["O","X"],"answer":1,"exp":"옳은 내용: MERS-CoV는 2012년 중동에서 확인되었다.","slide":19,"id":"corona_prion-38"},{"type":"ox","q":"MERS-CoV 전파에는 단봉낙타가 중요한 중간숙주로 알려져 있다.","options":["O","X"],"answer":0,"exp":"강의안의 핵심 내용과 일치한다.","slide":20,"id":"corona_prion-39"},{"type":"ox","q":"MERS-CoV는 조류에서 사람으로만 전파된다.","options":["O","X"],"answer":1,"exp":"옳은 내용: MERS-CoV 전파에는 단봉낙타가 중요한 중간숙주로 알려져 있다.","slide":20,"id":"corona_prion-40"},{"type":"ox","q":"MERS의 잠복기는 대략 2~14일 범위일 수 있다.","options":["O","X"],"answer":0,"exp":"강의안의 핵심 내용과 일치한다.","slide":21,"id":"corona_prion-41"},{"type":"ox","q":"MERS의 잠복기는 항상 수초 이내이다.","options":["O","X"],"answer":1,"exp":"옳은 내용: MERS의 잠복기는 대략 2~14일 범위일 수 있다.","slide":21,"id":"corona_prion-42"},{"type":"ox","q":"MERS는 고령자와 기저질환자에서 중증 위험이 높다.","options":["O","X"],"answer":0,"exp":"강의안의 핵심 내용과 일치한다.","slide":22,"id":"corona_prion-43"},{"type":"ox","q":"MERS는 젊고 건강한 사람에서만 중증이다.","options":["O","X"],"answer":1,"exp":"옳은 내용: MERS는 고령자와 기저질환자에서 중증 위험이 높다.","slide":22,"id":"corona_prion-44"},{"type":"ox","q":"MERS는 ARDS, 급성신부전, 다장기부전을 일으킬 수 있다.","options":["O","X"],"answer":0,"exp":"강의안의 핵심 내용과 일치한다.","slide":23,"id":"corona_prion-45"},{"type":"ox","q":"MERS는 상기도 감기 증상만 일으키고 장기부전은 없다.","options":["O","X"],"answer":1,"exp":"옳은 내용: MERS는 ARDS, 급성신부전, 다장기부전을 일으킬 수 있다.","slide":23,"id":"corona_prion-46"},{"type":"ox","q":"MERS 진단에는 RT-PCR이 이용된다.","options":["O","X"],"answer":0,"exp":"강의안의 핵심 내용과 일치한다.","slide":24,"id":"corona_prion-47"},{"type":"ox","q":"MERS 진단에 핵산검사는 사용할 수 없다.","options":["O","X"],"answer":1,"exp":"옳은 내용: MERS 진단에는 RT-PCR이 이용된다.","slide":24,"id":"corona_prion-48"},{"type":"ox","q":"2015년 대한민국 MERS 유행은 의료기관 관련 전파가 대부분이었다.","options":["O","X"],"answer":0,"exp":"강의안의 핵심 내용과 일치한다.","slide":25,"id":"corona_prion-49"},{"type":"ox","q":"2015년 대한민국 MERS 유행은 모기 매개 지역사회 전파가 대부분이었다.","options":["O","X"],"answer":1,"exp":"옳은 내용: 2015년 대한민국 MERS 유행은 의료기관 관련 전파가 대부분이었다.","slide":25,"id":"corona_prion-50"},{"type":"ox","q":"COVID-19의 원인 바이러스는 SARS-CoV-2이다.","options":["O","X"],"answer":0,"exp":"강의안의 핵심 내용과 일치한다.","slide":26,"id":"corona_prion-51"},{"type":"ox","q":"COVID-19의 원인 바이러스는 influenza B virus이다.","options":["O","X"],"answer":1,"exp":"옳은 내용: COVID-19의 원인 바이러스는 SARS-CoV-2이다.","slide":26,"id":"corona_prion-52"},{"type":"ox","q":"COVID-19는 2019년 말 중국 우한에서 처음 보고되었다.","options":["O","X"],"answer":0,"exp":"강의안의 핵심 내용과 일치한다.","slide":27,"id":"corona_prion-53"},{"type":"ox","q":"COVID-19는 1957년 홍콩에서 처음 보고되었다.","options":["O","X"],"answer":1,"exp":"옳은 내용: COVID-19는 2019년 말 중국 우한에서 처음 보고되었다.","slide":27,"id":"corona_prion-54"},{"type":"ox","q":"WHO는 2020년 3월 COVID-19를 팬데믹으로 선언했다.","options":["O","X"],"answer":0,"exp":"강의안의 핵심 내용과 일치한다.","slide":28,"id":"corona_prion-55"},{"type":"ox","q":"WHO는 COVID-19를 팬데믹으로 선언한 적이 없다.","options":["O","X"],"answer":1,"exp":"옳은 내용: WHO는 2020년 3월 COVID-19를 팬데믹으로 선언했다.","slide":28,"id":"corona_prion-56"},{"type":"ox","q":"SARS-CoV-2의 S1 RBD는 ACE2와 결합한다.","options":["O","X"],"answer":0,"exp":"강의안의 핵심 내용과 일치한다.","slide":29,"id":"corona_prion-57"},{"type":"ox","q":"SARS-CoV-2의 S1 RBD는 적혈구 헤모글로빈만 결합한다.","options":["O","X"],"answer":1,"exp":"옳은 내용: SARS-CoV-2의 S1 RBD는 ACE2와 결합한다.","slide":29,"id":"corona_prion-58"},{"type":"ox","q":"TMPRSS2는 spike 절단과 세포막 융합에 관여한다.","options":["O","X"],"answer":0,"exp":"강의안의 핵심 내용과 일치한다.","slide":30,"id":"corona_prion-59"},{"type":"ox","q":"TMPRSS2는 바이러스 항체를 생성하는 림프구이다.","options":["O","X"],"answer":1,"exp":"옳은 내용: TMPRSS2는 spike 절단과 세포막 융합에 관여한다.","slide":30,"id":"corona_prion-60"},{"type":"ox","q":"Cathepsin L은 endosomal membrane fusion 과정에 기여할 수 있다.","options":["O","X"],"answer":0,"exp":"강의안의 핵심 내용과 일치한다.","slide":31,"id":"corona_prion-61"},{"type":"ox","q":"Cathepsin L은 코로나바이러스의 표면항원 이름이다.","options":["O","X"],"answer":1,"exp":"옳은 내용: Cathepsin L은 endosomal membrane fusion 과정에 기여할 수 있다.","slide":31,"id":"corona_prion-62"},{"type":"ox","q":"COVID-19 중증 환자에서 림프구감소증이 나타날 수 있다.","options":["O","X"],"answer":0,"exp":"강의안의 핵심 내용과 일치한다.","slide":32,"id":"corona_prion-63"},{"type":"ox","q":"COVID-19 중증 환자에서는 항상 림프구증가증만 나타난다.","options":["O","X"],"answer":1,"exp":"옳은 내용: COVID-19 중증 환자에서 림프구감소증이 나타날 수 있다.","slide":32,"id":"corona_prion-64"},{"type":"ox","q":"COVID-19의 중증도와 CD4·CD8 T세포 감소가 연관될 수 있다.","options":["O","X"],"answer":0,"exp":"강의안의 핵심 내용과 일치한다.","slide":33,"id":"corona_prion-65"},{"type":"ox","q":"COVID-19 중증도는 면역세포 변화와 전혀 무관하다.","options":["O","X"],"answer":1,"exp":"옳은 내용: COVID-19의 중증도와 CD4·CD8 T세포 감소가 연관될 수 있다.","slide":33,"id":"corona_prion-66"},{"type":"ox","q":"고령, 비만, 심혈관질환, 면역저하는 COVID-19 중증 위험요인이다.","options":["O","X"],"answer":0,"exp":"강의안의 핵심 내용과 일치한다.","slide":34,"id":"corona_prion-67"},{"type":"ox","q":"고령과 기저질환은 COVID-19 중증 위험을 낮춘다.","options":["O","X"],"answer":1,"exp":"옳은 내용: 고령, 비만, 심혈관질환, 면역저하는 COVID-19 중증 위험요인이다.","slide":34,"id":"corona_prion-68"},{"type":"ox","q":"VOC는 전파력, 병원성 또는 백신효과 등에 우려되는 변화가 있는 변이를 뜻한다.","options":["O","X"],"answer":0,"exp":"강의안의 핵심 내용과 일치한다.","slide":35,"id":"corona_prion-69"},{"type":"ox","q":"VOC는 임상적 의미가 전혀 없는 실험실 오염을 뜻한다.","options":["O","X"],"answer":1,"exp":"옳은 내용: VOC는 전파력, 병원성 또는 백신효과 등에 우려되는 변화가 있는 변이를 뜻한다.","slide":35,"id":"corona_prion-70"},{"type":"ox","q":"Alpha 변이는 2020년 영국에서 처음 보고되었다.","options":["O","X"],"answer":0,"exp":"강의안의 핵심 내용과 일치한다.","slide":36,"id":"corona_prion-71"},{"type":"ox","q":"Alpha 변이는 2021년 남아프리카에서 처음 보고되었다.","options":["O","X"],"answer":1,"exp":"옳은 내용: Alpha 변이는 2020년 영국에서 처음 보고되었다.","slide":36,"id":"corona_prion-72"},{"type":"ox","q":"Beta 변이는 남아프리카에서 처음 확인되었다.","options":["O","X"],"answer":0,"exp":"강의안의 핵심 내용과 일치한다.","slide":37,"id":"corona_prion-73"},{"type":"ox","q":"Beta 변이는 브라질에서 처음 확인되었다.","options":["O","X"],"answer":1,"exp":"옳은 내용: Beta 변이는 남아프리카에서 처음 확인되었다.","slide":37,"id":"corona_prion-74"},{"type":"ox","q":"Gamma 변이는 브라질에서 처음 확인되었다.","options":["O","X"],"answer":0,"exp":"강의안의 핵심 내용과 일치한다.","slide":38,"id":"corona_prion-75"},{"type":"ox","q":"Gamma 변이는 인도에서 처음 확인되었다.","options":["O","X"],"answer":1,"exp":"옳은 내용: Gamma 변이는 브라질에서 처음 확인되었다.","slide":38,"id":"corona_prion-76"},{"type":"ox","q":"Delta 변이는 인도에서 처음 확인되었다.","options":["O","X"],"answer":0,"exp":"강의안의 핵심 내용과 일치한다.","slide":39,"id":"corona_prion-77"},{"type":"ox","q":"Delta 변이는 영국에서 처음 확인되었다.","options":["O","X"],"answer":1,"exp":"옳은 내용: Delta 변이는 인도에서 처음 확인되었다.","slide":39,"id":"corona_prion-78"},{"type":"ox","q":"Omicron 변이는 2021년 남아프리카에서 보고되었다.","options":["O","X"],"answer":0,"exp":"강의안의 핵심 내용과 일치한다.","slide":40,"id":"corona_prion-79"},{"type":"ox","q":"Omicron 변이는 1957년 아시아독감 바이러스이다.","options":["O","X"],"answer":1,"exp":"옳은 내용: Omicron 변이는 2021년 남아프리카에서 보고되었다.","slide":40,"id":"corona_prion-80"},{"type":"ox","q":"프리온은 비정상적으로 접힌 감염성 단백질과 관련된다.","options":["O","X"],"answer":0,"exp":"강의안의 핵심 내용과 일치한다.","slide":41,"id":"corona_prion-81"},{"type":"ox","q":"프리온은 핵산을 가진 외피성 바이러스이다.","options":["O","X"],"answer":1,"exp":"옳은 내용: 프리온은 비정상적으로 접힌 감염성 단백질과 관련된다.","slide":41,"id":"corona_prion-82"},{"type":"ox","q":"프리온 질환에서는 정상 PrP가 비정상 형태로 전환된다.","options":["O","X"],"answer":0,"exp":"강의안의 핵심 내용과 일치한다.","slide":42,"id":"corona_prion-83"},{"type":"ox","q":"프리온 질환은 세균의 세포벽 독소 때문에 발생한다.","options":["O","X"],"answer":1,"exp":"옳은 내용: 프리온 질환에서는 정상 PrP가 비정상 형태로 전환된다.","slide":42,"id":"corona_prion-84"},{"type":"ox","q":"프리온은 핵산을 포함하지 않는다.","options":["O","X"],"answer":0,"exp":"강의안의 핵심 내용과 일치한다.","slide":43,"id":"corona_prion-85"},{"type":"ox","q":"프리온은 반드시 RNA 유전체를 포함한다.","options":["O","X"],"answer":1,"exp":"옳은 내용: 프리온은 핵산을 포함하지 않는다.","slide":43,"id":"corona_prion-86"},{"type":"ox","q":"프리온 질환은 해면상 뇌병증을 일으킬 수 있다.","options":["O","X"],"answer":0,"exp":"강의안의 핵심 내용과 일치한다.","slide":44,"id":"corona_prion-87"},{"type":"ox","q":"프리온 질환은 중추신경계를 침범하지 않는다.","options":["O","X"],"answer":1,"exp":"옳은 내용: 프리온 질환은 해면상 뇌병증을 일으킬 수 있다.","slide":44,"id":"corona_prion-88"},{"type":"ox","q":"Creutzfeldt-Jakob disease는 사람의 프리온 질환이다.","options":["O","X"],"answer":0,"exp":"강의안의 핵심 내용과 일치한다.","slide":45,"id":"corona_prion-89"},{"type":"ox","q":"Creutzfeldt-Jakob disease는 인플루엔자 합병증이다.","options":["O","X"],"answer":1,"exp":"옳은 내용: Creutzfeldt-Jakob disease는 사람의 프리온 질환이다.","slide":45,"id":"corona_prion-90"},{"type":"ox","q":"Variant CJD는 소해면상뇌병증과 역학적 관련성이 있다.","options":["O","X"],"answer":0,"exp":"강의안의 핵심 내용과 일치한다.","slide":46,"id":"corona_prion-91"},{"type":"ox","q":"Variant CJD는 홍역 백신과 관련된 질환이다.","options":["O","X"],"answer":1,"exp":"옳은 내용: Variant CJD는 소해면상뇌병증과 역학적 관련성이 있다.","slide":46,"id":"corona_prion-92"},{"type":"ox","q":"Kuru는 식인 풍습과 관련되어 전파된 프리온 질환이다.","options":["O","X"],"answer":0,"exp":"강의안의 핵심 내용과 일치한다.","slide":47,"id":"corona_prion-93"},{"type":"ox","q":"Kuru는 모기 매개 코로나바이러스 감염이다.","options":["O","X"],"answer":1,"exp":"옳은 내용: Kuru는 식인 풍습과 관련되어 전파된 프리온 질환이다.","slide":47,"id":"corona_prion-94"},{"type":"ox","q":"프리온은 일반적인 소독과 열처리에 비교적 강한 저항성을 보인다.","options":["O","X"],"answer":0,"exp":"강의안의 핵심 내용과 일치한다.","slide":48,"id":"corona_prion-95"},{"type":"ox","q":"프리온은 비누로 즉시 완전히 불활성화된다.","options":["O","X"],"answer":1,"exp":"옳은 내용: 프리온은 일반적인 소독과 열처리에 비교적 강한 저항성을 보인다.","slide":48,"id":"corona_prion-96"},{"type":"ox","q":"프리온 질환의 잠복기는 매우 길 수 있다.","options":["O","X"],"answer":0,"exp":"강의안의 핵심 내용과 일치한다.","slide":49,"id":"corona_prion-97"},{"type":"ox","q":"프리온 질환은 항상 1시간 이내 증상이 나타난다.","options":["O","X"],"answer":1,"exp":"옳은 내용: 프리온 질환의 잠복기는 매우 길 수 있다.","slide":49,"id":"corona_prion-98"},{"type":"ox","q":"프리온 질환은 대개 진행성이고 치명적이며 확립된 근치치료가 없다.","options":["O","X"],"answer":0,"exp":"강의안의 핵심 내용과 일치한다.","slide":50,"id":"corona_prion-99"},{"type":"ox","q":"프리온 질환은 항생제로 완치되는 급성 세균감염이다.","options":["O","X"],"answer":1,"exp":"옳은 내용: 프리온 질환은 대개 진행성이고 치명적이며 확립된 근치치료가 없다.","slide":50,"id":"corona_prion-100"}]
+[
+  {
+    "type": "ox",
+    "q": "코로나바이러스는 외피를 가진 (+)ssRNA 바이러스이다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "exp": "강의안의 핵심 내용과 일치한다.",
+    "slide": 2,
+    "id": "corona_prion-1"
+  },
+  {
+    "type": "ox",
+    "q": "코로나바이러스는 비외피성 dsDNA 바이러스이다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 1,
+    "exp": "옳은 내용: 코로나바이러스는 외피를 가진 (+)ssRNA 바이러스이다.",
+    "slide": 2,
+    "id": "corona_prion-2"
+  },
+  {
+    "type": "ox",
+    "q": "코로나바이러스의 큰 spike가 비리온 주변에 왕관 모양을 만든다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "exp": "강의안의 핵심 내용과 일치한다.",
+    "slide": 2,
+    "id": "corona_prion-3"
+  },
+  {
+    "type": "ox",
+    "q": "코로나바이러스에는 표면 spike가 없다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 1,
+    "exp": "옳은 내용: 코로나바이러스의 큰 spike가 비리온 주변에 왕관 모양을 만든다.",
+    "slide": 2,
+    "id": "corona_prion-4"
+  },
+  {
+    "type": "ox",
+    "q": "N 단백질은 바이러스 RNA와 결합한다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "exp": "강의안의 핵심 내용과 일치한다.",
+    "slide": 2,
+    "id": "corona_prion-5"
+  },
+  {
+    "type": "ox",
+    "q": "N 단백질은 숙주 수용체를 절단하는 효소이다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 1,
+    "exp": "옳은 내용: N 단백질은 바이러스 RNA와 결합한다.",
+    "slide": 2,
+    "id": "corona_prion-6"
+  },
+  {
+    "type": "ox",
+    "q": "S1은 숙주 수용체 결합과 세포친화성 결정에 중요하다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "exp": "강의안의 핵심 내용과 일치한다.",
+    "slide": 2,
+    "id": "corona_prion-7"
+  },
+  {
+    "type": "ox",
+    "q": "S1은 바이러스의 핵산중합효소이다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 1,
+    "exp": "옳은 내용: S1은 숙주 수용체 결합과 세포친화성 결정에 중요하다.",
+    "slide": 2,
+    "id": "corona_prion-8"
+  },
+  {
+    "type": "ox",
+    "q": "S2는 바이러스와 세포막의 융합에 관여한다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "exp": "강의안의 핵심 내용과 일치한다.",
+    "slide": 2,
+    "id": "corona_prion-9"
+  },
+  {
+    "type": "ox",
+    "q": "S2는 바이러스 RNA를 분해한다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 1,
+    "exp": "옳은 내용: S2는 바이러스와 세포막의 융합에 관여한다.",
+    "slide": 2,
+    "id": "corona_prion-10"
+  },
+  {
+    "type": "ox",
+    "q": "M 단백질은 바이러스 조립과 외피 형성에 관여한다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "exp": "강의안의 핵심 내용과 일치한다.",
+    "slide": 2,
+    "id": "corona_prion-11"
+  },
+  {
+    "type": "ox",
+    "q": "M 단백질은 숙주 항체를 합성한다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 1,
+    "exp": "옳은 내용: M 단백질은 바이러스 조립과 외피 형성에 관여한다.",
+    "slide": 2,
+    "id": "corona_prion-12"
+  },
+  {
+    "type": "ox",
+    "q": "E 단백질은 외피 형성, 이온채널, budding에 관여할 수 있다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "exp": "강의안의 핵심 내용과 일치한다.",
+    "slide": 2,
+    "id": "corona_prion-13"
+  },
+  {
+    "type": "ox",
+    "q": "E 단백질은 바이러스의 유전체 그 자체이다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 1,
+    "exp": "옳은 내용: E 단백질은 외피 형성, 이온채널, budding에 관여할 수 있다.",
+    "slide": 2,
+    "id": "corona_prion-14"
+  },
+  {
+    "type": "ox",
+    "q": "코로나바이러스는 복제 중 비교적 높은 빈도의 변이를 보일 수 있다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "exp": "강의안의 핵심 내용과 일치한다.",
+    "slide": 2,
+    "id": "corona_prion-15"
+  },
+  {
+    "type": "ox",
+    "q": "코로나바이러스는 유전적 변이가 전혀 일어나지 않는다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 1,
+    "exp": "옳은 내용: 코로나바이러스는 복제 중 비교적 높은 빈도의 변이를 보일 수 있다.",
+    "slide": 2,
+    "id": "corona_prion-16"
+  },
+  {
+    "type": "ox",
+    "q": "알파코로나바이러스에는 HCoV-229E와 HCoV-NL63가 포함된다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "exp": "강의안의 핵심 내용과 일치한다.",
+    "slide": 3,
+    "id": "corona_prion-17"
+  },
+  {
+    "type": "ox",
+    "q": "알파코로나바이러스에는 MERS-CoV만 포함된다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 1,
+    "exp": "옳은 내용: 알파코로나바이러스에는 HCoV-229E와 HCoV-NL63가 포함된다.",
+    "slide": 3,
+    "id": "corona_prion-18"
+  },
+  {
+    "type": "ox",
+    "q": "베타코로나바이러스에는 HCoV-OC43, HKU1, SARS-CoV, MERS-CoV, SARS-CoV-2가 포함된다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "exp": "강의안의 핵심 내용과 일치한다.",
+    "slide": 3,
+    "id": "corona_prion-19"
+  },
+  {
+    "type": "ox",
+    "q": "베타코로나바이러스에는 HCoV-229E만 포함된다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 1,
+    "exp": "옳은 내용: 베타코로나바이러스에는 HCoV-OC43, HKU1, SARS-CoV, MERS-CoV, SARS-CoV-2가 포함된다.",
+    "slide": 3,
+    "id": "corona_prion-20"
+  },
+  {
+    "type": "ox",
+    "q": "사람의 계절성 코로나바이러스는 흔히 감기를 일으킨다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "exp": "강의안의 핵심 내용과 일치한다.",
+    "slide": 4,
+    "id": "corona_prion-21"
+  },
+  {
+    "type": "ox",
+    "q": "모든 사람 코로나바이러스 감염은 항상 치명적이다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 1,
+    "exp": "옳은 내용: 사람의 계절성 코로나바이러스는 흔히 감기를 일으킨다.",
+    "slide": 4,
+    "id": "corona_prion-22"
+  },
+  {
+    "type": "ox",
+    "q": "SARS-CoV와 SARS-CoV-2는 ACE2를 수용체로 사용한다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "exp": "강의안의 핵심 내용과 일치한다.",
+    "slide": 3,
+    "id": "corona_prion-23"
+  },
+  {
+    "type": "ox",
+    "q": "SARS-CoV와 SARS-CoV-2는 DPP4만을 수용체로 사용한다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 1,
+    "exp": "옳은 내용: SARS-CoV와 SARS-CoV-2는 ACE2를 수용체로 사용한다.",
+    "slide": 3,
+    "id": "corona_prion-24"
+  },
+  {
+    "type": "ox",
+    "q": "MERS-CoV는 DPP4/CD26을 수용체로 사용한다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "exp": "강의안의 핵심 내용과 일치한다.",
+    "slide": 7,
+    "id": "corona_prion-25"
+  },
+  {
+    "type": "ox",
+    "q": "MERS-CoV는 CD4를 주 수용체로 사용한다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 1,
+    "exp": "옳은 내용: MERS-CoV는 DPP4/CD26을 수용체로 사용한다.",
+    "slide": 7,
+    "id": "corona_prion-26"
+  },
+  {
+    "type": "ox",
+    "q": "SARS는 2002년 중국 광둥성에서 시작되어 2003년 전세계로 확산했다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "exp": "강의안의 핵심 내용과 일치한다.",
+    "slide": 5,
+    "id": "corona_prion-27"
+  },
+  {
+    "type": "ox",
+    "q": "SARS는 2019년 우한에서 처음 발생했다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 1,
+    "exp": "옳은 내용: SARS는 2002년 중국 광둥성에서 시작되어 2003년 전세계로 확산했다.",
+    "slide": 5,
+    "id": "corona_prion-28"
+  },
+  {
+    "type": "ox",
+    "q": "SARS의 주요 전파 방식에는 비말이 포함된다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "exp": "강의안의 핵심 내용과 일치한다.",
+    "slide": 5,
+    "id": "corona_prion-29"
+  },
+  {
+    "type": "ox",
+    "q": "SARS는 모기 매개로만 전파된다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 1,
+    "exp": "옳은 내용: SARS의 주요 전파 방식에는 비말이 포함된다.",
+    "slide": 5,
+    "id": "corona_prion-30"
+  },
+  {
+    "type": "ox",
+    "q": "SARS 환자에서 고열, 마른기침, 근육통, 비정형폐렴이 나타날 수 있다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "exp": "강의안의 핵심 내용과 일치한다.",
+    "slide": 5,
+    "id": "corona_prion-31"
+  },
+  {
+    "type": "ox",
+    "q": "SARS는 호흡기 증상을 일으키지 않는다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 1,
+    "exp": "옳은 내용: SARS 환자에서 고열, 마른기침, 근육통, 비정형폐렴이 나타날 수 있다.",
+    "slide": 5,
+    "id": "corona_prion-32"
+  },
+  {
+    "type": "ox",
+    "q": "SARS의 전체 보고 치명률은 약 9.6%였다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "exp": "강의안의 핵심 내용과 일치한다.",
+    "slide": 5,
+    "id": "corona_prion-33"
+  },
+  {
+    "type": "ox",
+    "q": "SARS의 보고 치명률은 0%였다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 1,
+    "exp": "옳은 내용: SARS의 전체 보고 치명률은 약 9.6%였다.",
+    "slide": 5,
+    "id": "corona_prion-34"
+  },
+  {
+    "type": "ox",
+    "q": "SARS-CoV의 동물 저장소로 박쥐가 중요하다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "exp": "강의안의 핵심 내용과 일치한다.",
+    "slide": 5,
+    "id": "corona_prion-35"
+  },
+  {
+    "type": "ox",
+    "q": "SARS-CoV의 유일한 저장소는 사람의 적혈구이다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 1,
+    "exp": "옳은 내용: SARS-CoV의 동물 저장소로 박쥐가 중요하다.",
+    "slide": 5,
+    "id": "corona_prion-36"
+  },
+  {
+    "type": "ox",
+    "q": "MERS-CoV는 2012년 중동에서 확인되었다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "exp": "강의안의 핵심 내용과 일치한다.",
+    "slide": 7,
+    "id": "corona_prion-37"
+  },
+  {
+    "type": "ox",
+    "q": "MERS-CoV는 1918년 유럽에서 확인되었다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 1,
+    "exp": "옳은 내용: MERS-CoV는 2012년 중동에서 확인되었다.",
+    "slide": 7,
+    "id": "corona_prion-38"
+  },
+  {
+    "type": "ox",
+    "q": "MERS-CoV 전파에는 단봉낙타가 중요한 중간숙주로 알려져 있다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "exp": "강의안의 핵심 내용과 일치한다.",
+    "slide": 7,
+    "id": "corona_prion-39"
+  },
+  {
+    "type": "ox",
+    "q": "MERS-CoV는 조류에서 사람으로만 전파된다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 1,
+    "exp": "옳은 내용: MERS-CoV 전파에는 단봉낙타가 중요한 중간숙주로 알려져 있다.",
+    "slide": 7,
+    "id": "corona_prion-40"
+  },
+  {
+    "type": "ox",
+    "q": "MERS의 잠복기는 대략 2~14일 범위일 수 있다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "exp": "강의안의 핵심 내용과 일치한다.",
+    "slide": 7,
+    "id": "corona_prion-41"
+  },
+  {
+    "type": "ox",
+    "q": "MERS의 잠복기는 항상 수초 이내이다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 1,
+    "exp": "옳은 내용: MERS의 잠복기는 대략 2~14일 범위일 수 있다.",
+    "slide": 7,
+    "id": "corona_prion-42"
+  },
+  {
+    "type": "ox",
+    "q": "MERS는 고령자와 기저질환자에서 중증 위험이 높다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "exp": "강의안의 핵심 내용과 일치한다.",
+    "slide": 7,
+    "id": "corona_prion-43"
+  },
+  {
+    "type": "ox",
+    "q": "MERS는 젊고 건강한 사람에서만 중증이다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 1,
+    "exp": "옳은 내용: MERS는 고령자와 기저질환자에서 중증 위험이 높다.",
+    "slide": 7,
+    "id": "corona_prion-44"
+  },
+  {
+    "type": "ox",
+    "q": "MERS는 ARDS, 급성신부전, 다장기부전을 일으킬 수 있다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "exp": "강의안의 핵심 내용과 일치한다.",
+    "slide": 7,
+    "id": "corona_prion-45"
+  },
+  {
+    "type": "ox",
+    "q": "MERS는 상기도 감기 증상만 일으키고 장기부전은 없다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 1,
+    "exp": "옳은 내용: MERS는 ARDS, 급성신부전, 다장기부전을 일으킬 수 있다.",
+    "slide": 7,
+    "id": "corona_prion-46"
+  },
+  {
+    "type": "ox",
+    "q": "MERS 진단에는 RT-PCR이 이용된다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "exp": "강의안의 핵심 내용과 일치한다.",
+    "slide": 7,
+    "id": "corona_prion-47"
+  },
+  {
+    "type": "ox",
+    "q": "MERS 진단에 핵산검사는 사용할 수 없다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 1,
+    "exp": "옳은 내용: MERS 진단에는 RT-PCR이 이용된다.",
+    "slide": 7,
+    "id": "corona_prion-48"
+  },
+  {
+    "type": "ox",
+    "q": "2015년 대한민국 MERS 유행은 의료기관 관련 전파가 대부분이었다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "exp": "강의안의 핵심 내용과 일치한다.",
+    "slide": 7,
+    "id": "corona_prion-49"
+  },
+  {
+    "type": "ox",
+    "q": "2015년 대한민국 MERS 유행은 모기 매개 지역사회 전파가 대부분이었다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 1,
+    "exp": "옳은 내용: 2015년 대한민국 MERS 유행은 의료기관 관련 전파가 대부분이었다.",
+    "slide": 7,
+    "id": "corona_prion-50"
+  },
+  {
+    "type": "ox",
+    "q": "COVID-19의 원인 바이러스는 SARS-CoV-2이다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "exp": "강의안의 핵심 내용과 일치한다.",
+    "slide": 9,
+    "id": "corona_prion-51"
+  },
+  {
+    "type": "ox",
+    "q": "COVID-19의 원인 바이러스는 influenza B virus이다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 1,
+    "exp": "옳은 내용: COVID-19의 원인 바이러스는 SARS-CoV-2이다.",
+    "slide": 9,
+    "id": "corona_prion-52"
+  },
+  {
+    "type": "ox",
+    "q": "COVID-19는 2019년 말 중국 우한에서 처음 보고되었다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "exp": "강의안의 핵심 내용과 일치한다.",
+    "slide": 9,
+    "id": "corona_prion-53"
+  },
+  {
+    "type": "ox",
+    "q": "COVID-19는 1957년 홍콩에서 처음 보고되었다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 1,
+    "exp": "옳은 내용: COVID-19는 2019년 말 중국 우한에서 처음 보고되었다.",
+    "slide": 9,
+    "id": "corona_prion-54"
+  },
+  {
+    "type": "ox",
+    "q": "WHO는 2020년 3월 COVID-19를 팬데믹으로 선언했다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "exp": "강의안의 핵심 내용과 일치한다.",
+    "slide": 9,
+    "id": "corona_prion-55"
+  },
+  {
+    "type": "ox",
+    "q": "WHO는 COVID-19를 팬데믹으로 선언한 적이 없다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 1,
+    "exp": "옳은 내용: WHO는 2020년 3월 COVID-19를 팬데믹으로 선언했다.",
+    "slide": 9,
+    "id": "corona_prion-56"
+  },
+  {
+    "type": "ox",
+    "q": "SARS-CoV-2의 S1 RBD는 ACE2와 결합한다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "exp": "강의안의 핵심 내용과 일치한다.",
+    "slide": 8,
+    "id": "corona_prion-57"
+  },
+  {
+    "type": "ox",
+    "q": "SARS-CoV-2의 S1 RBD는 적혈구 헤모글로빈만 결합한다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 1,
+    "exp": "옳은 내용: SARS-CoV-2의 S1 RBD는 ACE2와 결합한다.",
+    "slide": 8,
+    "id": "corona_prion-58"
+  },
+  {
+    "type": "ox",
+    "q": "TMPRSS2는 spike 절단과 세포막 융합에 관여한다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "exp": "강의안의 핵심 내용과 일치한다.",
+    "slide": 8,
+    "id": "corona_prion-59"
+  },
+  {
+    "type": "ox",
+    "q": "TMPRSS2는 바이러스 항체를 생성하는 림프구이다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 1,
+    "exp": "옳은 내용: TMPRSS2는 spike 절단과 세포막 융합에 관여한다.",
+    "slide": 8,
+    "id": "corona_prion-60"
+  },
+  {
+    "type": "ox",
+    "q": "Cathepsin L은 endosomal membrane fusion 과정에 기여할 수 있다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "exp": "강의안의 핵심 내용과 일치한다.",
+    "slide": 8,
+    "id": "corona_prion-61"
+  },
+  {
+    "type": "ox",
+    "q": "Cathepsin L은 코로나바이러스의 표면항원 이름이다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 1,
+    "exp": "옳은 내용: Cathepsin L은 endosomal membrane fusion 과정에 기여할 수 있다.",
+    "slide": 8,
+    "id": "corona_prion-62"
+  },
+  {
+    "type": "ox",
+    "q": "COVID-19 중증 환자에서 림프구감소증이 나타날 수 있다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "exp": "강의안의 핵심 내용과 일치한다.",
+    "slide": 9,
+    "id": "corona_prion-63"
+  },
+  {
+    "type": "ox",
+    "q": "COVID-19 중증 환자에서는 항상 림프구증가증만 나타난다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 1,
+    "exp": "옳은 내용: COVID-19 중증 환자에서 림프구감소증이 나타날 수 있다.",
+    "slide": 9,
+    "id": "corona_prion-64"
+  },
+  {
+    "type": "ox",
+    "q": "COVID-19의 중증도와 CD4·CD8 T세포 감소가 연관될 수 있다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "exp": "강의안의 핵심 내용과 일치한다.",
+    "slide": 9,
+    "id": "corona_prion-65"
+  },
+  {
+    "type": "ox",
+    "q": "COVID-19 중증도는 면역세포 변화와 전혀 무관하다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 1,
+    "exp": "옳은 내용: COVID-19의 중증도와 CD4·CD8 T세포 감소가 연관될 수 있다.",
+    "slide": 9,
+    "id": "corona_prion-66"
+  },
+  {
+    "type": "ox",
+    "q": "고령, 비만, 심혈관질환, 면역저하는 COVID-19 중증 위험요인이다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "exp": "강의안의 핵심 내용과 일치한다.",
+    "slide": 9,
+    "id": "corona_prion-67"
+  },
+  {
+    "type": "ox",
+    "q": "고령과 기저질환은 COVID-19 중증 위험을 낮춘다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 1,
+    "exp": "옳은 내용: 고령, 비만, 심혈관질환, 면역저하는 COVID-19 중증 위험요인이다.",
+    "slide": 9,
+    "id": "corona_prion-68"
+  },
+  {
+    "type": "ox",
+    "q": "VOC는 전파력, 병원성 또는 백신효과 등에 우려되는 변화가 있는 변이를 뜻한다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "exp": "강의안의 핵심 내용과 일치한다.",
+    "slide": 16,
+    "id": "corona_prion-69"
+  },
+  {
+    "type": "ox",
+    "q": "VOC는 임상적 의미가 전혀 없는 실험실 오염을 뜻한다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 1,
+    "exp": "옳은 내용: VOC는 전파력, 병원성 또는 백신효과 등에 우려되는 변화가 있는 변이를 뜻한다.",
+    "slide": 16,
+    "id": "corona_prion-70"
+  },
+  {
+    "type": "ox",
+    "q": "Alpha 변이는 2020년 영국에서 처음 보고되었다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "exp": "강의안의 핵심 내용과 일치한다.",
+    "slide": 16,
+    "id": "corona_prion-71"
+  },
+  {
+    "type": "ox",
+    "q": "Alpha 변이는 2021년 남아프리카에서 처음 보고되었다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 1,
+    "exp": "옳은 내용: Alpha 변이는 2020년 영국에서 처음 보고되었다.",
+    "slide": 16,
+    "id": "corona_prion-72"
+  },
+  {
+    "type": "ox",
+    "q": "Beta 변이는 남아프리카에서 처음 확인되었다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "exp": "강의안의 핵심 내용과 일치한다.",
+    "slide": 16,
+    "id": "corona_prion-73"
+  },
+  {
+    "type": "ox",
+    "q": "Beta 변이는 브라질에서 처음 확인되었다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 1,
+    "exp": "옳은 내용: Beta 변이는 남아프리카에서 처음 확인되었다.",
+    "slide": 16,
+    "id": "corona_prion-74"
+  },
+  {
+    "type": "ox",
+    "q": "Gamma 변이는 브라질에서 처음 확인되었다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "exp": "강의안의 핵심 내용과 일치한다.",
+    "slide": 16,
+    "id": "corona_prion-75"
+  },
+  {
+    "type": "ox",
+    "q": "Gamma 변이는 인도에서 처음 확인되었다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 1,
+    "exp": "옳은 내용: Gamma 변이는 브라질에서 처음 확인되었다.",
+    "slide": 16,
+    "id": "corona_prion-76"
+  },
+  {
+    "type": "ox",
+    "q": "Delta 변이는 인도에서 처음 확인되었다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "exp": "강의안의 핵심 내용과 일치한다.",
+    "slide": 16,
+    "id": "corona_prion-77"
+  },
+  {
+    "type": "ox",
+    "q": "Delta 변이는 영국에서 처음 확인되었다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 1,
+    "exp": "옳은 내용: Delta 변이는 인도에서 처음 확인되었다.",
+    "slide": 16,
+    "id": "corona_prion-78"
+  },
+  {
+    "type": "ox",
+    "q": "Omicron 변이는 2021년 남아프리카에서 보고되었다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "exp": "강의안의 핵심 내용과 일치한다.",
+    "slide": 16,
+    "id": "corona_prion-79"
+  },
+  {
+    "type": "ox",
+    "q": "Omicron 변이는 1957년 아시아독감 바이러스이다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 1,
+    "exp": "옳은 내용: Omicron 변이는 2021년 남아프리카에서 보고되었다.",
+    "slide": 16,
+    "id": "corona_prion-80"
+  },
+  {
+    "type": "ox",
+    "q": "프리온은 비정상적으로 접힌 감염성 단백질과 관련된다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "exp": "강의안의 핵심 내용과 일치한다.",
+    "slide": 18,
+    "id": "corona_prion-81"
+  },
+  {
+    "type": "ox",
+    "q": "프리온은 핵산을 가진 외피성 바이러스이다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 1,
+    "exp": "옳은 내용: 프리온은 비정상적으로 접힌 감염성 단백질과 관련된다.",
+    "slide": 18,
+    "id": "corona_prion-82"
+  },
+  {
+    "type": "ox",
+    "q": "프리온 질환에서는 정상 PrP가 비정상 형태로 전환된다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "exp": "강의안의 핵심 내용과 일치한다.",
+    "slide": 19,
+    "id": "corona_prion-83"
+  },
+  {
+    "type": "ox",
+    "q": "프리온 질환은 세균의 세포벽 독소 때문에 발생한다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 1,
+    "exp": "옳은 내용: 프리온 질환에서는 정상 PrP가 비정상 형태로 전환된다.",
+    "slide": 19,
+    "id": "corona_prion-84"
+  },
+  {
+    "type": "ox",
+    "q": "프리온은 핵산을 포함하지 않는다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "exp": "강의안의 핵심 내용과 일치한다.",
+    "slide": 19,
+    "id": "corona_prion-85"
+  },
+  {
+    "type": "ox",
+    "q": "프리온은 반드시 RNA 유전체를 포함한다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 1,
+    "exp": "옳은 내용: 프리온은 핵산을 포함하지 않는다.",
+    "slide": 19,
+    "id": "corona_prion-86"
+  },
+  {
+    "type": "ox",
+    "q": "프리온 질환은 해면상 뇌병증을 일으킬 수 있다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "exp": "강의안의 핵심 내용과 일치한다.",
+    "slide": 19,
+    "id": "corona_prion-87"
+  },
+  {
+    "type": "ox",
+    "q": "프리온 질환은 중추신경계를 침범하지 않는다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 1,
+    "exp": "옳은 내용: 프리온 질환은 해면상 뇌병증을 일으킬 수 있다.",
+    "slide": 19,
+    "id": "corona_prion-88"
+  },
+  {
+    "type": "ox",
+    "q": "Creutzfeldt-Jakob disease는 사람의 프리온 질환이다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "exp": "강의안의 핵심 내용과 일치한다.",
+    "slide": 21,
+    "id": "corona_prion-89"
+  },
+  {
+    "type": "ox",
+    "q": "Creutzfeldt-Jakob disease는 인플루엔자 합병증이다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 1,
+    "exp": "옳은 내용: Creutzfeldt-Jakob disease는 사람의 프리온 질환이다.",
+    "slide": 21,
+    "id": "corona_prion-90"
+  },
+  {
+    "type": "ox",
+    "q": "Variant CJD는 소해면상뇌병증과 역학적 관련성이 있다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "exp": "강의안의 핵심 내용과 일치한다.",
+    "slide": 21,
+    "id": "corona_prion-91"
+  },
+  {
+    "type": "ox",
+    "q": "Variant CJD는 홍역 백신과 관련된 질환이다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 1,
+    "exp": "옳은 내용: Variant CJD는 소해면상뇌병증과 역학적 관련성이 있다.",
+    "slide": 21,
+    "id": "corona_prion-92"
+  },
+  {
+    "type": "ox",
+    "q": "Kuru는 식인 풍습과 관련되어 전파된 프리온 질환이다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "exp": "강의안의 핵심 내용과 일치한다.",
+    "slide": 21,
+    "id": "corona_prion-93"
+  },
+  {
+    "type": "ox",
+    "q": "Kuru는 모기 매개 코로나바이러스 감염이다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 1,
+    "exp": "옳은 내용: Kuru는 식인 풍습과 관련되어 전파된 프리온 질환이다.",
+    "slide": 21,
+    "id": "corona_prion-94"
+  },
+  {
+    "type": "ox",
+    "q": "프리온은 일반적인 소독과 열처리에 비교적 강한 저항성을 보인다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "exp": "강의안의 핵심 내용과 일치한다.",
+    "slide": 19,
+    "id": "corona_prion-95"
+  },
+  {
+    "type": "ox",
+    "q": "프리온은 비누로 즉시 완전히 불활성화된다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 1,
+    "exp": "옳은 내용: 프리온은 일반적인 소독과 열처리에 비교적 강한 저항성을 보인다.",
+    "slide": 19,
+    "id": "corona_prion-96"
+  },
+  {
+    "type": "ox",
+    "q": "프리온 질환의 잠복기는 매우 길 수 있다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "exp": "강의안의 핵심 내용과 일치한다.",
+    "slide": 19,
+    "id": "corona_prion-97"
+  },
+  {
+    "type": "ox",
+    "q": "프리온 질환은 항상 1시간 이내 증상이 나타난다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 1,
+    "exp": "옳은 내용: 프리온 질환의 잠복기는 매우 길 수 있다.",
+    "slide": 19,
+    "id": "corona_prion-98"
+  },
+  {
+    "type": "ox",
+    "q": "프리온 질환은 대개 진행성이고 치명적이며 확립된 근치치료가 없다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "exp": "강의안의 핵심 내용과 일치한다.",
+    "slide": 19,
+    "id": "corona_prion-99"
+  },
+  {
+    "type": "ox",
+    "q": "프리온 질환은 항생제로 완치되는 급성 세균감염이다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 1,
+    "exp": "옳은 내용: 프리온 질환은 대개 진행성이고 치명적이며 확립된 근치치료가 없다.",
+    "slide": 19,
+    "id": "corona_prion-100"
+  }
+]
