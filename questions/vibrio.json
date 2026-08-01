@@ -1,0 +1,1302 @@
+[
+  {
+    "type": "mc",
+    "q": "Vibrio 속 세균의 공통 형태학적 특징으로 옳은 것은?",
+    "options": [
+      "그람양성 구균",
+      "그람음성의 굽은 막대균",
+      "항산성 막대균",
+      "세포벽이 없는 다형성 세균"
+    ],
+    "answer": 1,
+    "exp": "Vibrio는 그람음성의 쉼표 모양 또는 굽은 막대균이다.",
+    "slide": 6,
+    "id": "vibrio-1"
+  },
+  {
+    "type": "mc",
+    "q": "Vibrio 속 세균의 운동성에 가장 직접적으로 관여하는 구조는?",
+    "options": [
+      "주모성 편모",
+      "단극성 편모",
+      "섬모",
+      "축사"
+    ],
+    "answer": 1,
+    "exp": "Vibrio는 주로 단극성 편모에 의해 운동한다.",
+    "slide": 6,
+    "id": "vibrio-2"
+  },
+  {
+    "type": "mc",
+    "q": "인체 감염에서 강의가 강조한 주요 Vibrio 3종의 조합은?",
+    "options": [
+      "V. cholerae, V. parahaemolyticus, V. vulnificus",
+      "V. cholerae, V. alginolyticus, V. mimicus",
+      "V. vulnificus, V. fluvialis, V. hollisae",
+      "V. parahaemolyticus, V. metschnikovii, V. mimicus"
+    ],
+    "answer": 0,
+    "exp": "주요 병원성 종은 V. cholerae, V. parahaemolyticus, V. vulnificus이다.",
+    "slide": 6,
+    "id": "vibrio-3"
+  },
+  {
+    "type": "mc",
+    "q": "Vibrio 속 세균이 주로 증식하는 환경으로 가장 적절한 것은?",
+    "options": [
+      "차갑고 건조한 토양",
+      "따뜻한 해수와 기수",
+      "강산성 위액",
+      "산소가 전혀 없는 심해 퇴적층만"
+    ],
+    "answer": 1,
+    "exp": "Vibrio는 따뜻한 해수와 기수에서 잘 자라며 어패류와 연관된다.",
+    "slide": 9,
+    "id": "vibrio-4"
+  },
+  {
+    "type": "mc",
+    "q": "비콜레라성 Vibrio 감염의 대표적인 전파 방식은?",
+    "options": [
+      "공기매개 전파",
+      "오염된 해산물 섭취 또는 바닷물에 상처 노출",
+      "모기 매개",
+      "성접촉만"
+    ],
+    "answer": 1,
+    "exp": "V. parahaemolyticus와 V. vulnificus는 오염된 해산물 또는 물 노출과 연관된다.",
+    "slide": 10,
+    "id": "vibrio-5"
+  },
+  {
+    "type": "mc",
+    "q": "Vibrio cholerae의 주된 전파 경로는?",
+    "options": [
+      "분변-경구 경로",
+      "진드기 매개",
+      "수직감염만",
+      "비말감염"
+    ],
+    "answer": 0,
+    "exp": "콜레라균은 오염된 물과 음식에 의한 분변-경구 경로로 전파된다.",
+    "slide": 13,
+    "id": "vibrio-6"
+  },
+  {
+    "type": "mc",
+    "q": "Vibrio cholerae 혈청군 분류의 기준이 되는 항원은?",
+    "options": [
+      "편모 H항원",
+      "협막 K항원",
+      "LPS의 O항원",
+      "외독소 A항원"
+    ],
+    "answer": 2,
+    "exp": "V. cholerae는 LPS O항원에 따라 200개 이상의 혈청군으로 나뉜다.",
+    "slide": 13,
+    "id": "vibrio-7"
+  },
+  {
+    "type": "mc",
+    "q": "Vibrio cholerae O1 생물형에 대한 설명으로 옳은 것은?",
+    "options": [
+      "Classical과 El Tor로 나뉜다",
+      "O139와 El Tor로 나뉜다",
+      "모두 무증상 감염만 일으킨다",
+      "생물형 구분이 없다"
+    ],
+    "answer": 0,
+    "exp": "O1은 Classical과 El Tor 생물형으로 구분된다.",
+    "slide": 13,
+    "id": "vibrio-8"
+  },
+  {
+    "type": "mc",
+    "q": "Vibrio cholerae O1의 El Tor형과 Classical형 비교로 옳은 것은?",
+    "options": [
+      "El Tor가 일반적으로 감염력은 높고 증상은 더 경미하다",
+      "Classical이 항상 무증상이다",
+      "El Tor는 콜레라독소를 만들지 않는다",
+      "Classical은 사람에게 감염되지 않는다"
+    ],
+    "answer": 0,
+    "exp": "강의에서는 최근 El Tor가 흔하며 감염력은 높고 증상은 비교적 경미하다고 설명한다.",
+    "slide": 13,
+    "id": "vibrio-9"
+  },
+  {
+    "type": "mc",
+    "q": "콜레라의 주요 사망 원인은?",
+    "options": [
+      "수막염",
+      "급격한 탈수와 전해질 소실",
+      "용혈성 빈혈",
+      "심근염"
+    ],
+    "answer": 1,
+    "exp": "대량의 수양성 설사로 심한 탈수와 쇼크가 발생해 사망할 수 있다.",
+    "slide": 14,
+    "id": "vibrio-10"
+  },
+  {
+    "type": "mc",
+    "q": "콜레라독소의 기본 구조는?",
+    "options": [
+      "A2B2",
+      "AB5",
+      "A5B",
+      "단일 폴리펩타이드"
+    ],
+    "answer": 1,
+    "exp": "콜레라독소는 A 1개와 B 5개로 이루어진 AB5 독소이다.",
+    "slide": 15,
+    "id": "vibrio-11"
+  },
+  {
+    "type": "mc",
+    "q": "콜레라독소가 장상피세포에서 직접 증가시키는 2차 전달자는?",
+    "options": [
+      "cGMP",
+      "cAMP",
+      "IP3만",
+      "Ca2+ 저장량 감소만"
+    ],
+    "answer": 1,
+    "exp": "콜레라독소는 adenylate cyclase를 활성화해 cAMP를 증가시킨다.",
+    "slide": 15,
+    "id": "vibrio-12"
+  },
+  {
+    "type": "mc",
+    "q": "콜레라독소 작용 후 장관 내강으로 증가하는 분비로 옳은 것은?",
+    "options": [
+      "Cl−와 물, Na+, K+, HCO3−",
+      "Ca2+와 단백질만",
+      "철과 빌리루빈",
+      "포도당만"
+    ],
+    "answer": 0,
+    "exp": "cAMP 증가로 Cl− 분비가 촉진되고 물과 여러 전해질이 장관 내로 소실된다.",
+    "slide": 15,
+    "id": "vibrio-13"
+  },
+  {
+    "type": "mc",
+    "q": "Vibrio cholerae의 장 정착에 필수적인 인자는?",
+    "options": [
+      "TCP",
+      "M protein",
+      "Protein A",
+      "P fimbria"
+    ],
+    "answer": 0,
+    "exp": "TCP(toxin-coregulated pilus)는 소장 정착에 중요하다.",
+    "slide": 14,
+    "id": "vibrio-14"
+  },
+  {
+    "type": "mc",
+    "q": "ToxR와 ToxT의 역할로 가장 적절한 것은?",
+    "options": [
+      "DNA 복제를 차단한다",
+      "병원성 유전자 발현을 활성화한다",
+      "세포벽을 분해한다",
+      "항생제를 직접 불활성화한다"
+    ],
+    "answer": 1,
+    "exp": "ToxR/ToxT는 콜레라독소와 TCP 등의 병원성 유전자 발현을 조절하는 전사 활성인자이다.",
+    "slide": 16,
+    "id": "vibrio-15"
+  },
+  {
+    "type": "mc",
+    "q": "전형적인 콜레라 환자의 대변 양상은?",
+    "options": [
+      "소량의 혈성 설사",
+      "쌀뜨물 같은 다량의 수양성 설사",
+      "지방변",
+      "검은색 타르변"
+    ],
+    "answer": 1,
+    "exp": "콜레라는 쌀뜨물 같은 다량의 수양성 설사가 특징이다.",
+    "slide": 19,
+    "id": "vibrio-16"
+  },
+  {
+    "type": "mc",
+    "q": "콜레라 환자에서 흔하지 않은 소견의 조합은?",
+    "options": [
+      "발열과 심한 복통",
+      "탈수와 저칼륨혈증",
+      "대사성 산증과 무뇨",
+      "저혈량성 쇼크와 신부전"
+    ],
+    "answer": 0,
+    "exp": "전형적인 콜레라는 발열과 심한 복통이 두드러지지 않는다.",
+    "slide": 19,
+    "id": "vibrio-17"
+  },
+  {
+    "type": "mc",
+    "q": "콜레라에서 대사성 산증이 생기는 주요 이유는?",
+    "options": [
+      "HCO3−의 장관 소실",
+      "호흡성 알칼리증",
+      "젖산 생성 감소",
+      "위산 과다분비"
+    ],
+    "answer": 0,
+    "exp": "설사로 중탄산염이 소실되어 대사성 산증이 발생할 수 있다.",
+    "slide": 19,
+    "id": "vibrio-18"
+  },
+  {
+    "type": "mc",
+    "q": "콜레라 진단에 사용하는 선택배지로 가장 적절한 것은?",
+    "options": [
+      "Lowenstein-Jensen agar",
+      "TCBS agar",
+      "Sabouraud agar",
+      "Thayer-Martin agar"
+    ],
+    "answer": 1,
+    "exp": "TCBS agar는 Vibrio 선택배지이다.",
+    "slide": 20,
+    "id": "vibrio-19"
+  },
+  {
+    "type": "mc",
+    "q": "TCBS agar에서 Vibrio cholerae 집락의 전형적 색은?",
+    "options": [
+      "검정색",
+      "노란색",
+      "녹색",
+      "무색 투명"
+    ],
+    "answer": 1,
+    "exp": "V. cholerae는 sucrose를 발효하여 TCBS에서 노란 집락을 만든다.",
+    "slide": 20,
+    "id": "vibrio-20"
+  },
+  {
+    "type": "mc",
+    "q": "TCBS agar에서 녹색 집락을 형성하는 종의 조합은?",
+    "options": [
+      "V. cholerae와 V. alginolyticus",
+      "V. parahaemolyticus와 V. vulnificus",
+      "V. cholerae와 V. vulnificus",
+      "V. alginolyticus와 V. parahaemolyticus"
+    ],
+    "answer": 1,
+    "exp": "V. parahaemolyticus와 V. vulnificus는 TCBS에서 녹색 집락을 형성한다.",
+    "slide": 20,
+    "id": "vibrio-21"
+  },
+  {
+    "type": "mc",
+    "q": "콜레라 치료의 가장 중요한 원칙은?",
+    "options": [
+      "즉시 스테로이드 투여",
+      "신속한 수분 및 전해질 보충",
+      "항독소 혈청만 투여",
+      "금식만 시행"
+    ],
+    "answer": 1,
+    "exp": "사망률을 낮추는 핵심은 신속한 경구 또는 정맥 수분·전해질 보충이다.",
+    "slide": 21,
+    "id": "vibrio-22"
+  },
+  {
+    "type": "mc",
+    "q": "치료하지 않은 콜레라와 적절히 치료한 콜레라의 사망률 비교로 옳은 것은?",
+    "options": [
+      "치료 전후 차이가 거의 없다",
+      "무치료 시 25–50%, 치료 시 1% 미만",
+      "무치료 시 1% 미만, 치료 시 25–50%",
+      "항생제를 사용하면 항상 0%"
+    ],
+    "answer": 1,
+    "exp": "강의에서는 무치료 시 25–50%, 적절한 치료 시 1% 미만으로 제시한다.",
+    "slide": 21,
+    "id": "vibrio-23"
+  },
+  {
+    "type": "mc",
+    "q": "소아 콜레라에서 설사의 기간과 중증도를 줄이는 데 도움이 될 수 있는 보충제는?",
+    "options": [
+      "철분",
+      "아연",
+      "비타민 K",
+      "칼슘"
+    ],
+    "answer": 1,
+    "exp": "아연 보충은 소아 설사의 기간과 중증도를 감소시킬 수 있다.",
+    "slide": 21,
+    "id": "vibrio-24"
+  },
+  {
+    "type": "mc",
+    "q": "Vibrio parahaemolyticus의 주요 병원성 인자는?",
+    "options": [
+      "열안정성 직접 용혈소(Tdh)",
+      "콜레라독소 CTX",
+      "디프테리아독소",
+      "보툴리눔독소"
+    ],
+    "answer": 0,
+    "exp": "V. parahaemolyticus의 대표적 병원성 인자는 thermostable direct hemolysin이다.",
+    "slide": 23,
+    "id": "vibrio-25"
+  },
+  {
+    "type": "mc",
+    "q": "Vibrio parahaemolyticus의 용혈을 확인하는 특수 배지는?",
+    "options": [
+      "Wagatsuma agar",
+      "BCYE agar",
+      "Regan-Lowe agar",
+      "CIN agar"
+    ],
+    "answer": 0,
+    "exp": "Wagatsuma agar에서 β-용혈을 확인할 수 있다.",
+    "slide": 23,
+    "id": "vibrio-26"
+  },
+  {
+    "type": "mc",
+    "q": "Vibrio parahaemolyticus의 감염량으로 강의에 제시된 범위는?",
+    "options": [
+      "1–10개",
+      "10^3–10^4개",
+      "10^8–10^10개만",
+      "10^12개 이상"
+    ],
+    "answer": 1,
+    "exp": "강의에서는 감염량을 10^3–10^4 cells로 제시한다.",
+    "slide": 23,
+    "id": "vibrio-27"
+  },
+  {
+    "type": "mc",
+    "q": "Vibrio parahaemolyticus 감염과 가장 연관성이 높은 상황은?",
+    "options": [
+      "겨울철 덜 익힌 돼지고기 섭취",
+      "여름철 생굴과 조개류 섭취",
+      "고양이에게 긁힘",
+      "오염된 흙 흡입"
+    ],
+    "answer": 1,
+    "exp": "장염비브리오균은 따뜻한 계절의 생어패류, 특히 조개류와 연관된다.",
+    "slide": 24,
+    "id": "vibrio-28"
+  },
+  {
+    "type": "mc",
+    "q": "Vibrio parahaemolyticus 장염의 임상 소견으로 가장 적절한 것은?",
+    "options": [
+      "무통성 수양성 설사만",
+      "복부경련, 구토, 발열과 때때로 혈성 설사",
+      "상행성 마비",
+      "황달과 회색변"
+    ],
+    "answer": 1,
+    "exp": "장염비브리오 감염은 복통, 수양성 또는 혈성 설사, 오심·구토·발열을 일으킬 수 있다.",
+    "slide": 27,
+    "id": "vibrio-29"
+  },
+  {
+    "type": "mc",
+    "q": "Vibrio parahaemolyticus 감염의 일반적 치료로 가장 적절한 것은?",
+    "options": [
+      "대부분 자연 호전되므로 수분 보충",
+      "항독소 투여",
+      "장기간 항결핵제",
+      "즉시 혈장교환"
+    ],
+    "answer": 0,
+    "exp": "대부분 자연 호전되며 수분 보충이 기본이다.",
+    "slide": 28,
+    "id": "vibrio-30"
+  },
+  {
+    "type": "mc",
+    "q": "Vibrio parahaemolyticus 감염 예방으로 가장 적절한 것은?",
+    "options": [
+      "생어패류를 피하고 충분히 익혀 먹기",
+      "모기장 사용",
+      "BCG 접종",
+      "반려동물 예방접종"
+    ],
+    "answer": 0,
+    "exp": "생식 또는 덜 익힌 해산물 섭취를 피하는 것이 중요하다.",
+    "slide": 28,
+    "id": "vibrio-31"
+  },
+  {
+    "type": "mc",
+    "q": "Vibrio vulnificus가 일으키는 가장 중증의 감염은?",
+    "options": [
+      "단순 인두염",
+      "패혈증과 괴사성 연조직 감염",
+      "바이러스성 뇌염",
+      "만성 요로감염"
+    ],
+    "answer": 1,
+    "exp": "V. vulnificus는 빠르게 진행하는 패혈증과 괴사성 상처 감염을 일으킨다.",
+    "slide": 30,
+    "id": "vibrio-32"
+  },
+  {
+    "type": "mc",
+    "q": "Vibrio vulnificus 감염의 대표적인 두 노출 경로는?",
+    "options": [
+      "오염된 어패류 생식과 상처의 바닷물 노출",
+      "비말과 공기 전파",
+      "모기와 진드기",
+      "성접촉과 수직감염"
+    ],
+    "answer": 0,
+    "exp": "생굴 등 오염된 어패류 섭취 또는 상처의 해수 노출로 감염된다.",
+    "slide": 30,
+    "id": "vibrio-33"
+  },
+  {
+    "type": "mc",
+    "q": "Vibrio vulnificus 감염 환자의 80% 이상에서 흔한 기저질환은?",
+    "options": [
+      "만성 간질환",
+      "천식",
+      "갑상선기능저하증",
+      "편두통"
+    ],
+    "answer": 0,
+    "exp": "V. vulnificus 감염의 주요 고위험군은 간질환 환자이다.",
+    "slide": 31,
+    "id": "vibrio-34"
+  },
+  {
+    "type": "mc",
+    "q": "간질환이 Vibrio vulnificus 중증 감염 위험을 높이는 기전과 가장 관련된 것은?",
+    "options": [
+      "혈중 철 이용 가능성 증가",
+      "위산 분비 증가",
+      "저칼슘혈증",
+      "비타민 C 결핍"
+    ],
+    "answer": 0,
+    "exp": "이 균은 성장과 침습에 철이 필요하며 간질환에서 이용 가능한 철이 증가할 수 있다.",
+    "slide": 31,
+    "id": "vibrio-35"
+  },
+  {
+    "type": "mc",
+    "q": "Vibrio vulnificus가 철을 획득하는 데 사용하는 인자는?",
+    "options": [
+      "Siderophore",
+      "Coagulase",
+      "Catalase only",
+      "IgA protease"
+    ],
+    "answer": 0,
+    "exp": "Siderophore는 고친화성 철 포획체이다.",
+    "slide": 31,
+    "id": "vibrio-36"
+  },
+  {
+    "type": "mc",
+    "q": "Vibrio vulnificus의 병원성 인자로 제시되지 않은 것은?",
+    "options": [
+      "협막",
+      "LPS",
+      "독소",
+      "미콜산"
+    ],
+    "answer": 3,
+    "exp": "강의에서는 siderophore, capsule, LPS, toxins를 제시하며 미콜산은 해당하지 않는다.",
+    "slide": 31,
+    "id": "vibrio-37"
+  },
+  {
+    "type": "mc",
+    "q": "Vibrio vulnificus의 고위험군으로 가장 적절한 조합은?",
+    "options": [
+      "만성 간질환, 당뇨, 면역저하",
+      "젊고 건강한 운동선수만",
+      "알레르기 비염, 편두통",
+      "철결핍 빈혈만"
+    ],
+    "answer": 0,
+    "exp": "만성 간질환, 당뇨, 암 또는 면역저하, 중년 남성이 고위험군이다.",
+    "slide": 33,
+    "id": "vibrio-38"
+  },
+  {
+    "type": "mc",
+    "q": "Vibrio vulnificus 패혈증의 대략적 치명률로 강의에 제시된 값은?",
+    "options": [
+      "약 1%",
+      "약 10%",
+      "약 50%",
+      "거의 100%"
+    ],
+    "answer": 2,
+    "exp": "강의에서는 치명률을 약 50%로 제시한다.",
+    "slide": 33,
+    "id": "vibrio-39"
+  },
+  {
+    "type": "mc",
+    "q": "Vibrio vulnificus 패혈증에서 특징적인 피부 병변은?",
+    "options": [
+      "출혈성 수포와 괴사",
+      "장미진",
+      "표적 병변만",
+      "은백색 인설"
+    ],
+    "answer": 0,
+    "exp": "패혈증과 상처 감염에서 빠르게 진행하는 수포, 변색, 괴사가 나타날 수 있다.",
+    "slide": 35,
+    "id": "vibrio-40"
+  },
+  {
+    "type": "mc",
+    "q": "Vibrio vulnificus 상처 감염의 진행 속도로 가장 적절한 것은?",
+    "options": [
+      "수개월에 걸쳐 서서히",
+      "수시간 내 빠르게 진행 가능",
+      "평생 무증상만",
+      "항상 2주 후 시작"
+    ],
+    "answer": 1,
+    "exp": "상처 감염은 수시간 내 발적, 부종, 수포와 괴사로 빠르게 진행할 수 있다.",
+    "slide": 35,
+    "id": "vibrio-41"
+  },
+  {
+    "type": "mc",
+    "q": "균혈증(bacteremia)의 정의로 옳은 것은?",
+    "options": [
+      "혈액에 세균이 존재하는 상태",
+      "전신 염증과 장기부전이 동반된 상태",
+      "저혈압이 동반된 패혈증만",
+      "피부에 세균이 집락한 상태"
+    ],
+    "answer": 0,
+    "exp": "Bacteremia는 단순히 혈류에서 세균이 검출되는 상태이다.",
+    "slide": 35,
+    "id": "vibrio-42"
+  },
+  {
+    "type": "mc",
+    "q": "Sepsis의 정의로 가장 적절한 것은?",
+    "options": [
+      "혈액배양 양성만 의미",
+      "감염에 대한 전신 반응으로 조직 손상과 장기부전이 발생하는 상태",
+      "국소 피부발진만",
+      "무증상 보균"
+    ],
+    "answer": 1,
+    "exp": "Sepsis는 감염에 의해 전신 염증, 조직 손상, 장기부전이 발생하는 중증 상태이다.",
+    "slide": 35,
+    "id": "vibrio-43"
+  },
+  {
+    "type": "mc",
+    "q": "Vibrio vulnificus 진단에 사용하는 TCBS agar 집락 색은?",
+    "options": [
+      "노란색",
+      "녹색",
+      "검정색",
+      "빨간색"
+    ],
+    "answer": 1,
+    "exp": "V. vulnificus는 TCBS에서 녹색 집락을 형성한다.",
+    "slide": 40,
+    "id": "vibrio-44"
+  },
+  {
+    "type": "mc",
+    "q": "Vibrio vulnificus 중증 감염 치료 조합으로 가장 적절한 것은?",
+    "options": [
+      "3세대 cephalosporin과 doxycycline",
+      "penicillin 단독",
+      "metronidazole 단독",
+      "vancomycin 단독"
+    ],
+    "answer": 0,
+    "exp": "강의에서는 3세대 cephalosporin과 doxycycline을 강조한다.",
+    "slide": 40,
+    "id": "vibrio-45"
+  },
+  {
+    "type": "mc",
+    "q": "Vibrio vulnificus의 괴사성 상처 감염에서 항생제 외에 필요한 처치는?",
+    "options": [
+      "괴사 조직 제거",
+      "항응고제만",
+      "비강 세척",
+      "복막투석만"
+    ],
+    "answer": 0,
+    "exp": "쇼크 치료와 함께 괴사 조직의 신속한 외과적 제거가 중요하다.",
+    "slide": 40,
+    "id": "vibrio-46"
+  },
+  {
+    "type": "mc",
+    "q": "기후변화와 Vibrio 감염의 관계로 옳은 것은?",
+    "options": [
+      "해수 온도 상승은 비콜레라 Vibrio 감염 증가와 연관될 수 있다",
+      "온난화는 Vibrio를 완전히 제거한다",
+      "수온과 Vibrio 감염은 무관하다",
+      "차가운 담수에서만 증가한다"
+    ],
+    "answer": 0,
+    "exp": "해수 온도 상승은 Vibrio의 확산과 감염 증가에 기여할 수 있다.",
+    "slide": 34,
+    "id": "vibrio-47"
+  },
+  {
+    "type": "mc",
+    "q": "해수 온도 상승 후 생굴 섭취자에게 복부경련과 때때로 혈변이 발생했다. 가장 가능성 높은 원인균은?",
+    "options": [
+      "Vibrio cholerae",
+      "Vibrio parahaemolyticus",
+      "Vibrio vulnificus",
+      "Vibrio alginolyticus"
+    ],
+    "answer": 1,
+    "exp": "생어패류 섭취 후 복통과 혈성 설사는 V. parahaemolyticus 장염에 부합한다.",
+    "slide": 44,
+    "id": "vibrio-48"
+  },
+  {
+    "type": "mc",
+    "q": "하루 8 L의 쌀뜨물 같은 설사 외에 발열이나 복통이 거의 없고 수액에 호전된 환자의 원인균은?",
+    "options": [
+      "Vibrio cholerae",
+      "Vibrio parahaemolyticus",
+      "Vibrio vulnificus",
+      "Shigella dysenteriae"
+    ],
+    "answer": 0,
+    "exp": "대량의 무통성 수양성 설사와 수액 반응은 콜레라에 전형적이다.",
+    "slide": 45,
+    "id": "vibrio-49"
+  },
+  {
+    "type": "mc",
+    "q": "바닷물에 상처가 노출된 후 수시간 내 출혈성 수포와 괴사가 발생한 환자의 원인균은?",
+    "options": [
+      "Vibrio cholerae",
+      "Vibrio parahaemolyticus",
+      "Vibrio vulnificus",
+      "Campylobacter jejuni"
+    ],
+    "answer": 2,
+    "exp": "빠른 괴사성 상처 감염은 V. vulnificus를 강하게 시사한다.",
+    "slide": 46,
+    "id": "vibrio-50"
+  },
+  {
+    "type": "ox",
+    "q": "Vibrio 속 세균은 일반적으로 그람음성의 쉼표 모양 막대균이다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "exp": "Vibrio는 그람음성의 굽은 막대균이다.",
+    "slide": 6,
+    "id": "vibrio-51"
+  },
+  {
+    "type": "ox",
+    "q": "Vibrio 속 세균은 주로 따뜻한 해수와 기수 환경에서 발견된다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "exp": "따뜻한 바닷물, 기수와 해산물에 흔히 연관된다.",
+    "slide": 9,
+    "id": "vibrio-52"
+  },
+  {
+    "type": "ox",
+    "q": "Vibrio는 절대혐기성 세균이므로 산소가 있으면 증식하지 못한다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 1,
+    "exp": "Vibrio는 통성혐기성이다.",
+    "slide": 6,
+    "id": "vibrio-53"
+  },
+  {
+    "type": "ox",
+    "q": "Vibrio cholerae, V. parahaemolyticus, V. vulnificus는 강의에서 강조한 주요 병원성 Vibrio이다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "exp": "세 종이 대표적인 인체 병원성 Vibrio로 제시되었다.",
+    "slide": 6,
+    "id": "vibrio-54"
+  },
+  {
+    "type": "ox",
+    "q": "비콜레라 Vibrio는 주로 공기매개로 사람 사이에 전파된다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 1,
+    "exp": "주로 해산물 섭취 또는 오염된 물에 직접 노출되어 감염된다.",
+    "slide": 10,
+    "id": "vibrio-55"
+  },
+  {
+    "type": "ox",
+    "q": "Vibrio cholerae는 오염된 물이나 음식에 의한 분변-경구 경로로 전파된다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "exp": "콜레라의 대표 전파 경로이다.",
+    "slide": 13,
+    "id": "vibrio-56"
+  },
+  {
+    "type": "ox",
+    "q": "Vibrio cholerae의 혈청군은 주로 LPS의 O항원에 따라 구분한다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "exp": "O항원 기준으로 200개 이상의 혈청군이 있다.",
+    "slide": 13,
+    "id": "vibrio-57"
+  },
+  {
+    "type": "ox",
+    "q": "Vibrio cholerae O1은 Classical과 El Tor 생물형으로 구분된다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "exp": "O1의 두 주요 생물형이다.",
+    "slide": 13,
+    "id": "vibrio-58"
+  },
+  {
+    "type": "ox",
+    "q": "El Tor형은 Classical형보다 일반적으로 증상이 더 심하고 감염력은 낮다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 1,
+    "exp": "강의에서는 El Tor가 감염력은 높고 증상은 비교적 경미하다고 설명한다.",
+    "slide": 13,
+    "id": "vibrio-59"
+  },
+  {
+    "type": "ox",
+    "q": "콜레라에서 직접적인 사망 원인은 주로 심한 탈수와 저혈량성 쇼크이다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "exp": "대량 설사에 따른 탈수가 핵심 위험이다.",
+    "slide": 14,
+    "id": "vibrio-60"
+  },
+  {
+    "type": "ox",
+    "q": "콜레라독소는 A 1개와 B 5개로 이루어진 AB5 독소이다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "exp": "총 6개 소단위의 AB5 구조이다.",
+    "slide": 15,
+    "id": "vibrio-61"
+  },
+  {
+    "type": "ox",
+    "q": "콜레라독소는 adenylate cyclase를 억제하여 세포 내 cAMP를 감소시킨다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 1,
+    "exp": "adenylate cyclase를 활성화하여 cAMP를 증가시킨다.",
+    "slide": 15,
+    "id": "vibrio-62"
+  },
+  {
+    "type": "ox",
+    "q": "콜레라독소에 의한 cAMP 증가는 장관 내 Cl−와 수분 분비를 증가시킨다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "exp": "전해질과 물의 장관 내 소실을 유발한다.",
+    "slide": 15,
+    "id": "vibrio-63"
+  },
+  {
+    "type": "ox",
+    "q": "TCP는 Vibrio cholerae가 장상피에 정착하는 데 중요한 인자이다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "exp": "TCP는 toxin-coregulated pilus로 장 정착에 필수적이다.",
+    "slide": 16,
+    "id": "vibrio-64"
+  },
+  {
+    "type": "ox",
+    "q": "ToxR와 ToxT는 콜레라의 병원성 유전자 발현을 조절한다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "exp": "콜레라독소와 TCP 발현을 활성화한다.",
+    "slide": 16,
+    "id": "vibrio-65"
+  },
+  {
+    "type": "ox",
+    "q": "전형적인 콜레라는 고열과 심한 복통이 반드시 동반된다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 1,
+    "exp": "전형적인 콜레라에서는 발열과 복통이 두드러지지 않는다.",
+    "slide": 19,
+    "id": "vibrio-66"
+  },
+  {
+    "type": "ox",
+    "q": "콜레라는 시간당 약 1 L에 이를 수 있는 쌀뜨물 같은 설사를 일으킬 수 있다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "exp": "심한 경우 매우 많은 양의 수양성 설사가 나타난다.",
+    "slide": 19,
+    "id": "vibrio-67"
+  },
+  {
+    "type": "ox",
+    "q": "콜레라의 심한 설사는 저칼륨혈증, 대사성 산증, 무뇨와 신부전을 유발할 수 있다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "exp": "전해질과 중탄산염 소실 및 탈수로 이러한 합병증이 생긴다.",
+    "slide": 19,
+    "id": "vibrio-68"
+  },
+  {
+    "type": "ox",
+    "q": "TCBS agar는 Vibrio 선택배지로 사용된다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "exp": "Vibrio 분리와 감별에 사용하는 대표 배지이다.",
+    "slide": 20,
+    "id": "vibrio-69"
+  },
+  {
+    "type": "ox",
+    "q": "Vibrio cholerae는 TCBS agar에서 sucrose를 발효하여 녹색 집락을 만든다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 1,
+    "exp": "V. cholerae는 노란색 집락을 만든다.",
+    "slide": 20,
+    "id": "vibrio-70"
+  },
+  {
+    "type": "ox",
+    "q": "Vibrio parahaemolyticus와 V. vulnificus는 TCBS agar에서 녹색 집락을 형성한다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "exp": "두 균은 sucrose 비발효성으로 녹색 집락을 보인다.",
+    "slide": 20,
+    "id": "vibrio-71"
+  },
+  {
+    "type": "ox",
+    "q": "콜레라 치료에서 항생제보다 우선되는 핵심은 수분과 전해질 보충이다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "exp": "재수화 치료가 생명을 구하는 가장 중요한 처치이다.",
+    "slide": 21,
+    "id": "vibrio-72"
+  },
+  {
+    "type": "ox",
+    "q": "적절한 재수화 치료를 하면 콜레라 사망률은 1% 미만으로 낮아질 수 있다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "exp": "강의에서 치료 시 사망률을 1% 미만으로 제시한다.",
+    "slide": 21,
+    "id": "vibrio-73"
+  },
+  {
+    "type": "ox",
+    "q": "콜레라 예방 백신은 존재하지 않는다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 1,
+    "exp": "콜레라 백신이 사용 가능하다.",
+    "slide": 21,
+    "id": "vibrio-74"
+  },
+  {
+    "type": "ox",
+    "q": "소아 콜레라에서 아연 보충은 설사의 기간과 중증도를 줄이는 데 도움이 될 수 있다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "exp": "아연 보충의 이점이 제시되었다.",
+    "slide": 21,
+    "id": "vibrio-75"
+  },
+  {
+    "type": "ox",
+    "q": "Vibrio parahaemolyticus의 Tdh는 열안정성 직접 용혈소이다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "exp": "Tdh는 thermostable direct hemolysin이다.",
+    "slide": 23,
+    "id": "vibrio-76"
+  },
+  {
+    "type": "ox",
+    "q": "Vibrio parahaemolyticus는 Wagatsuma agar에서 용혈을 보일 수 있다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "exp": "특수 혈액한천에서 β-용혈을 확인한다.",
+    "slide": 23,
+    "id": "vibrio-77"
+  },
+  {
+    "type": "ox",
+    "q": "Vibrio parahaemolyticus의 감염량은 강의에서 10^3–10^4 cells로 제시되었다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "exp": "비교적 낮은 감염량이 제시되었다.",
+    "slide": 23,
+    "id": "vibrio-78"
+  },
+  {
+    "type": "ox",
+    "q": "Vibrio parahaemolyticus 감염은 주로 겨울철 완전히 익힌 육류와 연관된다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 1,
+    "exp": "여름철 생어패류, 특히 조개류와 연관된다.",
+    "slide": 24,
+    "id": "vibrio-79"
+  },
+  {
+    "type": "ox",
+    "q": "Vibrio parahaemolyticus 장염은 때때로 혈성 설사를 일으킬 수 있다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "exp": "수양성 설사가 흔하지만 혈변도 가능하다.",
+    "slide": 27,
+    "id": "vibrio-80"
+  },
+  {
+    "type": "ox",
+    "q": "Vibrio parahaemolyticus 장염은 대부분 자연 호전되며 수분 보충이 기본 치료이다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "exp": "대부분 보존적 치료로 회복한다.",
+    "slide": 28,
+    "id": "vibrio-81"
+  },
+  {
+    "type": "ox",
+    "q": "Vibrio parahaemolyticus 예방에는 생어패류 섭취를 피하는 것이 중요하다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "exp": "충분히 가열하지 않은 해산물이 주요 위험요인이다.",
+    "slide": 28,
+    "id": "vibrio-82"
+  },
+  {
+    "type": "ox",
+    "q": "Vibrio vulnificus는 단순 장염만 유발하며 패혈증이나 상처 감염은 일으키지 않는다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 1,
+    "exp": "패혈증과 빠른 괴사성 상처 감염을 일으킬 수 있다.",
+    "slide": 30,
+    "id": "vibrio-83"
+  },
+  {
+    "type": "ox",
+    "q": "Vibrio vulnificus는 생굴 등 오염된 어패류 섭취로 감염될 수 있다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "exp": "경구 섭취는 원발성 패혈증의 중요한 경로이다.",
+    "slide": 30,
+    "id": "vibrio-84"
+  },
+  {
+    "type": "ox",
+    "q": "Vibrio vulnificus는 상처가 오염된 바닷물에 노출되어 감염될 수 있다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "exp": "해수 노출 상처를 통해 심한 감염이 발생할 수 있다.",
+    "slide": 30,
+    "id": "vibrio-85"
+  },
+  {
+    "type": "ox",
+    "q": "Vibrio vulnificus 감염 환자의 다수는 만성 간질환을 가지고 있다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "exp": "강의에서 80% 이상이 간질환과 연관된다고 제시한다.",
+    "slide": 31,
+    "id": "vibrio-86"
+  },
+  {
+    "type": "ox",
+    "q": "Vibrio vulnificus는 성장과 침습에 철이 필요하지 않다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 1,
+    "exp": "철은 이 균의 성장과 침습에 중요하다.",
+    "slide": 31,
+    "id": "vibrio-87"
+  },
+  {
+    "type": "ox",
+    "q": "Vibrio vulnificus의 siderophore는 철을 포획하는 역할을 한다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "exp": "고친화성 철 킬레이트 시스템이다.",
+    "slide": 31,
+    "id": "vibrio-88"
+  },
+  {
+    "type": "ox",
+    "q": "Vibrio vulnificus의 협막은 면역회피에 기여할 수 있다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "exp": "협막은 주요 병원성 인자 중 하나이다.",
+    "slide": 31,
+    "id": "vibrio-89"
+  },
+  {
+    "type": "ox",
+    "q": "당뇨와 면역저하는 Vibrio vulnificus 중증 감염의 위험요인이 될 수 있다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "exp": "간질환 외에도 당뇨, 암, 면역저하가 고위험군이다.",
+    "slide": 33,
+    "id": "vibrio-90"
+  },
+  {
+    "type": "ox",
+    "q": "Vibrio vulnificus 패혈증의 치명률은 약 50%로 매우 높다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "exp": "강의에서 약 50%의 치명률을 제시한다.",
+    "slide": 33,
+    "id": "vibrio-91"
+  },
+  {
+    "type": "ox",
+    "q": "Vibrio vulnificus 감염은 출혈성 수포와 피부 괴사를 동반할 수 있다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "exp": "빠른 수포와 괴사가 특징적이다.",
+    "slide": 35,
+    "id": "vibrio-92"
+  },
+  {
+    "type": "ox",
+    "q": "Vibrio vulnificus 상처 감염은 수시간 내 빠르게 진행할 수 있다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "exp": "잠복기가 짧고 급속히 악화될 수 있다.",
+    "slide": 35,
+    "id": "vibrio-93"
+  },
+  {
+    "type": "ox",
+    "q": "Bacteremia는 감염에 의한 장기부전이 반드시 동반된 상태를 뜻한다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 1,
+    "exp": "Bacteremia는 단순히 혈액에 세균이 존재하는 상태이다.",
+    "slide": 35,
+    "id": "vibrio-94"
+  },
+  {
+    "type": "ox",
+    "q": "Sepsis는 감염으로 인해 전신 염증과 조직 손상, 장기부전이 발생하는 상태이다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "exp": "중증 감염 반응을 의미한다.",
+    "slide": 35,
+    "id": "vibrio-95"
+  },
+  {
+    "type": "ox",
+    "q": "Vibrio vulnificus는 TCBS agar에서 노란색 집락을 형성한다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 1,
+    "exp": "V. vulnificus는 녹색 집락을 형성한다.",
+    "slide": 40,
+    "id": "vibrio-96"
+  },
+  {
+    "type": "ox",
+    "q": "Vibrio vulnificus 중증 감염에서는 3세대 cephalosporin과 doxycycline을 사용할 수 있다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "exp": "강의에서 대표 치료로 제시된다.",
+    "slide": 40,
+    "id": "vibrio-97"
+  },
+  {
+    "type": "ox",
+    "q": "Vibrio vulnificus의 괴사성 상처 감염에서는 괴사 조직 제거가 필요할 수 있다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "exp": "항생제와 함께 외과적 debridement가 중요하다.",
+    "slide": 40,
+    "id": "vibrio-98"
+  },
+  {
+    "type": "ox",
+    "q": "해수면 온도 상승은 향후 Vibrio 감염 증가에 기여할 수 있다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "exp": "온난화와 따뜻한 바닷물은 Vibrio 확산을 촉진할 수 있다.",
+    "slide": 34,
+    "id": "vibrio-99"
+  },
+  {
+    "type": "ox",
+    "q": "바닷물 노출 직후 출혈성 수포와 괴사가 생긴 환자에서는 Vibrio vulnificus를 우선 고려한다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "exp": "전형적인 급속 진행성 상처 감염 양상이다.",
+    "slide": 46,
+    "id": "vibrio-100"
+  }
+]
