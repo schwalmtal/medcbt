@@ -1,0 +1,332 @@
+[
+  {
+    "id": "diagnostic_medicine-001",
+    "type": "mc",
+    "slide": 2,
+    "q": "검사실에서 임상 검체를 접수한 뒤 시행할 수 있는 기본 세균 검출 과정으로 옳은 것은?",
+    "options": [
+      "직접 도말·검경 및 염색 또는 배지 배양",
+      "영상검사만 시행",
+      "항생제 투여 후 문진",
+      "혈청학적 검사만 시행"
+    ],
+    "answer": 0,
+    "exp": "슬라이드 2에서는 임상 검체 접수 후 직접 도말·검경 및 염색을 하거나 배지 배양으로 진행하는 과정을 제시한다."
+  },
+  {
+    "id": "diagnostic_medicine-002",
+    "type": "ox",
+    "slide": 2,
+    "q": "배지에서 자란 집락(colony)은 다시 도말하여 검경 및 염색한 뒤 균주 동정과 항균제감수성 검사를 시행할 수 있다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "exp": "슬라이드 2의 검사 흐름은 배지 배양 후 colony 도말·검경 및 염색, 균주 동정, 항균제감수성 검사로 이어진다."
+  },
+  {
+    "id": "diagnostic_medicine-003",
+    "type": "mc",
+    "slide": 3,
+    "q": "Lecture 48의 학습목표에 포함되지 않는 것은?",
+    "options": [
+      "혈액 배양 술기 및 결과 해석",
+      "호흡기 배양 술기 및 결과 해석",
+      "요로생식기 배양 술기 및 결과 해석",
+      "항바이러스제의 분자구조 설계"
+    ],
+    "answer": 3,
+    "exp": "학습목표는 혈액·호흡기·요로생식기·소화기·중추신경계·피부 및 연부조직/창상 배양의 술기와 결과 해석이다."
+  },
+  {
+    "id": "diagnostic_medicine-004",
+    "type": "ox",
+    "slide": 3,
+    "q": "Lecture 48의 학습목표에는 중추신경계 배양 술기와 결과 해석이 포함된다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "exp": "슬라이드 3의 다섯 번째 학습목표이다."
+  },
+  {
+    "id": "diagnostic_medicine-005",
+    "type": "mc",
+    "slide": 4,
+    "q": "혈액배양 검체는 언제 채취하는 것이 가장 적절한가?",
+    "options": [
+      "항생제 투여 전에 즉시",
+      "항생제 투여 24시간 후",
+      "열이 내린 뒤",
+      "퇴원 직전"
+    ],
+    "answer": 0,
+    "exp": "열, 저체온, 백혈구증가증, 과립백혈구감소증 확인 시 즉시, 항생제 투여 전에 채취한다."
+  },
+  {
+    "id": "diagnostic_medicine-006",
+    "type": "mc",
+    "slide": 4,
+    "q": "성인의 혈액배양 1회 채혈량으로 제시된 범위는?",
+    "options": [
+      "1~5 mL",
+      "5~10 mL",
+      "10~20 mL",
+      "30~50 mL"
+    ],
+    "answer": 2,
+    "exp": "성인은 1회 10~20 mL를 채혈한다."
+  },
+  {
+    "id": "diagnostic_medicine-007",
+    "type": "mc",
+    "slide": 4,
+    "q": "소아 혈액배양의 1회 채혈량으로 제시된 범위는?",
+    "options": [
+      "1~5 mL",
+      "10~20 mL",
+      "20~30 mL",
+      "50 mL"
+    ],
+    "answer": 0,
+    "exp": "소아는 1회 1~5 mL이며 총 혈액량의 1% 미만으로 제시된다."
+  },
+  {
+    "id": "diagnostic_medicine-008",
+    "type": "ox",
+    "slide": 4,
+    "q": "혈액배양은 서로 다른 부위에서 2~3회 채혈하는 것이 원칙이다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "exp": "슬라이드 4에서 서로 다른 부위에서 2~3회 채혈하도록 제시한다."
+  },
+  {
+    "id": "diagnostic_medicine-009",
+    "type": "mc",
+    "slide": 5,
+    "q": "혈액배양을 위해 피부 소독 후 해야 하는 조치로 옳은 것은?",
+    "options": [
+      "즉시 천자한다",
+      "마를 때까지 약 1분 기다린다",
+      "물로 다시 씻는다",
+      "연고를 바른다"
+    ],
+    "answer": 1,
+    "exp": "70% 알코올, iodine tincture, 포타딘 또는 chlorhexidine으로 닦고 마를 때까지 약 1분 기다린다."
+  },
+  {
+    "id": "diagnostic_medicine-010",
+    "type": "ox",
+    "slide": 5,
+    "q": "혈액배양용 혈액은 산소성 및 무산소성 혈액배양병에 나누어 분주한다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "exp": "성인은 각 병에 약 10 mL씩 분주하도록 제시한다."
+  },
+  {
+    "id": "diagnostic_medicine-011",
+    "type": "mc",
+    "slide": 5,
+    "q": "성인 혈액배양에서 산소성·무산소성 배양병 각각에 분주하는 양으로 제시된 것은?",
+    "options": [
+      "각 1 mL",
+      "각 5 mL",
+      "각 10 mL",
+      "각 20 mL"
+    ],
+    "answer": 2,
+    "exp": "슬라이드 5에서는 산소성과 무산소성 혈액배양병에 각각 10 mL씩 분주한다고 설명한다."
+  },
+  {
+    "id": "diagnostic_medicine-012",
+    "type": "ox",
+    "slide": 5,
+    "q": "혈액배양은 보통 5~7일간 배양한다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "exp": "슬라이드 5에 5~7일간 배양한다고 제시되어 있다."
+  },
+  {
+    "id": "diagnostic_medicine-013",
+    "type": "mc",
+    "slide": 6,
+    "q": "혈액배양 양성 시 검사실에서 시행하는 과정으로 옳은 것은?",
+    "options": [
+      "그람염색 및 계대배양",
+      "PAS 염색만",
+      "전자현미경만",
+      "소변 정량배양"
+    ],
+    "answer": 0,
+    "exp": "혈액배양병에서 증균한 뒤 그람염색 및 계대배양을 시행한다."
+  },
+  {
+    "id": "diagnostic_medicine-014",
+    "type": "ox",
+    "slide": 6,
+    "q": "혈액배양병에서 증균한다는 것은 미생물 수를 늘리는 과정이다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "exp": "슬라이드 6의 주석에서 증균배양을 '수를 늘림'으로 설명한다."
+  },
+  {
+    "id": "diagnostic_medicine-015",
+    "type": "mc",
+    "slide": 7,
+    "q": "서로 다른 부위에서 채취한 혈액배양에서 같은 균종이 반복 분리된 경우 가장 적절한 해석은?",
+    "options": [
+      "True bacteremia",
+      "Contamination",
+      "Normal flora only",
+      "검사 오류"
+    ],
+    "answer": 0,
+    "exp": "같은 균종의 반복 분리는 true bacteremia로 해석한다."
+  },
+  {
+    "id": "diagnostic_medicine-016",
+    "type": "mc",
+    "slide": 7,
+    "q": "혈액배양에서 서로 다른 균종이 각각 분리된 경우 가장 적절한 해석은?",
+    "options": [
+      "Contamination",
+      "True bacteremia",
+      "Endocarditis 확진",
+      "CLABSI 확진"
+    ],
+    "answer": 0,
+    "exp": "서로 다른 균종 분리는 오염 가능성을 시사한다."
+  },
+  {
+    "id": "diagnostic_medicine-017",
+    "type": "ox",
+    "slide": 7,
+    "q": "피부 정상균무리가 한 번만 혈액배양에서 분리되면 오염 가능성을 우선 고려한다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "exp": "슬라이드 7에서 피부정상균무리 한 번 분리는 contamination으로 제시한다."
+  },
+  {
+    "id": "diagnostic_medicine-018",
+    "type": "ox",
+    "slide": 7,
+    "q": "카테터가 있는 환자에서 피부정상균무리가 반복 분리되면 유의한 균혈증일 수 있다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "exp": "피부정상균무리 반복 분리와 catheterization이 함께 있으면 significant bacteremia로 제시한다."
+  },
+  {
+    "id": "diagnostic_medicine-019",
+    "type": "mc",
+    "slide": 7,
+    "q": "혈액배양에서 Viridans streptococci 또는 enterococci가 분리되었을 때 연관성을 고려해야 하는 질환은?",
+    "options": [
+      "Endocarditis",
+      "Otitis externa",
+      "Cystitis only",
+      "Gastroenteritis"
+    ],
+    "answer": 0,
+    "exp": "이 균들이 분리되면 심내막염을 고려하도록 제시한다."
+  },
+  {
+    "id": "diagnostic_medicine-020",
+    "type": "ox",
+    "slide": 7,
+    "q": "혈액배양에서 E. coli와 같은 그람음성 막대균이 1회 분리되어도 유의한 균혈증으로 해석할 수 있다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "exp": "슬라이드 7에서 1회 그람음성 막대균(E. coli) 분리를 significant bacteremia로 제시한다."
+  },
+  {
+    "id": "diagnostic_medicine-021",
+    "type": "mc",
+    "slide": 8,
+    "q": "CLABSI 진단을 위해 카테터 tip에 시행하는 반정량 배양법은?",
+    "options": [
+      "Maki법",
+      "Nugent법",
+      "Kirby-Bauer법",
+      "Ziehl-Neelsen법"
+    ],
+    "answer": 0,
+    "exp": "중심정맥관 제거 후 tip에 Maki 반정량 배양을 시행한다."
+  },
+  {
+    "id": "diagnostic_medicine-022",
+    "type": "mc",
+    "slide": 8,
+    "q": "CLABSI 진단 기준으로 제시된 카테터 tip 집락 수는?",
+    "options": [
+      "5 colony 이상",
+      "10 colony 이상",
+      "15 colony 이상",
+      "100 colony 이상"
+    ],
+    "answer": 2,
+    "exp": "말초혈액배양 양성과 함께 카테터 tip 배양에서 15 colony 이상이면 CLABSI로 진단한다."
+  },
+  {
+    "id": "diagnostic_medicine-023",
+    "type": "ox",
+    "slide": 8,
+    "q": "CLABSI 평가에서는 말초혈액배양 2쌍을 시행할 수 있다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "exp": "슬라이드 8에서 말초혈액배양 2쌍을 제시한다."
+  },
+  {
+    "id": "diagnostic_medicine-024",
+    "type": "mc",
+    "slide": 9,
+    "q": "세균성 인두염의 대표 원인균으로 제시된 것은?",
+    "options": [
+      "Group A beta-hemolytic streptococci(S. pyogenes)",
+      "E. coli",
+      "Bacteroides fragilis",
+      "Candida glabrata"
+    ],
+    "answer": 0,
+    "exp": "인후 세균감염의 대표 원인균으로 S. pyogenes가 제시된다."
+  },
+  {
+    "id": "diagnostic_medicine-025",
+    "type": "mc",
+    "slide": 9,
+    "q": "인후 배양 검체의 채취 부위로 제시된 곳은?",
+    "options": [
+      "Posterior pharyngeal wall",
+      "혀 앞부분",
+      "콧등 피부",
+      "외이도"
+    ],
+    "answer": 0,
+    "exp": "인후 검체는 posterior pharyngeal wall에서 채취한다."
+  }
+]
